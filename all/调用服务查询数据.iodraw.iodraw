@@ -47,7 +47,7 @@
             <mxPoint x="-3" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-20" value="数据处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-6">
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-20" value="业务处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-6">
           <mxGeometry x="240" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rf0h2ETwwNypyk3JmFf9-11" target="rf0h2ETwwNypyk3JmFf9-14">
