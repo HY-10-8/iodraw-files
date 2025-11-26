@@ -37,8 +37,8 @@
         <mxCell id="rf0h2ETwwNypyk3JmFf9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.317;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="rf0h2ETwwNypyk3JmFf9-6" source="rf0h2ETwwNypyk3JmFf9-14" target="rf0h2ETwwNypyk3JmFf9-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="280" />
-              <mxPoint x="438" y="280" />
+              <mxPoint x="490" y="260" />
+              <mxPoint x="438" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -49,7 +49,7 @@
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-23" value="读取所有结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-16">
           <mxGeometry x="-0.0395" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-20" value="接受数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-6">
