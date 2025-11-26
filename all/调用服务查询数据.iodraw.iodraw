@@ -42,14 +42,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-16">
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-22" value="读取所有结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-16">
           <mxGeometry x="0.0132" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-23" value="读取所有结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-16">
-          <mxGeometry x="-0.0395" y="4" relative="1" as="geometry">
-            <mxPoint y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-20" value="接受数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-6">
