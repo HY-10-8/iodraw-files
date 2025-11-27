@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rf0h2ETwwNypyk3JmFf9-6" value="服务端" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="160" width="800" height="360" as="geometry" />
+          <mxGeometry x="-160" y="160" width="840" height="360" as="geometry" />
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-28" value="业务处理" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-6">
           <mxGeometry x="200" y="40" width="360" height="280" as="geometry">
@@ -90,7 +90,7 @@
             <mxPoint x="20" y="389" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-38" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-26">
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-38" value="返回数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-26">
           <mxGeometry x="-0.0954" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
