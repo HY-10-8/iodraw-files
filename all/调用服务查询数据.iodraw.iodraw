@@ -70,11 +70,6 @@
             <mxPoint x="930" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-19" value="返回SQL结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-13">
-          <mxGeometry x="-0.15" relative="1" as="geometry">
-            <mxPoint x="-9" y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rf0h2ETwwNypyk3JmFf9-6" source="rf0h2ETwwNypyk3JmFf9-9" target="rf0h2ETwwNypyk3JmFf9-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
