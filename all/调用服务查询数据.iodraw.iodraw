@@ -58,6 +58,26 @@
         <mxCell id="rf0h2ETwwNypyk3JmFf9-32" value="接收数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-30">
           <mxGeometry x="40" y="159" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-45" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="rf0h2ETwwNypyk3JmFf9-30" source="rf0h2ETwwNypyk3JmFf9-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="200" as="sourcePoint" />
+            <mxPoint x="150" y="204" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="180" />
+              <mxPoint x="460" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-46" value="游标信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-45">
+          <mxGeometry x="-0.7187" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-47" value="下一行数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-45">
+          <mxGeometry x="0.6483" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="rf0h2ETwwNypyk3JmFf9-6" source="rf0h2ETwwNypyk3JmFf9-32" target="rf0h2ETwwNypyk3JmFf9-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="930" y="420" as="targetPoint" />
@@ -111,26 +131,6 @@
         <mxCell id="rf0h2ETwwNypyk3JmFf9-18" value="将SQL发送到数据库执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-12">
           <mxGeometry x="-0.0815" y="-1" relative="1" as="geometry">
             <mxPoint y="-21" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-45" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="400" as="sourcePoint" />
-            <mxPoint x="750" y="510" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="900" y="380" />
-              <mxPoint x="900" y="430" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-46" value="游标信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-45">
-          <mxGeometry x="-0.7187" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-47" value="下一行数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-45">
-          <mxGeometry x="0.6483" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
