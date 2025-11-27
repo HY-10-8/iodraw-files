@@ -9,7 +9,7 @@ sequenceDiagram
     数据库->>+数据库驱动: 返回数据/游标
     deactivate 数据库
 
-    数据库驱动->>数据库: q'q
+    数据库驱动->>数据库: 请求xia'yi'ha
     loop 
         服务器-->服务器: 
     end
