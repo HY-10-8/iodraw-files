@@ -17,12 +17,12 @@ sequenceDiagram
         数据库驱动->>服务器: 将数据读入内存
     end
 
+
+
+sequenceDiagram
     loop 异步
         数据库驱动->>数据库: 请求下一行数据
         数据库->>数据库驱动: 返回数据
         数据库驱动->>服务器: 将数据读入内存
     end
-
-
-sequenceDiagram
 ```
