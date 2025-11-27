@@ -20,7 +20,7 @@
           <mxGeometry x="40" y="79" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-28" value="业务处理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-6">
-          <mxGeometry x="200" y="40" width="360" height="280" as="geometry">
+          <mxGeometry x="194" y="40" width="360" height="280" as="geometry">
             <mxRectangle x="200" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-20" value="数据处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-28">
-          <mxGeometry x="50" y="159" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="159" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rf0h2ETwwNypyk3JmFf9-28" source="rf0h2ETwwNypyk3JmFf9-14" target="rf0h2ETwwNypyk3JmFf9-20">
           <mxGeometry relative="1" as="geometry" />
