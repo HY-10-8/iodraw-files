@@ -1,6 +1,6 @@
 ```mermaid
 sequenceDiagram
-    autonumber
+    
     服务器->>+数据库驱动: 执行sql
     数据库驱动->>数据库:执行sql
 
