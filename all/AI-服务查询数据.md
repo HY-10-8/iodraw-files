@@ -1,7 +1,6 @@
 ```mermaid
 sequenceDiagram
     autonumber
-    actor 客户端
     客户端->>+服务器: 发起请求?
     服务器->>服务器: 处理数据
     服务器->>-数据库: 执行sql
