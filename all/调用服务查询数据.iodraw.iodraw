@@ -139,8 +139,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-46" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-45">
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-46" value="游标信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-45">
           <mxGeometry x="-0.7187" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-47" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-45">
+          <mxGeometry x="0.6483" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
