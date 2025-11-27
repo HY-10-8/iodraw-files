@@ -9,14 +9,14 @@
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-29" value="发起请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-4">
           <mxGeometry x="-0.15" y="-1" relative="1" as="geometry">
-            <mxPoint x="6" y="-10" as="offset" />
+            <mxPoint x="-14" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-2" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-320" y="229" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-6" value="服务端" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="150" width="600" height="370" as="geometry" />
+          <mxGeometry x="-160" y="150" width="600" height="370" as="geometry" />
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="rf0h2ETwwNypyk3JmFf9-6" source="rf0h2ETwwNypyk3JmFf9-3" target="rf0h2ETwwNypyk3JmFf9-7">
           <mxGeometry relative="1" as="geometry" />
@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-11" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="349" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="349" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="rf0h2ETwwNypyk3JmFf9-9" target="rf0h2ETwwNypyk3JmFf9-11">
           <mxGeometry relative="1" as="geometry" />
