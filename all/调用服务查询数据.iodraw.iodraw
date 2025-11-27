@@ -49,7 +49,7 @@
         <mxCell id="rf0h2ETwwNypyk3JmFf9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="rf0h2ETwwNypyk3JmFf9-6" source="rf0h2ETwwNypyk3JmFf9-3" target="rf0h2ETwwNypyk3JmFf9-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-30" value="Oracle数据库驱动" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-6">
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-30" value="Oracle数据库驱动" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-6">
           <mxGeometry x="590" y="40" width="200" height="280" as="geometry" />
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-31" value="发送sql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-30">
