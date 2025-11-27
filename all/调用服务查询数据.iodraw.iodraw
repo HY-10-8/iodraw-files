@@ -74,9 +74,9 @@
         <mxCell id="rf0h2ETwwNypyk3JmFf9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rf0h2ETwwNypyk3JmFf9-11" target="rf0h2ETwwNypyk3JmFf9-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-37" value="返回sQL结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-33">
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-37" value="返回SQL结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-33">
           <mxGeometry x="-0.0187" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-11" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
