@@ -56,7 +56,7 @@
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-32" value="接收数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-30">
-          <mxGeometry x="40" y="119" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="159" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="rf0h2ETwwNypyk3JmFf9-6" source="rf0h2ETwwNypyk3JmFf9-32" target="rf0h2ETwwNypyk3JmFf9-14">
           <mxGeometry relative="1" as="geometry">
@@ -67,6 +67,9 @@
           <mxGeometry x="-0.15" relative="1" as="geometry">
             <mxPoint x="-9" y="-10" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rf0h2ETwwNypyk3JmFf9-11" target="rf0h2ETwwNypyk3JmFf9-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-11" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="910" y="359" width="120" height="60" as="geometry" />
