@@ -12,7 +12,7 @@
             <mxRectangle x="200" y="40" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-14" value="接受数据" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-28">
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-14" value="接收数据" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-28">
           <mxGeometry x="200" y="159" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.317;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="rf0h2ETwwNypyk3JmFf9-28" source="rf0h2ETwwNypyk3JmFf9-14" target="rf0h2ETwwNypyk3JmFf9-14">
@@ -92,7 +92,7 @@
         <mxCell id="rf0h2ETwwNypyk3JmFf9-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-30">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-30">
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-32" value="接收数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-30">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
