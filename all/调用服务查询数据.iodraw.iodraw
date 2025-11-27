@@ -52,7 +52,7 @@
         <mxCell id="rf0h2ETwwNypyk3JmFf9-30" value="Oracle数据库驱动" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-6">
           <mxGeometry x="590" y="40" width="200" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-30">
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-31" value="发送sql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-30">
           <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-32" value="接收数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rf0h2ETwwNypyk3JmFf9-30">
