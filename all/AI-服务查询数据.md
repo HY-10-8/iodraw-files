@@ -2,6 +2,7 @@
 sequenceDiagram
     autonumber
     服务器->>+数据库驱动: 执行sql
+    数据库驱动->>shu'ju'k
 
     activate 数据库
     数据库->>数据库: 执行sql
