@@ -18,7 +18,6 @@ sequenceDiagram
     end
 
 
-sequenceDiagram
     服务器->>+数据库驱动: 执行sql
     数据库驱动->>数据库:执行sql
 
@@ -32,4 +31,5 @@ sequenceDiagram
         数据库->>数据库驱动: 返回数据
         数据库驱动->>服务器: 将数据读入内存
     end
+
 ```
