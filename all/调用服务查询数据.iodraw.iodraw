@@ -130,7 +130,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-49" value="游标信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-48">
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-49" value="读下一行数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-48">
           <mxGeometry x="-0.7187" y="-2" relative="1" as="geometry">
             <mxPoint x="57" as="offset" />
           </mxGeometry>
