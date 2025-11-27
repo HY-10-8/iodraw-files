@@ -68,14 +68,6 @@
             <mxPoint x="-9" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rf0h2ETwwNypyk3JmFf9-6" source="rf0h2ETwwNypyk3JmFf9-9" target="rf0h2ETwwNypyk3JmFf9-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-18" value="将SQL发送到数据库执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-12">
-          <mxGeometry x="-0.0815" y="-1" relative="1" as="geometry">
-            <mxPoint y="-11" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rf0h2ETwwNypyk3JmFf9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rf0h2ETwwNypyk3JmFf9-11" target="rf0h2ETwwNypyk3JmFf9-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -101,6 +93,14 @@
         <mxCell id="rf0h2ETwwNypyk3JmFf9-29" value="发起请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-4">
           <mxGeometry x="-0.15" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rf0h2ETwwNypyk3JmFf9-9" target="rf0h2ETwwNypyk3JmFf9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-18" value="将SQL发送到数据库执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="rf0h2ETwwNypyk3JmFf9-12">
+          <mxGeometry x="-0.0815" y="-1" relative="1" as="geometry">
+            <mxPoint y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
