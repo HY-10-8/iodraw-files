@@ -86,7 +86,7 @@
             <mxPoint x="6" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rf0h2ETwwNypyk3JmFf9-30" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rf0h2ETwwNypyk3JmFf9-30" value="Oracle数据库驱动" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="560" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
