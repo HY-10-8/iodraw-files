@@ -182,6 +182,9 @@
         <mxCell id="tBQqAiill-UctlSw1v1d-59" value="应用代码" style="whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-57">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tBQqAiill-UctlSw1v1d-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2960" y="1600" width="880" height="320" as="geometry" />
+        </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-58" value="正式环境镜像" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3520" y="1640" width="200" height="200" as="geometry" />
         </mxCell>
@@ -190,9 +193,6 @@
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-62" value="应用代码" style="whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-58">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2960" y="1600" width="890" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
