@@ -293,8 +293,11 @@
             <mxPoint x="4330" y="1678" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tBQqAiill-UctlSw1v1d-101" value="应用服务A（容器）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4099" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBQqAiill-UctlSw1v1d-102" value="应用服务A（容器）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4350" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
