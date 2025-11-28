@@ -185,6 +185,12 @@
         <mxCell id="tBQqAiill-UctlSw1v1d-58" value="正式环境镜像" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1680" width="200" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="tBQqAiill-UctlSw1v1d-61" value="配置文件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBQqAiill-UctlSw1v1d-62" value="应用代码" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1730" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
