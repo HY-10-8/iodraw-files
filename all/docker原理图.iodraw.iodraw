@@ -249,7 +249,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-101" value="应用服务A（容器）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-119">
-          <mxGeometry x="159" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tBQqAiill-UctlSw1v1d-119" source="tBQqAiill-UctlSw1v1d-102" target="tBQqAiill-UctlSw1v1d-108">
           <mxGeometry relative="1" as="geometry" />
@@ -261,7 +261,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-107" value="可写层" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-119">
-          <mxGeometry x="160" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="157" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tBQqAiill-UctlSw1v1d-119" source="tBQqAiill-UctlSw1v1d-108" target="tBQqAiill-UctlSw1v1d-95">
           <mxGeometry relative="1" as="geometry" />
