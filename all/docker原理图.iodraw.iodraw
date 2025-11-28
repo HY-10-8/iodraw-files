@@ -296,7 +296,7 @@
         <mxCell id="tBQqAiill-UctlSw1v1d-101" value="应用服务A（容器）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4086" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tBQqAiill-UctlSw1v1d-102" target="tBQqAiill-UctlSw1v1d-95">
+        <mxCell id="tBQqAiill-UctlSw1v1d-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tBQqAiill-UctlSw1v1d-102" target="tBQqAiill-UctlSw1v1d-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-102" value="应用服务B（容器）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -305,7 +305,7 @@
         <mxCell id="tBQqAiill-UctlSw1v1d-107" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="4089" y="1410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tBQqAiill-UctlSw1v1d-108" target="tBQqAiill-UctlSw1v1d-108">
+        <mxCell id="tBQqAiill-UctlSw1v1d-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tBQqAiill-UctlSw1v1d-108" target="tBQqAiill-UctlSw1v1d-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-108" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
