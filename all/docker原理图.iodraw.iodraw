@@ -204,10 +204,10 @@
           <mxGeometry x="2960" y="1440" width="840" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-68" value="容器（开发环境）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3080" y="1390" width="120" height="60" as="geometry" />
+          <mxGeometry x="3080" y="1470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-69" value="容器（正式环境）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3560" y="1390" width="120" height="60" as="geometry" />
+          <mxGeometry x="3560" y="1470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
