@@ -171,7 +171,7 @@
           <mxGeometry x="1530" y="1010" width="1199" height="1215" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-54" value="基础镜像" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3280" y="1960" width="200" height="200" as="geometry" />
+          <mxGeometry x="3280" y="1880" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-55" value="Linux 基础环境" style="whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-54">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
