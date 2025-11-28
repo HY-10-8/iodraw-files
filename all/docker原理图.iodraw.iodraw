@@ -191,6 +191,9 @@
         <mxCell id="tBQqAiill-UctlSw1v1d-62" value="应用代码" style="whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-58">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tBQqAiill-UctlSw1v1d-65" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="1260" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
