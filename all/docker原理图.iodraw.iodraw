@@ -239,6 +239,18 @@
         <mxCell id="tBQqAiill-UctlSw1v1d-85" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="4110" y="1594" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tBQqAiill-UctlSw1v1d-86" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="4127" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBQqAiill-UctlSw1v1d-87" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="4110" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBQqAiill-UctlSw1v1d-88" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4060" y="1700" as="sourcePoint" />
+            <mxPoint x="4110" y="1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
