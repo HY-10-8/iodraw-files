@@ -198,7 +198,7 @@
           <mxGeometry x="-3" y="1" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-91" value="" style="group" vertex="1" connectable="0" parent="tBQqAiill-UctlSw1v1d-119">
-          <mxGeometry x="253" y="370" width="140" height="100" as="geometry" />
+          <mxGeometry x="250" y="370" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-79" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-91">
           <mxGeometry y="40" width="120" height="60" as="geometry" />
@@ -249,13 +249,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-101" value="应用服务A（容器）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-119">
-          <mxGeometry x="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="157" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tBQqAiill-UctlSw1v1d-119" source="tBQqAiill-UctlSw1v1d-102" target="tBQqAiill-UctlSw1v1d-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-102" value="应用服务B（容器）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-119">
-          <mxGeometry x="423" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tBQqAiill-UctlSw1v1d-119" source="tBQqAiill-UctlSw1v1d-107" target="tBQqAiill-UctlSw1v1d-87">
           <mxGeometry relative="1" as="geometry" />
@@ -267,7 +267,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-108" value="可写层" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-119">
-          <mxGeometry x="423" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-118" value="只读层" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-119">
           <mxGeometry y="220" width="690" height="330" as="geometry" />
