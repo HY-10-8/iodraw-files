@@ -236,23 +236,26 @@
         <mxCell id="tBQqAiill-UctlSw1v1d-84" value="基础镜像" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4057" y="1810" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-85" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="4110" y="1594" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-86" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="4127" y="1580" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-87" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="4110" y="1570" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-88" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4060" y="1704" as="sourcePoint" />
             <mxPoint x="4110" y="1654" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-89" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3975" y="1698" width="50" height="30" as="geometry" />
+        <mxCell id="tBQqAiill-UctlSw1v1d-89" value="应用服务镜像" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3980" y="1700" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tBQqAiill-UctlSw1v1d-90" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="4110" y="1570" width="137" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="tBQqAiill-UctlSw1v1d-85" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-90">
+          <mxGeometry y="24" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBQqAiill-UctlSw1v1d-86" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-90">
+          <mxGeometry x="17" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBQqAiill-UctlSw1v1d-87" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-90">
+          <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
