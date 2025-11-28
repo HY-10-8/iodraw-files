@@ -156,10 +156,10 @@
           <mxGeometry x="1207" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-51" value="测试程序A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1008" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-52" value="测试程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1262.5" y="1360" width="120" height="60" as="geometry" />
+        <mxCell id="tBQqAiill-UctlSw1v1d-52" value="测试程序B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1207" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
