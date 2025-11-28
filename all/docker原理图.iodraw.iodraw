@@ -317,8 +317,8 @@
         <mxCell id="tBQqAiill-UctlSw1v1d-108" value="可写层" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="4350" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-118" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3920" y="1900" width="200" height="200" as="geometry" />
+        <mxCell id="tBQqAiill-UctlSw1v1d-118" value="只读层" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3927" y="1517.5" width="693" height="332.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
