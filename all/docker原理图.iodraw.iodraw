@@ -149,6 +149,12 @@
         <mxCell id="tBQqAiill-UctlSw1v1d-48" value="系统层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tBQqAiill-UctlSw1v1d-49" value=".net runtime（运行时）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1059" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBQqAiill-UctlSw1v1d-50" value=".net runtime（运行时）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
