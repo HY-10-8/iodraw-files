@@ -131,17 +131,17 @@
         <mxCell id="tBQqAiill-UctlSw1v1d-38" value="已最简单的,net项目为例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="75" y="1208" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-39" value="系统层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="392" y="1440" width="120" height="60" as="geometry" />
+        <mxCell id="tBQqAiill-UctlSw1v1d-42" value="镜像" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1310" width="200" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-40" value=".net runtime（运行时）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="392" y="1370" width="120" height="60" as="geometry" />
+        <mxCell id="tBQqAiill-UctlSw1v1d-39" value="系统层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-42">
+          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-41" value="测试程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="392" y="1300" width="120" height="60" as="geometry" />
+        <mxCell id="tBQqAiill-UctlSw1v1d-40" value=".net runtime（运行时）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-42">
+          <mxGeometry x="40" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-42" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1310" width="200" height="200" as="geometry" />
+        <mxCell id="tBQqAiill-UctlSw1v1d-41" value="测试程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-42">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
