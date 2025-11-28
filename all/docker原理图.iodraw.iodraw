@@ -128,8 +128,8 @@
         <mxCell id="tBQqAiill-UctlSw1v1d-35" value="UnionFS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-32">
           <mxGeometry x="40" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-38" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="125" y="1208" width="50" height="30" as="geometry" />
+        <mxCell id="tBQqAiill-UctlSw1v1d-38" value="已最简单的,net项目为例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1208" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
