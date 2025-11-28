@@ -215,6 +215,9 @@
         <mxCell id="tBQqAiill-UctlSw1v1d-69" value="容器（正式环境）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-78">
           <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tBQqAiill-UctlSw1v1d-79" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="4180" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
