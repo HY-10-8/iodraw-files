@@ -119,8 +119,8 @@
         <mxCell id="tBQqAiill-UctlSw1v1d-27" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="493" y="440" width="566" height="379" as="geometry" />
         </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-28" value="Cgroups" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1084" y="106" width="117" height="49" as="geometry" />
+        <mxCell id="tBQqAiill-UctlSw1v1d-29" value="docker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
