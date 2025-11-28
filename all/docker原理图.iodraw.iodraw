@@ -176,14 +176,14 @@
         <mxCell id="tBQqAiill-UctlSw1v1d-57" value="开发环境镜像" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="1680" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-60" value="开发配置" style="whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-57">
+        <mxCell id="tBQqAiill-UctlSw1v1d-60" value="配置文件" style="whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-57">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBQqAiill-UctlSw1v1d-59" value="应用代码" style="whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-57">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-58" value="正式环境镜像" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1680" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="tBQqAiill-UctlSw1v1d-59" value="应用代码" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
