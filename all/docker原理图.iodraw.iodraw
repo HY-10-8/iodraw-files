@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tBQqAiill-UctlSw1v1d-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3000" y="1600" width="800" height="520" as="geometry" />
+          <mxGeometry x="3000" y="1600" width="760" height="520" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-1" value="RunC" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="735" y="80" width="199" height="259" as="geometry" />
@@ -207,13 +207,13 @@
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-78" value="容器" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2960" y="1440" width="840" height="120" as="geometry" />
+          <mxGeometry x="3040" y="1440" width="680" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-68" value="容器（开发环境）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-78">
-          <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tBQqAiill-UctlSw1v1d-69" value="容器（正式环境）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tBQqAiill-UctlSw1v1d-78">
-          <mxGeometry x="600" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
