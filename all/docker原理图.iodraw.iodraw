@@ -325,8 +325,16 @@
             <mxPoint x="4260" y="2280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GfiY1F8NPBV9ykogmlN_-4" value="请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GfiY1F8NPBV9ykogmlN_-3">
+          <mxGeometry x="-0.2433" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GfiY1F8NPBV9ykogmlN_-2" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4200" y="2165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GfiY1F8NPBV9ykogmlN_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4200" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
