@@ -376,6 +376,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GfiY1F8NPBV9ykogmlN_-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GfiY1F8NPBV9ykogmlN_-13" target="GfiY1F8NPBV9ykogmlN_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GfiY1F8NPBV9ykogmlN_-13" value="申请新的线程，执行后续业务" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4200" y="2560" width="120" height="60" as="geometry" />
         </mxCell>
@@ -391,6 +394,9 @@
           <mxGeometry x="-0.0133" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GfiY1F8NPBV9ykogmlN_-20" value="返回结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4200" y="2700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
