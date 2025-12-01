@@ -346,7 +346,7 @@
         <mxCell id="GfiY1F8NPBV9ykogmlN_-2" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4200" y="2165" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GfiY1F8NPBV9ykogmlN_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GfiY1F8NPBV9ykogmlN_-5" value="接收到请求时，申请线程执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4200" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
