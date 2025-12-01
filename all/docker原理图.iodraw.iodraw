@@ -317,8 +317,8 @@
         <mxCell id="tBQqAiill-UctlSw1v1d-121" value="Namepace、Cgroup、UnionFS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="930" y="520" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GfiY1F8NPBV9ykogmlN_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3927" y="2270" width="120" height="60" as="geometry" />
+        <mxCell id="GfiY1F8NPBV9ykogmlN_-1" value="线程池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3927" y="2270" width="120" height="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
