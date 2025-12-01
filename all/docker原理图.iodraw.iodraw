@@ -317,10 +317,13 @@
         <mxCell id="tBQqAiill-UctlSw1v1d-121" value="Namepace、Cgroup、UnionFS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="930" y="520" width="190" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GfiY1F8NPBV9ykogmlN_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GfiY1F8NPBV9ykogmlN_-1" target="GfiY1F8NPBV9ykogmlN_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GfiY1F8NPBV9ykogmlN_-1" value="线程池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3927" y="2270" width="120" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="GfiY1F8NPBV9ykogmlN_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GfiY1F8NPBV9ykogmlN_-2">
+        <mxCell id="GfiY1F8NPBV9ykogmlN_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GfiY1F8NPBV9ykogmlN_-2" target="GfiY1F8NPBV9ykogmlN_-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4260" y="2280" as="targetPoint" />
           </mxGeometry>
