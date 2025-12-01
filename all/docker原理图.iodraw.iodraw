@@ -368,7 +368,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GfiY1F8NPBV9ykogmlN_-13" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GfiY1F8NPBV9ykogmlN_-13" value="申请新的线程，执行后续业务" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4200" y="2560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GfiY1F8NPBV9ykogmlN_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="GfiY1F8NPBV9ykogmlN_-9" target="GfiY1F8NPBV9ykogmlN_-9">
