@@ -320,7 +320,12 @@
         <mxCell id="GfiY1F8NPBV9ykogmlN_-1" value="线程池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3927" y="2270" width="120" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="GfiY1F8NPBV9ykogmlN_-2" value="客户端请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GfiY1F8NPBV9ykogmlN_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GfiY1F8NPBV9ykogmlN_-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4260" y="2280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfiY1F8NPBV9ykogmlN_-2" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4200" y="2165" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
