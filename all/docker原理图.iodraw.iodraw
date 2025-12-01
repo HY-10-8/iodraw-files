@@ -330,6 +330,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GfiY1F8NPBV9ykogmlN_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GfiY1F8NPBV9ykogmlN_-1" target="GfiY1F8NPBV9ykogmlN_-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4090" y="2590" />
+              <mxPoint x="4090" y="2590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GfiY1F8NPBV9ykogmlN_-1" value="线程池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3927" y="2200" width="120" height="480" as="geometry" />
         </mxCell>
