@@ -355,6 +355,14 @@
         <mxCell id="GfiY1F8NPBV9ykogmlN_-9" value="异步操作" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4200" y="2420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GfiY1F8NPBV9ykogmlN_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.025;entryY=0.36;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GfiY1F8NPBV9ykogmlN_-9" target="GfiY1F8NPBV9ykogmlN_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GfiY1F8NPBV9ykogmlN_-12" value="释放线程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GfiY1F8NPBV9ykogmlN_-11">
+          <mxGeometry x="-0.0667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
