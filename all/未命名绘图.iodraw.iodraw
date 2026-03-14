@@ -7,7 +7,7 @@
         <mxCell id="z6zO4SCbGtEkWfnNW0ZZ-1" value="Agent内部流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="511" height="525" as="geometry" />
         </mxCell>
-        <mxCell id="z6zO4SCbGtEkWfnNW0ZZ-2" value="运行服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="z6zO4SCbGtEkWfnNW0ZZ-2" value="1、运行服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="630" y="63" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z6zO4SCbGtEkWfnNW0ZZ-3" value="通过opencode命令打开Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
