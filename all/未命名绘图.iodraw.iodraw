@@ -16,6 +16,9 @@
         <mxCell id="z6zO4SCbGtEkWfnNW0ZZ-4" value="传递提示词、解决方案目录、模型等参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="566" y="322" width="252" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="z6zO4SCbGtEkWfnNW0ZZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z6zO4SCbGtEkWfnNW0ZZ-5" target="z6zO4SCbGtEkWfnNW0ZZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z6zO4SCbGtEkWfnNW0ZZ-5" value="Agent运行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="625" y="471" width="134" height="49" as="geometry" />
         </mxCell>
