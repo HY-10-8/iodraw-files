@@ -10,7 +10,7 @@
         <mxCell id="z6zO4SCbGtEkWfnNW0ZZ-2" value="1、运行服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="630" y="63" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="z6zO4SCbGtEkWfnNW0ZZ-3" value="通过opencode命令打开Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="z6zO4SCbGtEkWfnNW0ZZ-3" value="2、通过opencode命令打开Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="566" y="188" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="z6zO4SCbGtEkWfnNW0ZZ-4" value="传递提示词、解决方案目录、模型等参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
