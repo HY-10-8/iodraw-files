@@ -52,7 +52,7 @@ sequenceDiagram
         C->>CA: OCSP / CRL 查询(可选)
         CA-->>C: 吊销状态结果
         C->>C: 用证书公钥验证 ServerKeyExchange 签名
-        Note over C: 结论:<br1. 对方持有证书对应私钥\n2. 握手参数未被篡改\n3. 目标域名身份成立
+        Note over C: 结论:<br/>1. 对方持有证书对应私钥\n2. 握手参数未被篡改\3. 目标域名身份成立
     end
 
     rect rgb(250, 240, 245)
