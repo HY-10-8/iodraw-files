@@ -17,7 +17,7 @@ sequenceDiagram
 
     S->>C: {EncryptedExtensions}
     Note left of S: 加密扩展（如ALPN确认）
-    Note left of C: 通过证书链
+    Note left of C: 通过会话密钥解密
 
     S->>C: {Certificate}
     Note left of S: 服务器证书链（加密）
