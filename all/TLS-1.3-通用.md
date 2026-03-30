@@ -20,7 +20,7 @@ sequenceDiagram
 
     S->>C: {Certificate}
     Note left of S: 服务器证书链（加密）
-    Note
+    Note left of C: 
 
     S->>C: {CertificateVerify}
     Note left of S: 对握手历史的签名（加密）
