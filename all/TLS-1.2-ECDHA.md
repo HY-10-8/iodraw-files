@@ -17,7 +17,7 @@ sequenceDiagram
     S->>C: Certificate
     Note left of S: 返回：服务器证书链（含证书公钥）
     Note over C,S: 作用：让客户端验证服务器身份
-    Note left of C: jiexi
+    Note left of C: 通过证书链j
 
     S->>C: ServerKeyExchange
     Note left of S: 返回：<br/>1. 椭圆曲线参数<br/>2. 服务器临时公钥 B<br/>3. 用证书私钥对参数和 B 做的签名
