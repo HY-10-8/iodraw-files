@@ -30,7 +30,7 @@ sequenceDiagram
 
     S->>C: {Finished}
     Note left of S: 握手完成验证
-    Note left of C: 
+    Note left of C: s'gu'ti'b'g
 
     C->>S: {Finished}
     Note right of C: 客户端验证后发送
