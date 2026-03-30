@@ -11,7 +11,7 @@ sequenceDiagram
 
     S->>C: ServerHello
     Note left of S: 选定版本1.3, server_random（SR）,<br/> 选定密码套件, 临时公钥B
-    N
+    Note left of C: 
 
     Note over C,S: 双方计算出握手密钥
 
