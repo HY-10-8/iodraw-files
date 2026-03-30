@@ -11,9 +11,9 @@ sequenceDiagram
 
     S->>C: ServerHello
     Note left of S: 选定版本1.3, server_random（SR）,<br/> 选定密码套件, 临时公钥B
-    Note left of C: 1.计算共同秘密：a * B<br/> 2.用 S + C + server_random 生成 master_secret<br/> 3.派生会话密钥（master_secret）
+    Note left of C: 1.计算共同秘密：a * B<br/> 2.用 S + CR + SR 生成 master_secret<br/> 3.派生会话密钥（master_secret）
 
-    Note over C,S: 双方计算出握手密钥
+    Note over C,S: 双方派生c会话密钥
 
     S->>C: {EncryptedExtensions}
     Note left of S: 加密扩展（如ALPN确认）
