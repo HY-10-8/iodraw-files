@@ -16,9 +16,9 @@ sequenceDiagram
     Note over C,S: 双方派生出会话密钥
     Note over C,S: 后续对话都是加密信息了，需要使用会话密钥进行解密
 
-    S->>C: {EncryptedExtensions}
+    S->>C: {EncryptedExtensions} kuo'zhan
     Note left of S: 加密扩展（如ALPN确认）
-    Note left of C: 解密得到明文扩展（如 ALPN 确认、记录大小限制等）。<br/>检查扩展内容是否与 ClientHello 中发送的扩展一致（例如 ALPN 协议是否在列表中）。<br/>若不匹配或存在非法扩展，则中止握手
+    Note left of C: 解密得到明文扩展（如 ALPN 确认、记录大小限制等）。<br/>检查扩展内容是否与 ClientHello 中发送的扩展一致（例如 ALPN 协议是否在列表中）。<br/> 若不匹配或存在非法扩展，则中止握手
 
     S->>C: {Certificate}
     Note left of S: 服务器证书链（加密）
