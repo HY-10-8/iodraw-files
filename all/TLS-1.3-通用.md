@@ -6,6 +6,7 @@ sequenceDiagram
     Note over C,S: 双方已共享一个 PSK（例如来自之前会话）
 
     C->>S: ClientHello
+    Note left of C: 1. 生成随机数 CR<br/> 2. 支持的 TLS 版本（最高为 1.3）<br/> 3. 支持的密码套件列表（1.3 格式）<br/> 4. 扩展（SNI、ALPN、key_share、psk 等）<br/> 5. 生成一个临时私钥a、临时公钥A
     Note left of C: 版本=1.3, client_random,<br/> 密码套件列表, key_share(公钥A),<br/> pre_shared_key(PSK标识)
 
     S->>C: ServerHello
