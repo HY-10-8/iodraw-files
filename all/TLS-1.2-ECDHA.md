@@ -6,7 +6,7 @@ sequenceDiagram
     Note over C,S: TCP 连接已建立，开始 TLS 1.2 握手（以 ECDHE_RSA 为例）
 
     C->>S: ClientHello
-    Note left of C: 1.生成随机数<br/> 2.获取目前客户端支持的TLS版本<br/> 3.获取目前客户端支持的密码套件<br/> 
+    Note left of C: 1.生成随机数<br/> 2.获取目前客户端支持的TLS版本<br/> 3.获取目前客户端支持的密码套件
     Note right of C: 发送：<br/>1. 支持的 TLS 版本<br/>2. client_random<br/>3. 支持的密码套件列表<br/>4. 扩展（SNI / ALPN 等）
     Note over C,S: 作用：告诉服务器“我支持什么”，并提供客户端随机数
 
@@ -17,6 +17,7 @@ sequenceDiagram
     S->>C: Certificate
     Note left of S: 返回：服务器证书链（含证书公钥）
     Note over C,S: 作用：让客户端验证服务器身份
+    Note 
 
     S->>C: ServerKeyExchange
     Note left of S: 返回：<br/>1. 椭圆曲线参数<br/>2. 服务器临时公钥 B<br/>3. 用证书私钥对参数和 B 做的签名
