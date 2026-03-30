@@ -1,5 +1,4 @@
 ```mermaid
-
 sequenceDiagram
     autonumber
     participant C as Client / Browser
@@ -133,5 +132,4 @@ sequenceDiagram
         S-->>C: ACK / FIN
         C->>S: ACK
     end
-
 ```
