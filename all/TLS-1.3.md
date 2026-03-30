@@ -14,7 +14,7 @@ sequenceDiagram
     Note left of C: 1.计算共同秘密：a * B<br/> 2.用 S + client_random + server_random 生成 master_secret<br/> 3.派生会话密钥（master_secret）
     Note over C,S: 双方此时已计算出共享秘密 S：<br/> 客户端：a × B<br/> 服务器：b × A<br/> 进而派生出握手密钥（master_secret）
 
-    S->>C: {EncryptedExtensions}
+    S->>C: {EncryptedExtensions}可选
     Note left of S: 加密扩展：<br/> 如 ALPN 确认、其他应用层扩展
     Note over C,S: 使用刚派生的握手密钥加密，<br/> 保证扩展内容不被中间人篡改
 
