@@ -11,7 +11,7 @@ sequenceDiagram
 
     S->>C: ServerHello
     Note left of S: 返回：<br/> 1. 选定的 TLS 版本（1.3）<br/> 2. server_random（SR）<br/> 3. 选定的密码套件<br/> 4. 服务器临时公钥 B
-    Note left of C: 1.计算共同秘密：
+    Note left of C: 1.计算共同秘密：a * B<
     Note over C,S: 双方此时已计算出共享秘密 S：<br/> 客户端：a × B<br/> 服务器：b × A<br/> 进而派生出握手密钥（Handshake Secret）
 
     S->>C: {EncryptedExtensions}
