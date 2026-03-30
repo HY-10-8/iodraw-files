@@ -34,7 +34,7 @@ sequenceDiagram
     Note left of C: 通过PRF计算 master_secret + "client finished" + 会话历史的hash，得到verify_data
 
     C->>S: {Finished}
-    Note right of C: 客户端验证后将v'e'rift发送
+    Note right of C: 客户端验证后发送verify_data
 
     C->>S: {Application Data}
     S->>C: {Application Data}
