@@ -22,7 +22,7 @@ sequenceDiagram
 
     S->>C: {Certificate}
     Note left of S: 服务器证书链（加密）
-    Note left of C: yan'z
+    Note left of C: 验证证书链，确保服务器的身份合法，且是该域名的合法持有者
 
     S->>C: {CertificateVerify}
     Note left of S: 对握手历史的签名（加密）
