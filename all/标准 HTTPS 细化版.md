@@ -38,5 +38,4 @@ sequenceDiagram
 
     C->>S: Encrypted HTTP Request
     S-->>C: Encrypted HTTP Response
-
 ```
