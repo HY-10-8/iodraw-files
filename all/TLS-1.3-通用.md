@@ -26,7 +26,7 @@ sequenceDiagram
 
     S->>C: {CertificateVerify}
     Note left of S: 对握手历史的签名（加密）
-    Note left of C: 使用证书公钥进行yan
+    Note left of C: 使用证书公钥进行验签，保证服务器d
 
     S->>C: {Finished}
     Note left of S: 握手完成验证
