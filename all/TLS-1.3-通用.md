@@ -18,7 +18,7 @@ sequenceDiagram
 
     S->>C: {EncryptedExtensions}
     Note left of S: 加密扩展（如ALPN确认）
-    Note left of C: 通过会话密钥解密使用握手密钥解密该消息，得到明文扩展（如 ALPN 确认、记录大小限制等）。
+    Note left of C: 通过会话密钥解密该消息，得到明文扩展（如 ALPN 确认、记录大小限制等）。<br
 
     S->>C: {Certificate}
     Note left of S: 服务器证书链（加密）
