@@ -46,7 +46,7 @@ sequenceDiagram
     Note left of S: 表示：服务器后续也开始加密
 
     S->>C: Finished
-    Note left of C: 通过PRF计算 master_secret + “client finished” + 会话历史的hash，得到verify_data
+    Note left of C: 通过PRF计算 master_secret + “client finished” + 会话历史的hash，判断fu'wu，得到verify_data
     Note left of S: 用新密钥加密的握手摘要
     Note over C,S: 作用：证明服务器也算出了相同密钥
 
