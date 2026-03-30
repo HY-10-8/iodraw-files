@@ -14,11 +14,11 @@ sequenceDiagram
     Note left of C: 1.计算共同秘密：a * B<br/> 2.用 S + CR + SR 生成 master_secret<br/> 3.派生会话密钥（master_secret）
 
     Note over C,S: 双方派生出会话密钥
-    Note over C,S: 后续对话都是加密
+    Note over C,S: 后续对话都是加密信息了
 
     S->>C: {EncryptedExtensions}
     Note left of S: 加密扩展（如ALPN确认）
-    Note left of C: 通过会话密钥解密
+    Note left of C: 通过会话密钥解密使用握手密钥解密该消息，得到明文扩展（如 ALPN 确认、记录大小限制等）。
 
     S->>C: {Certificate}
     Note left of S: 服务器证书链（加密）
