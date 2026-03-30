@@ -26,7 +26,7 @@ sequenceDiagram
 
     S->>C: {CertificateVerify}
     Note left of S: 对握手历史的签名（加密）
-    N
+    Note left of C: shi
 
     S->>C: {Finished}
     Note left of S: 握手完成验证
