@@ -6,12 +6,12 @@ sequenceDiagram
     Note over C,S: TCP 连接已建立，开始 TLS 1.2 握手（以 ECDHE_RSA 为例）
 
     C->>S: ClientHello
-    Note left of C: 1.生成随机数<br/> 2.获取目前客户端支持的TLS版本<br/> 3.获取目前客户端支持的密码套件
+    Note left of C: 1.生成随机数CR<br/> 2.获取目前客户端支持的TLS版本<br/> 3.获取目前客户端支持的密码套件<br/> 4.ALPN（Http版本）、ASN（目标域名）
     Note right of C: 发送：<br/>1. 支持的 TLS 版本<br/>2. client_random<br/>3. 支持的密码套件列表<br/>4. 扩展（SNI / ALPN 等）
     Note over C,S: 作用：告诉服务器“我支持什么”，并提供客户端随机数
 
     S->>C: ServerHello
-    Note left of S: 返回：<br/>1. 选定的 TLS 版本<br/>2. server_random<br/>3. 选定的密码套件<br/>4. session id
+    Note left of S: 返回：<br/>1. 选定的 TLS 版本<br/>2. server_random（SR）<br/>3. 选定的密码套件<br/>4. session id
     Note over C,S: 作用：确定本次连接的协议版本和加密方案
 
     S->>C: Certificate
@@ -28,12 +28,14 @@ sequenceDiagram
     Note over C,S: 作用：通知客户端轮到你继续了
 
     C->>S: ClientKeyExchange
+    Note left of C: 1.通过证书公钥验签，确认传输数据没有被修改<br/> 2.生成客户端临时私钥a（随机整数），根据椭圆曲线参数生成客户端临时公钥A<br/> 3.根据客户端私钥、服务端公钥、CR、SR生成出会话密钥
     Note right of C: 发送：客户端临时公钥 A
     Note over C,S: 双方各自计算共享秘密 S：<br/>客户端：a × B<br/>服务器：b × A
 
-    Note over C,S: 双方再用 S + client_random + server_random 生成 master_secret，再派生会话密钥
+    Note over C,S: 双方再用 S + client_random + server_random 生成 master_secret，再派生会话密钥（master_secret）
 
     C->>S: ChangeCipherSpec
+    Note left of C: 将计算出来的 master_secret + “client finished” + 会话历史的hash进行PRF计算，得到verify_data
     Note right of C: 表示：客户端后续开始用协商好的对称密钥加密
 
     C->>S: Finished
