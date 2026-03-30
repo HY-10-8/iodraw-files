@@ -39,6 +39,7 @@ sequenceDiagram
     Note right of C: 表示：客户端后续开始用协商好的对称密钥加密
 
     C->>S: Finished
+    Note o'f
     Note right of C: 用新密钥加密的握手摘要
     Note over C,S: 作用：证明客户端算出的密钥正确，且前面握手未被篡改
 
