@@ -30,7 +30,7 @@ sequenceDiagram
 
     S->>C: {Finished}
     Note left of S: 握手完成验证
-    Note left of C: 通过PRF计算 master_secret + “client finished” + 会话历史的hash，与收到的值进行对比
+    Note left of C: 通过PRF计算 master_secret + “server finished” + 会话历史的hash，与收到的值进行对比
 
     C->>S: {Finished}
     Note right of C: 客户端验证后发送
