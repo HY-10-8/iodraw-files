@@ -33,6 +33,7 @@ sequenceDiagram
 
     S->>C: {CertificateVerify}
     Note left of S: 对握手历史的签名
+    Note left of S: 对握手历史的签名
     Note left of C: 使用证书公钥进行验签，保证服务器对证书的所有权
 
     S->>C: {Finished}
