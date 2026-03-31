@@ -10,7 +10,7 @@ sequenceDiagram
     Note right of C: 版本=1.3,<br/> 随机数CR,<br/> 密码套件列表,<br/> 临时公钥A,<br/> SNI<br/> ALPN等
 
     S->>C: ServerHello
-    Note left of S: 选定版本1.3, server_random（SR）,<br/> 选定密码套件, 临时公钥B
+    Note left of S: 选定版本1.3, server_random（SR）,<br/> 选定密码套件, M<临时公钥B
     Note left of C: 1.计算共同秘密：S = a * B<br/> 2.用 S + CR + SR 生成 master_secret<br/> 3.派生会话密钥（master_secret）
 
     Note over C,S: 双方派生出会话密钥
