@@ -20,11 +20,11 @@ sequenceDiagram
     Note left of S: 加密扩展（如ALPN确认）
     Note left of C: 解密得到明文扩展（如 ALPN 确认、记录大小限制等）。<br/>检查扩展内容是否与 ClientHello 中发送的扩展一致（例如 ALPN 协议是否在列表中）。<br/> 若不匹配或存在非法扩展，则中止握手
 
-    S->>C: {Certificate}（可选）
+    S->>C: {Certificate}
     Note left of S: 服务器证书链（加密）
     Note left of C: 验证证书链，确保服务器的身份合法，且是该域名的合法持有者
 
-    S->>C: {CertificateVerify}（可选）
+    S->>C: {CertificateVerify}
     Note left of S: 对握手历史的签名（加密）
     Note left of C: 使用证书公钥进行验签，保证服务器对证书的所有权
 
