@@ -7,7 +7,7 @@ sequenceDiagram
 
     C->>S: ClientHello
     Note left of C: 1. 生成随机数 CR<br/> 2. 生成一个临时私钥a、临时公钥A<br/>
-    Note right of C: TLS版本,<br/> 随机数CR,<br/> 密码套件列表,<br/> 临时公钥A,<br/> SNI， ALPN等
+    Note right of C: 支持的TLS版本,<br/> 随机数CR,<br/> 密码套件列表,<br/> 临时公钥A,<br/> SNI， ALPN等
 
     S->>C: ServerHello
     Note left of S: 确定TLS版本, <br/>随机数（SR）,<br/> 选定密码套件, <br/>临时公钥B
@@ -25,7 +25,7 @@ sequenceDiagram
     Note left of C: 验证证书链，确保服务器的身份合法，且是该域名的合法持有者
 
     S->>C: {CertificateVerify}
-    Note left of S: zheng'shu对握手历史的签名
+    Note left of S: 证书私钥对握手历史的签名
     Note left of C: 使用证书公钥进行验签，保证服务器对证书的所有权
 
     S->>C: {Finished}
