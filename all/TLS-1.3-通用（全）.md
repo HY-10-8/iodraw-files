@@ -17,7 +17,7 @@ sequenceDiagram
     Note right of C: 重新发送ClientHello
 
     S->>C: ServerHello
-    Note right of S: 生成随机数
+    Note right of S: 生成随机数<br/> 生成临时
     Note left of S: 确定TLS版本, <br/>随机数（SR）,<br/> 选定密码套件, <br/>临时公钥B
     Note left of C: 1.计算共同秘密：S = a * B<br/> 2.用 S + CR + SR 派生会话密钥（master_secret）
 
