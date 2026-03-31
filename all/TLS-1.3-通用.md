@@ -36,6 +36,6 @@ sequenceDiagram
     C->>S: {Finished}
     Note right of C: 客户端验证后发送verify_data给服务端验证
 
-    C->>S: Application Data
+    C->>S: 应用数据加密传输
     Note over C,S: 应用数据加密传输
 ```
