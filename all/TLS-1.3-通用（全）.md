@@ -10,6 +10,7 @@ sequenceDiagram
     Note right of C: TLS版本,<br/> 随机数CR,<br/> 密码套件列表,<br/> 临时公钥A,<br/> SNI， ALPN等
 
     S->>C: HelloRetryRequest (可能)
+    Note lef
 
     S->>C: ServerHello
     Note left of S: 确定TLS版本, <br/>随机数（SR）,<br/> 选定密码套件, <br/>临时公钥B
