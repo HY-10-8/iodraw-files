@@ -14,7 +14,7 @@ sequenceDiagram
 
     C->>S: ClientHello
     Note left of C: 1. 生成随机数 CR<br/> 2. 生成一个临时私钥a、临时公钥A<br/>
-    Note right of C: 重新发
+    Note right of C: 重新发送ClientHe
 
     S->>C: ServerHello
     Note left of S: 确定TLS版本, <br/>随机数（SR）,<br/> 选定密码套件, <br/>临时公钥B
