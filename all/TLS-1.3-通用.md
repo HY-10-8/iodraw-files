@@ -11,7 +11,7 @@ sequenceDiagram
 
     S->>C: ServerHello
     Note left of S: 确定TLS版本, <br/>随机数（SR）,<br/> 选定密码套件, <br/>临时公钥B
-    Note left of C: 1.计算共同秘密：S = a * B<br/> 2.用 S + CR + SR 派生会话密钥（master_secret）
+    Note left of C: 1.计算共同秘密：S = a * B<br/> 2.用 S + CR + SR 派生出 会话密钥（master_secret）
 
     Note over C,S: 双方派生出会话密钥
     Note over C,S: 后续对话都是加密信息了，需要使用会话密钥进行解密
