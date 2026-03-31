@@ -24,7 +24,7 @@ sequenceDiagram
     Note left of S: 服务器证书链
     Note left of C: 验证证书链，确保服务器的身份合法，且是该域名的合法持有者
 
-    S->>C: CertificateVerify-证书
+    S->>C: CertificateVerify-验证
     Note left of S: 证书私钥对握手历史的签名
     Note left of C: 使用证书公钥进行验签，保证服务器对证书的所有权
 
