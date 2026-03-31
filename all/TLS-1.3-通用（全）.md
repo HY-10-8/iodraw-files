@@ -13,7 +13,7 @@ sequenceDiagram
     Note left of S: 通知客户端重新生成并使用正确的算法
 
     C->>S: ClientHello
-    Note right of C: 根据xie'di
+    Note right of C: 根据协定的算法重新生成临时公钥fa's
 
     S->>C: ServerHello
     Note left of S: 确定TLS版本, <br/>随机数（SR）,<br/> 选定密码套件, <br/>临时公钥B
