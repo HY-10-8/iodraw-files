@@ -28,7 +28,7 @@ sequenceDiagram
     Note left of S: 证书私钥对握手历史的签名
     Note left of C: 使用证书公钥进行验签，保证服务器对证书的所有权
 
-    S->>C: Finished-
+    S->>C: Finished
     Note left of S: 握手完成验证
     Note left of C: 通过PRF计算 master_secret + "server finished" + 会话历史的hash，与收到的值进行对比
     Note left of C: 通过PRF计算 master_secret + "client finished" + 会话历史的hash，得到verify_data
