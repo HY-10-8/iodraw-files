@@ -7,7 +7,7 @@ sequenceDiagram
 
     C->>S: ClientHello
     Note left of C: 1. 生成随机数 CR<br/> 2. 生成一个临时私钥a、临时公钥A
-    Note right of C: 支持的TLS版本,<br/> 随机数CR,<br/> 密码套件列表,<br/> 临时公钥A,<br/> SNI， ALPN等
+    Note right of C: 支持的TLS版本,<br/> 随机数CR,<br/> 密码套件列表,<br/> 临时公钥A,<br/> SNI（目标yu'm）， ALPN等
 
     S->>C: ServerHello
     Note left of S: 确定TLS版本, <br/>随机数（SR）,<br/> 选定密码套件, <br/>临时公钥B
