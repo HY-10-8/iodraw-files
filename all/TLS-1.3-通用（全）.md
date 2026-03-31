@@ -13,7 +13,8 @@ sequenceDiagram
     Note left of S: 通知客户端重新生成并使用正确的算法
 
     C->>S: ClientHello
-    Note right of C: 根据协定的算法重新生成临时公钥发送给服务器
+    Note left of C: 1. 生成随机数 CR<br/> 2. 生成一个临时私钥a、临时公钥A<br/>
+    Note right of C: 重新发
 
     S->>C: ServerHello
     Note left of S: 确定TLS版本, <br/>随机数（SR）,<br/> 选定密码套件, <br/>临时公钥B
