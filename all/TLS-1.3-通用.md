@@ -6,7 +6,7 @@ sequenceDiagram
     Note over C,S: TCP 已建立，开始 TLS 1.3 握手
 
     C->>S: ClientHello
-    Note left of C: 1. 生成随机数 CR<br/> 2. 生成一个临时私钥a、临时公钥A<br/> 5. 扩展（SNI、ALPN、psk 等）
+    Note left of C: 1. 生成随机数 CR<br/> 2. 生成一个临时私钥a、临时公钥A<br/>
     Note right of C: 版本=1.3,<br/> 随机数CR,<br/> 密码套件列表,<br/> 临时公钥A,<br/> SNI<br/> ALPN等
 
     S->>C: ServerHello
@@ -34,7 +34,7 @@ sequenceDiagram
     Note left of C: 通过PRF计算 master_secret + "client finished" + 会话历史的hash，得到verify_data
 
     C->>S: {Finished}
-    Note right of C: 客户端验证后发送verify_data
+    Note right of C: 客户端验证后发送verify_datagei
 
     C->>S: Application Data
     Note over C,S: 应用数据加密传输
