@@ -6,7 +6,7 @@ sequenceDiagram
     Note over C,S: TCP 已建立，开始 TLS 1.3 握手
 
     C->>S: ClientHello
-    Note left of C: 1. 生成随机数 CR<br/> 2. 生成一个临时私钥a、临时公钥A<br/>
+    Note left of C: 1. 生成随机数 CR<br/> 2. 生成一个临时私钥a、临时公钥A
     Note right of C: 支持的TLS版本,<br/> 随机数CR,<br/> 密码套件列表,<br/> 临时公钥A,<br/> SNI， ALPN等
 
     S->>C: ServerHello
