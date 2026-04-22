@@ -1,8 +1,11 @@
 ```mermaid
-graph TD
-    A[fa:fa-user Tom] -->|Get money| B(Go shopping)
-    B --> C{Select}
-    C -->|One| D[Laptop]
-    C -->|Two| E[iPhone]
-    C -->|Three| F[fa:fa-car Car]
+sequenceDiagram
+    autonumber
+
+    participant Spark
+    participant DSv2 as CustomHudi V2
+    participant Storage as Hadoop FileSystem
+
+    Spark->>DSv2: TableProvider.getTable(schema, partitioning, properties)
+    DSv2-->>Spark: 返回 CustomHudiTable
 ```
