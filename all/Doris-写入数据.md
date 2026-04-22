@@ -2,7 +2,7 @@
 sequenceDiagram
     autonumber
 
-    participant Spark
+    participant FE
     participant DSv2 as CustomHudi V2
     participant Storage as Hadoop FileSystem
 
