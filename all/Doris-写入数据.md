@@ -1,5 +1,4 @@
 ```mermaid
-```mermaid
 sequenceDiagram
     autonumber
 
@@ -29,5 +28,4 @@ sequenceDiagram
 
     BE-->>FE: 返回结果
 
-```
 ```
