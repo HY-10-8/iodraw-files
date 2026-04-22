@@ -3,9 +3,8 @@ sequenceDiagram
     autonumber
 
     participant FE
-    participant DSv2 as CustomHudi V2
-    participant Storage as Hadoop FileSystem
+    participant BE
 
-    Spark->>DSv2: TableProvider.getTable(schema, partitioning, properties)
+    F#->>DSv2: TableProvider.getTable(schema, partitioning, properties)
     DSv2-->>Spark: 返回 CustomHudiTable
 ```
