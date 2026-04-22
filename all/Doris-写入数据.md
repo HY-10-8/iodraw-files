@@ -5,6 +5,6 @@ sequenceDiagram
     participant FE
     participant BE
 
-    FE->>FE: 分析SQL
+    FE->>FE: FE 解析与语义分析
     FE-->>BE: 将
 ```
