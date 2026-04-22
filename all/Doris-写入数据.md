@@ -1,6 +1,6 @@
 ```mermaid
 sequenceDiagram
-    di
+    autonumber
 
     participant FE
     participant BE
