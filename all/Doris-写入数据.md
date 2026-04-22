@@ -6,5 +6,5 @@ sequenceDiagram
     participant BE
 
     FE->>FE: 分析SQL
-    FE-->>BE:  CustomHudiTable
+    FE-->>BE: 将
 ```
