@@ -7,5 +7,6 @@ sequenceDiagram
 
     FE->>FE: FE 解析与语义分析
     FE->>FE: FE 生成分布式执行计划
-    FE-->>BE: 将z
+    FE-->>BE: 将执行计划下发到BE
+    
 ```
