@@ -5,6 +5,6 @@ sequenceDiagram
     participant FE
     participant BE
 
-    F#->>DSv2: TableProvider.getTable(schema, partitioning, properties)
+    FE->>FE: fe
     DSv2-->>Spark: 返回 CustomHudiTable
 ```
