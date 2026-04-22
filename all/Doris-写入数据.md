@@ -5,6 +5,6 @@ sequenceDiagram
     participant FE
     participant BE
 
-    FE->>FE: fe
-    DSv2-->>Spark: 返回 CustomHudiTable
+    FE->>FE: 分析SQL
+    FE-->>Spark: 返回 CustomHudiTable
 ```
