@@ -1,6 +1,6 @@
 ```mermaid
 sequenceDiagram
-    autonumber
+    di
 
     participant FE
     participant BE
@@ -10,7 +10,7 @@ sequenceDiagram
     FE-->>BE: 将执行计划下发到BE
     BE->>BE: BE 第一阶段扫描
     BE->>BE: BE 第二阶段补列/取值
-    FE-->>FE: 返回结果
+    BE-->>FE: 返回结果
     
 
 ```
