@@ -1,31 +1,28 @@
 ```mermaid
+```mermaid
 sequenceDiagram
     autonumber
 
-    participant FE
-    participant BE
+    participant Client as Client/用户
+    participant FE as FE(Frontend)
+    participant BE as BE(Backend)
 
-    FE->>FE: FE 解析与语义分析
-    FE->>FE: FE 生成并优化分布式执行计划
-    FE-->>BE: 将执行计划下发到 BE
-
-    alt 传统列存路径
-        BE->>BE: 第一阶段扫描过滤列/定位列
-        BE->>BE: 分区裁剪、谓词下推、索引过滤
-        BE->>BE: 第二阶段补列/取值
-        BE->>BE: 表达式计算、聚合、Join、排序
-    else 引入行存后的路径
-        BE->>BE: 判断是否命中行存读取场景
-        alt 适合点查/少量行/宽表取整行
-            BE->>BE: 直接按行取值
-            BE->>BE: 减少补列与列拼装开销
-        else 适合大范围分析
-            BE->>BE: 仍优先走列存扫描
-            BE->>BE: 按需补列
-        end
-        BE->>BE: 表达式计算、聚合、Join、排序
-    end
-
-    BE-->>FE: 返回结果
+    Client->>FE: 提交 SQL
+    FE->>FE: 1. 词法/语法解析
+    FE->>FE: 2. 语义分析与权限校验
+    FE->>FE: 3. 元数据解析(库/表/分区/副本/统计信息)
+    FE->>FE: 4. 逻辑计划生成
+    FE->>FE: 5. 逻辑优化\n谓词下推/列裁剪/分区裁剪/Join重写
+    FE->>FE: 6. 物理计划生成
+    FE->>FE: 7. 生成分布式执行计划(Fragment/Instance)
+    FE->>BE: 下发执行计划到相关 BE
+    BE->>BE: 8. 打开执行器，准备 Scan/Expr/Agg/Join/Sort
+    BE->>BE: 9. 第一阶段扫描\n分区裁剪、Tablet选择、索引过滤、数据页扫描
+    BE->>BE: 10. 第二阶段取值/补列\n回表、表达式计算、过滤
+    BE->>BE: 11. 局部聚合/局部排序/局部Join
+    BE-->>BE: 12. BE 间数据交换\nShuffle/Broadcast/Gather
+    BE->>BE: 13. 全局聚合/最终排序/Limit
+    BE-->>FE: 返回结果数据或状态
+    FE-->>Client: 将结果返回给客户端
 
 ```
