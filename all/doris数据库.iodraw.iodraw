@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="dyZX2Vmw1ZUqRPwNS_Kc">
-    <mxGraphModel dx="5581" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="6033" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -966,7 +966,7 @@
           <mxGeometry x="-2960" y="4280" width="370" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-398" value="除了手动分区，还存在动态分区、自动分区&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;手动分区：创建表或修改表时显式创建&lt;/div&gt;&lt;div&gt;动态分区：Doris主动按规则创建、删除时间分区。&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="3750" width="330" height="60" as="geometry" />
+          <mxGeometry x="-520" y="3750" width="330" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
