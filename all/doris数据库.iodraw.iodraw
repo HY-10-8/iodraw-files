@@ -167,7 +167,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-73" value="对应不同磁盘的不同文件夹" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="1285" width="100" height="55" as="geometry" />
+          <mxGeometry x="-490" y="1277.5" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
