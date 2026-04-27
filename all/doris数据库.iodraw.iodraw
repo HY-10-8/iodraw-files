@@ -962,7 +962,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-396" value="&lt;div&gt;CREATE TABLE orders (&lt;/div&gt;&lt;div&gt;&amp;nbsp; order_id BIGINT,&lt;/div&gt;&lt;div&gt;&amp;nbsp; order_status VARCHAR(20),&lt;/div&gt;&lt;div&gt;&amp;nbsp; order_time DATETIME&lt;/div&gt;&lt;div&gt;)&lt;/div&gt;&lt;div&gt;PARTITION BY RANGE(order_time) (...)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;DISTRIBUTED BY HASH(order_id) BUCKETS 32;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-396" value="&lt;div&gt;CREATE TABLE orders (&lt;/div&gt;&lt;div&gt;&amp;nbsp; order_id BIGINT,&lt;/div&gt;&lt;div&gt;&amp;nbsp; order_status VARCHAR(20),&lt;/div&gt;&lt;div&gt;&amp;nbsp; order_time DATETIME&lt;/div&gt;&lt;div&gt;)&lt;/div&gt;&lt;div&gt;PARTITION BY RANGE(order_time) (...)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;DISTRIBUTED BY HASH(order_id) BUCKETS 32;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="-2960" y="4280" width="220" height="280" as="geometry" />
         </mxCell>
       </root>
