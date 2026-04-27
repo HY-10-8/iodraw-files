@@ -834,7 +834,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-376" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-374" source="Nz2Tu8nq5uW6-hyOi6lk-361" target="Nz2Tu8nq5uW6-hyOi6lk-367">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="480" />
+              <mxPoint x="770" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-361" value="根据分桶规则路由到对应的分片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-374">
           <mxGeometry x="550" y="380" width="120" height="60" as="geometry" />
@@ -855,7 +860,12 @@
           <mxGeometry x="390" y="535" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-359" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-374" source="Nz2Tu8nq5uW6-hyOi6lk-361" target="Nz2Tu8nq5uW6-hyOi6lk-365">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="480" />
+              <mxPoint x="450" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-360" value="hash运算等于0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nz2Tu8nq5uW6-hyOi6lk-359">
           <mxGeometry x="0.7778" relative="1" as="geometry">
