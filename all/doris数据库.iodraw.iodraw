@@ -273,7 +273,7 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-112" value="通过元数据、分区规则、分桶规则判断执行计划应该路由到哪一个分区、分片执行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-109">
           <mxGeometry x="80" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-114" value="下发执行计划到BE执行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-109">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-114" value="下发执行计划到BE执行" style="whiteSpace=wrap;html=1;rounded=2;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-109">
           <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-118" value="BE" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -321,10 +321,10 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118" source="Nz2Tu8nq5uW6-hyOi6lk-135" target="Nz2Tu8nq5uW6-hyOi6lk-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-135" value="将对应的segment文件拿到内存中进行合并生成新的sgment文件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-135" value="将对应的segment文件拿到内存中进行合并生成新的sgment文件" style="whiteSpace=wrap;html=1;rounded=2;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118">
           <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-137" value="删除原本的segment文件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-137" value="删除原本的segment文件" style="whiteSpace=wrap;html=1;rounded=2;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118">
           <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-114" target="Nz2Tu8nq5uW6-hyOi6lk-121">
