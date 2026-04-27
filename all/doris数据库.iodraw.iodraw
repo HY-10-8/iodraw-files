@@ -315,7 +315,7 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118" source="Nz2Tu8nq5uW6-hyOi6lk-133" target="Nz2Tu8nq5uW6-hyOi6lk-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-133" value="1、定期合并&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;当segment文件过多时触发合并&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-133" value="1、定期合并&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;当segment文件&lt;br&gt;过多时触发合并&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118">
           <mxGeometry x="260" y="130" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118" source="Nz2Tu8nq5uW6-hyOi6lk-135" target="Nz2Tu8nq5uW6-hyOi6lk-137">
