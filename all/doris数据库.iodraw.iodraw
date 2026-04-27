@@ -730,8 +730,8 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-332" value="BE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288">
           <mxGeometry x="520" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-333" value="Text" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288">
-          <mxGeometry x="70" y="250" width="60" height="30" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-333" value="执行计划的实际执行者" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288">
+          <mxGeometry x="70" y="250" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-292" value="通过RPC协议传输数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2180" y="4000" width="200" height="30" as="geometry" />
