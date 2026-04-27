@@ -377,16 +377,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-155" value="将对应的segment数据拿到内存中进行合并（数据更新、数据删除）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
-          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" source="Nz2Tu8nq5uW6-hyOi6lk-157" target="Nz2Tu8nq5uW6-hyOi6lk-158">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-157" value="将原本table里面的数据行转列、编码、压缩、落盘segment文件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-157" value="返回数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
           <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-158" value="生成元数据，追加到segment文件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
-          <mxGeometry x="40" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" target="Nz2Tu8nq5uW6-hyOi6lk-162">
           <mxGeometry relative="1" as="geometry">
