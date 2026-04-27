@@ -1008,6 +1008,11 @@
             <mxPoint x="-11" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-420" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nz2Tu8nq5uW6-hyOi6lk-414">
+          <mxGeometry x="-0.7621" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-399" value="数据分区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3350" y="5360" width="120" height="60" as="geometry" />
         </mxCell>
