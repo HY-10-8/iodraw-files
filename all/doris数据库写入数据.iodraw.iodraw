@@ -174,15 +174,6 @@
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-51" value="........." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-48">
           <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RUe3Gh5TBmt0SNSnNbjs-37" target="RUe3Gh5TBmt0SNSnNbjs-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1940" y="5640" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1760" y="5329" />
-              <mxPoint x="-1760" y="5329" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-53" value="&lt;div&gt;创建表的示例SQL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;CREATE TABLE 人员表 (&lt;/div&gt;&lt;div&gt;&amp;nbsp; ID INT,&lt;/div&gt;&lt;div&gt;&amp;nbsp; 姓名 VARCHAR(20),&lt;/div&gt;&lt;div&gt;&amp;nbsp; 入职日期 DATE&lt;/div&gt;&lt;div&gt;)&lt;/div&gt;&lt;div&gt;DUPLICATE KEY(ID)&lt;/div&gt;&lt;div&gt;PARTITION BY RANGE(入职日期) (&lt;/div&gt;&lt;div&gt;&amp;nbsp; PARTITION p202401 VALUES LESS THAN (&#39;2024-02-01&#39;),&lt;/div&gt;&lt;div&gt;&amp;nbsp; PARTITION p202402 VALUES LESS THAN (&#39;2024-03-01&#39;)&lt;/div&gt;&lt;div&gt;)&lt;/div&gt;&lt;div&gt;DISTRIBUTED BY HASH(ID) BUCKETS 3;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;根据 入职日期 进行分区&lt;/div&gt;&lt;div&gt;通过 ID 字段hash运算的结果进行分桶&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="-2980" y="4390" width="370" height="280" as="geometry" />
         </mxCell>
@@ -230,6 +221,12 @@
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RUe3Gh5TBmt0SNSnNbjs-57" target="RUe3Gh5TBmt0SNSnNbjs-60">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RUe3Gh5TBmt0SNSnNbjs-37" target="RUe3Gh5TBmt0SNSnNbjs-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-73" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-815" y="4258" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
