@@ -467,7 +467,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-201" value="找到对应的分片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1660" y="2481" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1640" y="2480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-203" target="Nz2Tu8nq5uW6-hyOi6lk-207">
           <mxGeometry relative="1" as="geometry" />
@@ -494,37 +494,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-203" value="根据分区规则路由到对应的分区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1660" y="2580" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1640" y="2579" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-207" value="分区1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1820" y="2700" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1800" y="2699" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-221" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-209" target="Nz2Tu8nq5uW6-hyOi6lk-220">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-209" value="分区2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1660" y="2700" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1640" y="2699" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-210" value="....." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1500" y="2700" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1480" y="2699" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-217" target="Nz2Tu8nq5uW6-hyOi6lk-203">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-217" value="常见的分区方式：Range分区、List分区&lt;div&gt;其中Range分区一般是以某个时间字段进行分区，比如将数据以创建时间进行分区，每一个月的数据保存到一个分区&lt;/div&gt;&lt;div&gt;List分区通常是以一组枚举值进行分区，比如根据城市进行分区。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2200" y="2562.5" width="340" height="95" as="geometry" />
+          <mxGeometry x="-2180" y="2561.5" width="340" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-223" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-220" target="Nz2Tu8nq5uW6-hyOi6lk-222">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-220" value="根据分桶规则路由到对应的分片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1660" y="2800" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1640" y="2799" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-222" value="1" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1660" y="2920" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1640" y="2919" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-224" value="1" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1650" y="2930" width="120" height="60" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-224" value="0" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1793" y="2919" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
