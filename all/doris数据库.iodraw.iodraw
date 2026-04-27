@@ -573,7 +573,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-288" value="BE 集群" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2520" y="4890" width="720" height="350" as="geometry" />
+          <mxGeometry x="-2530" y="4680" width="720" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-316" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288" target="Nz2Tu8nq5uW6-hyOi6lk-312">
           <mxGeometry relative="1" as="geometry">
@@ -808,7 +808,7 @@
           <mxGeometry x="-1220" y="5290" width="380" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-389" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1730" y="4890" width="200" height="320" as="geometry" />
+          <mxGeometry x="-1740" y="4680" width="200" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-390" value="segment1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-389">
           <mxGeometry x="40" y="22" width="120" height="60" as="geometry" />
@@ -821,10 +821,10 @@
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-387" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-332" target="Nz2Tu8nq5uW6-hyOi6lk-389">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1940" y="5340" as="targetPoint" />
+            <mxPoint x="-1950" y="5130" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1760" y="5029" />
-              <mxPoint x="-1760" y="5029" />
+              <mxPoint x="-1770" y="4819" />
+              <mxPoint x="-1770" y="4819" />
             </Array>
           </mxGeometry>
         </mxCell>
