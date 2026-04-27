@@ -936,6 +936,9 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-431" value="SQL：&lt;span style=&quot;color: rgb(26, 28, 31); font-size: 13px;&quot;&gt;insert into 人员表(ID,姓名)Values(1,&#39;张三&#39;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3066.5" y="4190" width="333" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-444" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="4130" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
