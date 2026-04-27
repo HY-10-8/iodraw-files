@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="kmcJqlKNXOtqu_szocWA">
-    <mxGraphModel dx="4764" dy="-1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5867" dy="-1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,6 +79,9 @@
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-26" value="部分jdbc驱动或业务代码可以通过指定多个连接地址，选择性的使用某一个连接&lt;div&gt;或者在FE前面增加一个代理进行负载均衡&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;doris本身没有对客户端使用哪一个FE有特殊的处理&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2980" y="4290" width="280" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RUe3Gh5TBmt0SNSnNbjs-28" target="RUe3Gh5TBmt0SNSnNbjs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-28" value="BE 集群" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1370" y="2628.5" width="720" height="350" as="geometry" />
         </mxCell>
@@ -147,7 +150,7 @@
           <mxGeometry x="360" y="180" width="192" height="31" as="geometry" />
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-43" value="通过RPC协议传输数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1610" y="2752.5" width="200" height="30" as="geometry" />
+          <mxGeometry x="-1600" y="2770" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.006;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="RUe3Gh5TBmt0SNSnNbjs-2" target="RUe3Gh5TBmt0SNSnNbjs-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
