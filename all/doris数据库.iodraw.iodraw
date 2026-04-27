@@ -175,8 +175,14 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-75" value="查询数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="990" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-78" target="Nz2Tu8nq5uW6-hyOi6lk-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-78" value="查询条件是否包含分区规则对应的字段" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="1101" width="140" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-80" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1329.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
