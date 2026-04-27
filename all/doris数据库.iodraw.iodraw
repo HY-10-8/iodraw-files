@@ -318,8 +318,14 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-133" value="1、定期合并&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;当segment文件过多时触发合并&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118">
           <mxGeometry x="260" y="150" width="160" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118" source="Nz2Tu8nq5uW6-hyOi6lk-135" target="Nz2Tu8nq5uW6-hyOi6lk-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-135" value="将对应的segment文件拿到内存中进行合并生成新的sgment文件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118">
           <mxGeometry x="280" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-137" value="删除原本的segment文件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118">
+          <mxGeometry x="280" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-114" target="Nz2Tu8nq5uW6-hyOi6lk-121">
           <mxGeometry relative="1" as="geometry">
