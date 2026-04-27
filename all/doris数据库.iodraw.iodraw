@@ -654,17 +654,6 @@
             <mxPoint x="440" y="427" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278" source="Nz2Tu8nq5uW6-hyOi6lk-255" target="Nz2Tu8nq5uW6-hyOi6lk-436">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440.0000000000009" y="427" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="390" />
-              <mxPoint x="441" y="390" />
-              <mxPoint x="441" y="540" />
-              <mxPoint x="440" y="540" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-309" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278" source="Nz2Tu8nq5uW6-hyOi6lk-262" target="Nz2Tu8nq5uW6-hyOi6lk-436">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440.0000000000009" y="427" as="targetPoint" />
@@ -678,7 +667,10 @@
           <mxGeometry x="620" y="120" width="220" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-437" value="根据分区和分桶定位片&lt;br&gt;hase(数据)%分桶数量&lt;br&gt;如：hash(1) % 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278">
-          <mxGeometry x="355" y="670" width="170" height="60" as="geometry" />
+          <mxGeometry x="355" y="550" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-438" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278" source="Nz2Tu8nq5uW6-hyOi6lk-436" target="Nz2Tu8nq5uW6-hyOi6lk-437">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-436" value="生成待写入数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278">
           <mxGeometry x="380" y="440" width="120" height="60" as="geometry" />
