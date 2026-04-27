@@ -312,7 +312,7 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-132" value="segment文件合并" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118">
           <mxGeometry x="280" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-133" value="1、定期合并&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;当segment文件过多&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-133" value="1、定期合并&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;当segment文件过多时触发合并&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118">
           <mxGeometry x="260" y="150" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-114" target="Nz2Tu8nq5uW6-hyOi6lk-121">
