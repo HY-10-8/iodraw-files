@@ -23,5 +23,4 @@ sequenceDiagram
     BE->>BE: 13. 全局聚合/最终排序/Limit
     BE-->>FE: 返回结果数据或状态
     FE-->>Client: 将结果返回给客户端
-
 ```
