@@ -1066,8 +1066,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-431" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2983" y="4200" width="60" height="30" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-431" value="SQL：&lt;span style=&quot;color: rgb(26, 28, 31); font-size: 13px;&quot;&gt;insert into 人员表(ID,姓名)Values(1,&#39;张三&#39;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3040" y="4180" width="333" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
