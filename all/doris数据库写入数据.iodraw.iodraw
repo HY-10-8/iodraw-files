@@ -162,7 +162,7 @@
             <mxPoint x="-1540" y="3890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-45" value="&lt;div&gt;Master节点是Follower节点中选出来的唯一节点，负责维护元数据，&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Follower节点是普通的FE节点，但是不参与元数据修改。&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Observer节点一般只用于查询数据，不参与任何写入相关&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-45" value="&lt;div&gt;Master节点是Follower节点中选出来的唯一节点，负责维护元数据，&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Follower节点是普通的FE节点，但是不参与元数据修改。&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Observer节点一般只用于查询数据，不参与任何写入相关&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-1920" y="3040" width="380" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="RUe3Gh5TBmt0SNSnNbjs-14" target="RUe3Gh5TBmt0SNSnNbjs-47">
@@ -171,8 +171,8 @@
             <mxPoint x="-2420" y="3660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-47" value="BDB JE是Oracle推出的一个高性能、事务性的嵌入式数据库。采用键值对的方式存储数据。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="-2460" y="3030" width="200" height="52" as="geometry" />
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-47" value="BDB JE是Oracle推出的一个高性能、事务性的嵌入式数据库。采用键值对的方式存储数据。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-2480" y="2510" width="200" height="52" as="geometry" />
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-48" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-470" y="2607.5" width="200" height="320" as="geometry" />
