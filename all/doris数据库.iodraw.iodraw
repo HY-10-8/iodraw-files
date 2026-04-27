@@ -940,10 +940,10 @@
           <mxGeometry x="-1520" y="3930" width="200" height="560" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-445" value="Sql接收服务&lt;br&gt;根据MySql协议接收SQL" style="whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-444">
-          <mxGeometry x="40" y="45" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-446" value="SQL解析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1470" y="4070" width="120" height="60" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-446" value="SQL解析" style="whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-444">
+          <mxGeometry x="40" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
