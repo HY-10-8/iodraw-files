@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-24" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2930" y="4115" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2930" y="4110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="RUe3Gh5TBmt0SNSnNbjs-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -185,7 +185,7 @@
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-53" value="&lt;div&gt;创建表的示例SQL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;CREATE TABLE 人员表 (&lt;/div&gt;&lt;div&gt;&amp;nbsp; ID INT,&lt;/div&gt;&lt;div&gt;&amp;nbsp; 姓名 VARCHAR(20),&lt;/div&gt;&lt;div&gt;&amp;nbsp; 入职日期 DATE&lt;/div&gt;&lt;div&gt;)&lt;/div&gt;&lt;div&gt;DUPLICATE KEY(ID)&lt;/div&gt;&lt;div&gt;PARTITION BY RANGE(入职日期) (&lt;/div&gt;&lt;div&gt;&amp;nbsp; PARTITION p202401 VALUES LESS THAN (&#39;2024-02-01&#39;),&lt;/div&gt;&lt;div&gt;&amp;nbsp; PARTITION p202402 VALUES LESS THAN (&#39;2024-03-01&#39;)&lt;/div&gt;&lt;div&gt;)&lt;/div&gt;&lt;div&gt;DISTRIBUTED BY HASH(ID) BUCKETS 3;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;根据 入职日期 进行分区&lt;/div&gt;&lt;div&gt;通过 ID 字段hash运算的结果进行分桶&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="-2980" y="4390" width="370" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-54" value="SQL：&lt;span style=&quot;color: rgb(26, 28, 31); font-size: 13px;&quot;&gt;insert into 人员表(ID,姓名)Values(1,&#39;张三&#39;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-54" value="SQL：&lt;span style=&quot;color: rgb(26, 28, 31); font-size: 13px;&quot;&gt;insert into 人员表(ID,姓名, 入职日期)Values(1,&#39;张三&#39;, &#39;2026-04-02&#39;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3066.5" y="4190" width="333" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-55" value="FE" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
