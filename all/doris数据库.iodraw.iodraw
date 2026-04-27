@@ -968,8 +968,14 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-398" value="除了手动分区，还存在动态分区、自动分区&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;手动分区：创建表或修改表时显式创建&lt;/div&gt;&lt;div&gt;动态分区：Doris主动按规则创建、删除时间分区。&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-520" y="3750" width="330" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-406" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-399" target="Nz2Tu8nq5uW6-hyOi6lk-401">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-407" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-399" target="Nz2Tu8nq5uW6-hyOi6lk-402">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-399" value="数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3310" y="5240" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3370" y="5330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-400" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-3000" y="5070" width="200" height="610" as="geometry" />
