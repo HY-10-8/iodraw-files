@@ -661,7 +661,7 @@
           <mxGeometry x="-2460" y="3650" width="200" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-374" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-2405" y="2950" width="895" height="730" as="geometry">
+          <mxGeometry x="-2120" y="2750" width="895" height="730" as="geometry">
             <mxRectangle x="-2030" y="2965" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -829,10 +829,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-396" value="&lt;div&gt;创建表的示例SQL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CREATE TABLE orders (&lt;/div&gt;&lt;div&gt;&amp;nbsp; order_id BIGINT,&lt;/div&gt;&lt;div&gt;&amp;nbsp; order_status VARCHAR(20),&lt;/div&gt;&lt;div&gt;&amp;nbsp; order_time DATETIME&lt;/div&gt;&lt;div&gt;)&lt;/div&gt;&lt;div&gt;PARTITION BY RANGE(order_time)&lt;/div&gt;&lt;div&gt;(&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; PARTITION `p202603` VALUES LESS THAN (&quot;2026-04-01&quot;),&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; PARTITION `p202604` VALUES LESS THAN (&quot;2026-05-01&quot;),&lt;/div&gt;&lt;div&gt;)&lt;/div&gt;&lt;div&gt;DISTRIBUTED BY HASH(order_id) BUCKETS 32;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;根据订单时间（order_time）进行分区&lt;/div&gt;&lt;div&gt;通过order_id字段hash运算的结果进行分桶&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-2970" y="4440" width="370" height="280" as="geometry" />
+          <mxGeometry x="-2980" y="4390" width="370" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-398" value="除了手动分区，还存在动态分区、自动分区&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;手动分区：创建表或修改表时显式创建&lt;/div&gt;&lt;div&gt;动态分区：Doris主动按规则创建、删除时间分区。&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1510" y="2945" width="330" height="70" as="geometry" />
+          <mxGeometry x="-2430" y="2825" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-406" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-399" target="Nz2Tu8nq5uW6-hyOi6lk-401">
           <mxGeometry relative="1" as="geometry" />
