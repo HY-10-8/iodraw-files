@@ -602,7 +602,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-252" value="Master FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2320" y="3760" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2130" y="3490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-253" value="Follower FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2120" y="3760" width="120" height="60" as="geometry" />
