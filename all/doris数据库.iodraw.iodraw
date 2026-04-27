@@ -14,7 +14,7 @@
             <mxPoint x="490" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-6" value="根据建表时的规则，决定数据存储在哪一个分片中&lt;div&gt;常见的分片规则是：时间（range分区）、地区&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nz2Tu8nq5uW6-hyOi6lk-4">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-6" value="根据建表时的规则，决定数据存储在哪一个分片中&lt;div&gt;常见的分片规则是：时间（range分区）、地区（List分区）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nz2Tu8nq5uW6-hyOi6lk-4">
           <mxGeometry x="-0.7667" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
