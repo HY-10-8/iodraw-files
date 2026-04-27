@@ -788,11 +788,10 @@
             <mxPoint x="-930" y="4071" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-369" value="分桶规则：Hash分桶、Random分桶&lt;div&gt;Hash表示对分桶字段进行hash运算，根据hash运算的结果进行分桶，提高数据查询效率&lt;/div&gt;&lt;div&gt;Random分桶表示对数据进行随机分桶，保证每个桶的数据尽量都一样多。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1250" y="4030" width="320" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-374" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1290" y="3600" width="880" height="730" as="geometry" />
+          <mxGeometry x="-1280" y="3600" width="880" height="730" as="geometry">
+            <mxRectangle x="-1280" y="3600" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-339" value="找到对应的分片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-374">
           <mxGeometry x="550" y="40" width="120" height="60" as="geometry" />
@@ -906,6 +905,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="661" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-369" value="分桶规则：Hash分桶、Random分桶&lt;div&gt;Hash表示对分桶字段进行hash运算，根据hash运算的结果进行分桶，提高数据查询效率&lt;/div&gt;&lt;div&gt;Random分桶表示对数据进行随机分桶，保证每个桶的数据尽量都一样多。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-374">
+          <mxGeometry x="40" y="435" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-337" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.423;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-305" target="Nz2Tu8nq5uW6-hyOi6lk-374">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
