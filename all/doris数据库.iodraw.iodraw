@@ -146,8 +146,8 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-62" value="1、内存达到阈值&lt;div&gt;2、定期执行&lt;/div&gt;&lt;div&gt;.....&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-225" y="1800" width="170" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-64" value="segment A" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="2130" width="120" height="60" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-64" value="1、行专列&lt;div&gt;2、编码&lt;/div&gt;&lt;div&gt;3、压缩&lt;/div&gt;&lt;div&gt;4、索引&lt;/div&gt;&lt;div&gt;5、元数据&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="2000" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
