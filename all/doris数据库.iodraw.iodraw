@@ -606,10 +606,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-252" value="Master FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2130" y="3490" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2140" y="3490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-253" value="Follower FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2120" y="3680" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2160" y="3680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-255" value="Follower FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2320" y="3680" width="120" height="60" as="geometry" />
@@ -618,7 +618,7 @@
           <mxGeometry x="-2120" y="4000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-262" value="Observer FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2120" y="3880" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1980" y="3680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-271" value="用于解析sql生成执行计划" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1930" y="3550" width="170" height="30" as="geometry" />
