@@ -627,9 +627,9 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278" source="Nz2Tu8nq5uW6-hyOi6lk-252" target="Nz2Tu8nq5uW6-hyOi6lk-256">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-299" value="1、通过 BOB JE机制 同步元数据&lt;div&gt;2、通过心跳机制检测FE节点状态&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nz2Tu8nq5uW6-hyOi6lk-276">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-299" value="1、通过 BOB JE机制 同步元数据&lt;div&gt;2、通过心跳机制检测FE节点状态&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=top;resizable=0;points=[];" vertex="1" connectable="0" parent="Nz2Tu8nq5uW6-hyOi6lk-276">
           <mxGeometry x="-0.8933" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="-69" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-252" value="Master FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278">
