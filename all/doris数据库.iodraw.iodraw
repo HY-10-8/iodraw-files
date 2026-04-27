@@ -663,8 +663,8 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-286" value="部分jdbc驱动或业务代码可以通过指定多个连接地址，选择性的使用某一个连接&lt;div&gt;或者在FE前面增加一个代理进行负载均衡&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;doris本身没有对客户端使用哪一个FE有特殊的处理&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3040" y="3920" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-288" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2450" y="4060" width="200" height="200" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-288" value="BE 集群" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2540" y="3970" width="900" height="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
