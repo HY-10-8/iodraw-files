@@ -1040,6 +1040,12 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-423" value="分片1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-422">
           <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-424" value="分片2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-422">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-425" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-422">
+          <mxGeometry x="40" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-421" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-401" target="Nz2Tu8nq5uW6-hyOi6lk-422">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2620" y="5149.999999999999" as="targetPoint" />
