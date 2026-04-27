@@ -616,6 +616,15 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-262" value="Observer FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1920" y="3560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-264" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1830" y="3480" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-265" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-1830" y="3480" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-266" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-1830" y="3480" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
