@@ -190,7 +190,7 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-80" value="找到对应的分区" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1322.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-82" target="Nz2Tu8nq5uW6-hyOi6lk-86">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-82" target="Nz2Tu8nq5uW6-hyOi6lk-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-82" value="所有分区=全表扫描" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -199,11 +199,17 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-86" target="Nz2Tu8nq5uW6-hyOi6lk-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-86" target="Nz2Tu8nq5uW6-hyOi6lk-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-86" value="查询条件是否存在分桶规则对应的字段" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="1500" width="140" height="117.5" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-88" value="找到对应的分片" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1726.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-92" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1528.75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
