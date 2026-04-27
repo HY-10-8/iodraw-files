@@ -599,10 +599,10 @@
           <mxGeometry x="-2100" y="3450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-253" value="Follower FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1930" y="3600" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1920" y="3440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-254" value="Follower FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1910" y="3440" width="120" height="60" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-255" value="Follower FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1920" y="3380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
