@@ -713,23 +713,13 @@
             <mxPoint x="95" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-318" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288" target="Nz2Tu8nq5uW6-hyOi6lk-314">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="95" y="460" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-319" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288" source="Nz2Tu8nq5uW6-hyOi6lk-314">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="95" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-314" value="将原本table里面的数据行转列、编码、压缩、落盘segment文件" style="whiteSpace=wrap;html=1;rounded=2;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288">
-          <mxGeometry x="35" y="500" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-322" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288" target="Nz2Tu8nq5uW6-hyOi6lk-311">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="95" y="110" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-323" value="Follower FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288">
+          <mxGeometry x="40" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-292" value="通过RPC协议传输数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2180" y="4000" width="200" height="30" as="geometry" />
