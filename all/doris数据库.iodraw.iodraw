@@ -517,29 +517,29 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-223" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-220" target="Nz2Tu8nq5uW6-hyOi6lk-222">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-220" target="Nz2Tu8nq5uW6-hyOi6lk-224">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Nz2Tu8nq5uW6-hyOi6lk-226">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1580" y="2870" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1580" y="2890" />
-              <mxPoint x="-1420" y="2890" />
+              <mxPoint x="-1580" y="2910" />
+              <mxPoint x="-1420" y="2910" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-220" target="Nz2Tu8nq5uW6-hyOi6lk-224">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-220" value="根据分桶规则路由到对应的分片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1640" y="2799" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-222" value="1" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1640" y="2919" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1640" y="2960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-224" value="0" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1800" y="2919" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1800" y="2960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-226" value="1" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1480" y="2919" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1480" y="2960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
