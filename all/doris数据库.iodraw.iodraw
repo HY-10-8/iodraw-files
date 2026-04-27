@@ -399,9 +399,9 @@
           <mxGeometry x="450" y="3040" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-176" value="一个BE会存储多个分片&lt;div&gt;一个分片会存储在一个或多个BE上（备份）&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1610" y="3040" width="240" height="40" as="geometry" />
+          <mxGeometry x="-1610" y="3040" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.013;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-176" target="Nz2Tu8nq5uW6-hyOi6lk-191">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.178;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-176" target="Nz2Tu8nq5uW6-hyOi6lk-191">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1221.92" y="3065.12" as="targetPoint" />
           </mxGeometry>
