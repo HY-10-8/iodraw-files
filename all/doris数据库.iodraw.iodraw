@@ -133,8 +133,14 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-56" value="将数据放入内存table中" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="1690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-62" target="Nz2Tu8nq5uW6-hyOi6lk-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-62" value="1、内存达到阈值&lt;div&gt;2、定期执行&lt;/div&gt;&lt;div&gt;.....&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="1800" width="240" height="160" as="geometry" />
+          <mxGeometry x="-225" y="1800" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-64" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="2045" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
