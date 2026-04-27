@@ -22,7 +22,7 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-1" value="插入数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-3">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-3" target="Nz2Tu8nq5uW6-hyOi6lk-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="470" as="targetPoint" />
           </mxGeometry>
@@ -32,6 +32,9 @@
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-5" value="分片2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
