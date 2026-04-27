@@ -335,6 +335,15 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-139" value="FE" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="2560" width="280" height="400" as="geometry" />
         </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-148" value="下发执行计划到BE执行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-139">
+          <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-147" value="通过元数据、分区规则、分桶规则判断执行计划应该路由到哪一个分区、分片执行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-139">
+          <mxGeometry x="80" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-139" source="Nz2Tu8nq5uW6-hyOi6lk-147" target="Nz2Tu8nq5uW6-hyOi6lk-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-149" value="BE" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="3010" width="280" height="320" as="geometry" />
         </mxCell>
@@ -359,12 +368,6 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-145" value="生成执行计划" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
           <mxGeometry x="80" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-147" value="通过元数据、分区规则、分桶规则判断执行计划应该路由到哪一个分区、分片执行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
-          <mxGeometry x="80" y="-210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-148" value="下发执行计划到BE执行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
-          <mxGeometry x="80" y="-110" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-151" value="根据元数据找到对应的segment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
           <mxGeometry x="80" y="30" width="120" height="60" as="geometry" />
         </mxCell>
@@ -375,15 +378,6 @@
           <mxGeometry x="80" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" source="Nz2Tu8nq5uW6-hyOi6lk-142" target="Nz2Tu8nq5uW6-hyOi6lk-145">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" source="Nz2Tu8nq5uW6-hyOi6lk-145" target="Nz2Tu8nq5uW6-hyOi6lk-147">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" source="Nz2Tu8nq5uW6-hyOi6lk-147" target="Nz2Tu8nq5uW6-hyOi6lk-148">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" source="Nz2Tu8nq5uW6-hyOi6lk-148" target="Nz2Tu8nq5uW6-hyOi6lk-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" source="Nz2Tu8nq5uW6-hyOi6lk-151" target="Nz2Tu8nq5uW6-hyOi6lk-155">
@@ -407,6 +401,12 @@
           <mxGeometry x="-160" y="2735" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-169" target="Nz2Tu8nq5uW6-hyOi6lk-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-148" target="Nz2Tu8nq5uW6-hyOi6lk-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-145" target="Nz2Tu8nq5uW6-hyOi6lk-147">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
