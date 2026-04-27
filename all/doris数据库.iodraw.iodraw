@@ -703,8 +703,8 @@
             <mxPoint x="-2420" y="3330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-304" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2460" y="3278" width="60" height="30" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-304" value="BDB JE是Oracle推出的一个高性能、事务性的嵌入式数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2460" y="3278" width="200" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
