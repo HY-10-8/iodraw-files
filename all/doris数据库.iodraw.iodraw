@@ -736,7 +736,7 @@
           <mxGeometry x="280" y="109" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-332" value="BE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288">
-          <mxGeometry x="550" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="109" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-333" value="执行计划的实际执行者&lt;div&gt;一个BE对应一个存储节点（服务器或磁盘）&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288">
           <mxGeometry x="40" y="280" width="260" height="40" as="geometry" />
@@ -749,16 +749,6 @@
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-381" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;通过RPC协议传输数据&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288">
           <mxGeometry x="120" y="180" width="192" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-382" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288" source="Nz2Tu8nq5uW6-hyOi6lk-331" target="Nz2Tu8nq5uW6-hyOi6lk-332">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="127" as="sourcePoint" />
-            <mxPoint x="540" y="127.25" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="400" y="127" />
-              <mxPoint x="550" y="127" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-383" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288" source="Nz2Tu8nq5uW6-hyOi6lk-332" target="Nz2Tu8nq5uW6-hyOi6lk-331">
           <mxGeometry relative="1" as="geometry">
