@@ -208,7 +208,7 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-88" value="找到对应的分片" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1726.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-92" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-92" value="查找所有分桶" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="1528.75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
