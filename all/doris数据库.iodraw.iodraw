@@ -939,10 +939,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-386" value="缺的点有：&lt;div&gt;1、BE的备份怎么做的？&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;由FE调度、BE执行任务将数据备份到另外一个BE中&lt;br&gt;&lt;/div&gt;&lt;div&gt;2、&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1549" y="5090" width="380" height="100" as="geometry" />
+          <mxGeometry x="-1220" y="5290" width="380" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-389" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1650" y="4480" width="200" height="320" as="geometry" />
+          <mxGeometry x="-1730" y="4389" width="200" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-390" value="segment1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-389">
           <mxGeometry x="40" y="22" width="120" height="60" as="geometry" />
