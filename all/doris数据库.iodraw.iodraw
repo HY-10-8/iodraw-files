@@ -620,7 +620,10 @@
           <mxGeometry x="-1930" y="3550" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-272" value="仅执行查询类的sql，不涉及写入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1920" y="3895" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1920" y="3895" width="220" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-273" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2330" y="3870" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
