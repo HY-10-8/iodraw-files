@@ -629,9 +629,9 @@
           <mxGeometry x="-1860" y="3495" width="220" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-273" value="与普通FE的功能基本一致，但是所有fE的元数据写入都由Master执行，并通过&lt;span style=&quot;color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);&quot;&gt;BDB JE 机制同步到所有FE中&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2390" y="3490" width="200" height="80" as="geometry" />
+          <mxGeometry x="-2420" y="3490" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-277" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.168;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-272">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-277" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.168;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-272" target="Nz2Tu8nq5uW6-hyOi6lk-262">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1760" y="3810" as="sourcePoint" />
             <mxPoint x="-1710" y="3760" as="targetPoint" />
