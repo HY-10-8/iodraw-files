@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="dyZX2Vmw1ZUqRPwNS_Kc">
-    <mxGraphModel dx="5581" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="6750" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -609,13 +609,10 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-278" value="FE集群" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2520" y="3413" width="880" height="547" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278" target="Nz2Tu8nq5uW6-hyOi6lk-278">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278" source="Nz2Tu8nq5uW6-hyOi6lk-305" target="Nz2Tu8nq5uW6-hyOi6lk-278">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="487" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-305" value="解析sql、生成执行计划，并下发到对应的BE中执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278">
-          <mxGeometry x="380" y="417" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278" source="Nz2Tu8nq5uW6-hyOi6lk-252" target="Nz2Tu8nq5uW6-hyOi6lk-253">
           <mxGeometry relative="1" as="geometry" />
@@ -647,7 +644,7 @@
           <mxGeometry x="698" y="267" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-262" value="Observer FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278">
-          <mxGeometry x="550" y="267" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="267" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-271" value="FE：用于解析sql生成执行计划" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278">
           <mxGeometry x="30" y="282" width="170" height="30" as="geometry" />
@@ -669,6 +666,15 @@
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-309" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278" source="Nz2Tu8nq5uW6-hyOi6lk-262" target="Nz2Tu8nq5uW6-hyOi6lk-305">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-310" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278" target="Nz2Tu8nq5uW6-hyOi6lk-305">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2080" y="3900" as="sourcePoint" />
+            <mxPoint x="-2080" y="3960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-305" value="解析sql、生成执行计划，并下发到对应的BE中执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278">
+          <mxGeometry x="380" y="447" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-280" target="Nz2Tu8nq5uW6-hyOi6lk-278">
           <mxGeometry relative="1" as="geometry" />
