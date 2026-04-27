@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="kmcJqlKNXOtqu_szocWA">
-    <mxGraphModel dx="8116" dy="-868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="8116" dy="-41" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-2" value="FE集群" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2520" y="3745" width="880" height="770" as="geometry" />
+          <mxGeometry x="-2520" y="3125" width="880" height="395" as="geometry" />
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RUe3Gh5TBmt0SNSnNbjs-2" source="RUe3Gh5TBmt0SNSnNbjs-8" target="RUe3Gh5TBmt0SNSnNbjs-9">
           <mxGeometry relative="1" as="geometry" />
@@ -167,7 +167,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-45" value="&lt;div&gt;Master节点是Follower节点中选出来的唯一节点，负责维护元数据，&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Follower节点是普通的FE节点，但是不参与元数据修改。&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Observer节点一般只用于查询数据，不参与任何写入相关&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1920" y="3660" width="380" height="100" as="geometry" />
+          <mxGeometry x="-1920" y="3040" width="380" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RUe3Gh5TBmt0SNSnNbjs-14" target="RUe3Gh5TBmt0SNSnNbjs-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -176,7 +176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-47" value="BDB JE是Oracle推出的一个高性能、事务性的嵌入式数据库。采用键值对的方式存储数据。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2460" y="3650" width="200" height="52" as="geometry" />
+          <mxGeometry x="-2460" y="3030" width="200" height="52" as="geometry" />
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-48" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-1730" y="5190" width="200" height="320" as="geometry" />
