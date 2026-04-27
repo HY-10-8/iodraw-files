@@ -368,7 +368,7 @@
             <mxPoint x="340" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-142" value="解析sql" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-142" value="解析sql" style="whiteSpace=wrap;html=1;rounded=2;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
           <mxGeometry x="80" y="-410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-151" value="根据元数据找到对应的segment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
