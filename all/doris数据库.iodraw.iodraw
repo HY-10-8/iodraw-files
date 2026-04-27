@@ -661,7 +661,7 @@
           <mxGeometry x="-2460" y="3650" width="200" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-374" value="" style="swimlane;startSize=0;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-390" y="3760" width="50" height="40" as="geometry">
+          <mxGeometry x="-2030" y="2965" width="50" height="40" as="geometry">
             <mxRectangle x="-390" y="3760" width="895" height="730" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -832,7 +832,7 @@
           <mxGeometry x="-2970" y="4440" width="370" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-398" value="除了手动分区，还存在动态分区、自动分区&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;手动分区：创建表或修改表时显式创建&lt;/div&gt;&lt;div&gt;动态分区：Doris主动按规则创建、删除时间分区。&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-305" y="3740" width="330" height="70" as="geometry" />
+          <mxGeometry x="-1510" y="2945" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-406" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-399" target="Nz2Tu8nq5uW6-hyOi6lk-401">
           <mxGeometry relative="1" as="geometry" />
