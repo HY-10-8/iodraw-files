@@ -553,6 +553,9 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-220" value="根据分桶规则路由到对应的分片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1640" y="2820" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-250" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-222" target="Nz2Tu8nq5uW6-hyOi6lk-249">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-222" value="分片2" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1640" y="2981" width="120" height="60" as="geometry" />
         </mxCell>
@@ -587,6 +590,12 @@
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-247" value="......" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1480" y="3101" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-249" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="3121" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-249" target="Nz2Tu8nq5uW6-hyOi6lk-249">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
