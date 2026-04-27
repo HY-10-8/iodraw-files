@@ -841,6 +841,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-377" value="....." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nz2Tu8nq5uW6-hyOi6lk-376">
+          <mxGeometry x="0.749" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-361" value="根据分桶规则路由到对应的分片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-374">
           <mxGeometry x="550" y="380" width="120" height="60" as="geometry" />
         </mxCell>
