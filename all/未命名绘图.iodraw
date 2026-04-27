@@ -100,7 +100,7 @@
         <mxCell id="dvZCvjgUctOATZhmnxdy-32" value="MySQL 协议 / JDBC" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dvZCvjgUctOATZhmnxdy-4" target="dvZCvjgUctOATZhmnxdy-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dvZCvjgUctOATZhmnxdy-33" value="RPC 下发执行计划" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1" edge="1" parent="1" source="dvZCvjgUctOATZhmnxdy-12" target="dvZCvjgUctOATZhmnxdy-19">
+        <mxCell id="dvZCvjgUctOATZhmnxdy-33" value="RPC 下发执行计划" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dvZCvjgUctOATZhmnxdy-12" target="dvZCvjgUctOATZhmnxdy-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dvZCvjgUctOATZhmnxdy-34" value="RPC 返回结果 Block" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1" edge="1" parent="1" source="dvZCvjgUctOATZhmnxdy-24" target="dvZCvjgUctOATZhmnxdy-13">
