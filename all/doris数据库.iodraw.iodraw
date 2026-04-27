@@ -14,14 +14,19 @@
             <mxPoint x="490" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nz2Tu8nq5uW6-hyOi6lk-4">
+          <mxGeometry x="-0.7667" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-1" value="插入数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-3" value="分片1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-5" value="分片1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-5" value="分片2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
