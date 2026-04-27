@@ -12,7 +12,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-2" value="FE集群" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2520" y="3760" width="880" height="770" as="geometry" />
+          <mxGeometry x="-2520" y="3745" width="880" height="770" as="geometry" />
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RUe3Gh5TBmt0SNSnNbjs-2" source="RUe3Gh5TBmt0SNSnNbjs-8" target="RUe3Gh5TBmt0SNSnNbjs-9">
           <mxGeometry relative="1" as="geometry" />
