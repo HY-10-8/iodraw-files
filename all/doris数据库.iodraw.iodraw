@@ -577,7 +577,7 @@
           <mxGeometry x="-2160" y="2840" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-241" value="......" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2000" y="2699" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1800" y="2799" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-243" value="....." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1280" y="2699" width="120" height="60" as="geometry" />
@@ -585,7 +585,7 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-245" value="....." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2000" y="2960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-247" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-247" value="......" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1280" y="2960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
