@@ -646,7 +646,7 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-280" target="Nz2Tu8nq5uW6-hyOi6lk-278">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-282" value="通过ip连接某一个FE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nz2Tu8nq5uW6-hyOi6lk-281">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-282" value="通过 地址 连接某一个FE&lt;div&gt;或者指定一&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;个连接池&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nz2Tu8nq5uW6-hyOi6lk-281">
           <mxGeometry x="-0.3143" y="3" relative="1" as="geometry">
             <mxPoint x="26" y="2" as="offset" />
           </mxGeometry>
