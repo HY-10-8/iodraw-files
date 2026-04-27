@@ -788,9 +788,9 @@
             <mxPoint x="-930" y="4071" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-374" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1280" y="3600" width="880" height="730" as="geometry">
-            <mxRectangle x="-1280" y="3600" width="50" height="40" as="alternateBounds" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-374" value="" style="swimlane;startSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-1280" y="3600" width="50" height="40" as="geometry">
+            <mxRectangle x="-1280" y="3600" width="880" height="730" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-339" value="找到对应的分片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-374">
