@@ -684,7 +684,7 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-285" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-286">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2760" y="4250" as="sourcePoint" />
-            <mxPoint x="-2650" y="4020" as="targetPoint" />
+            <mxPoint x="-2690" y="4150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-286" value="部分jdbc驱动或业务代码可以通过指定多个连接地址，选择性的使用某一个连接&lt;div&gt;或者在FE前面增加一个代理进行负载均衡&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;doris本身没有对客户端使用哪一个FE有特殊的处理&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1065,6 +1065,9 @@
           <mxGeometry x="-0.746" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-431" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2983" y="4200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
