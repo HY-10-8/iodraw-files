@@ -155,11 +155,13 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-67" value="segment A" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-69" target="Nz2Tu8nq5uW6-hyOi6lk-54">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Nz2Tu8nq5uW6-hyOi6lk-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-380" y="1580" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-69" value="&lt;span style=&quot;white-space: normal;&quot;&gt;对应文件夹&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="1565" width="80" height="30" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-71" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-515" y="1548" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
