@@ -1070,10 +1070,10 @@
           <mxGeometry x="-3066.5" y="4190" width="333" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-436" value="生成待写入数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-615" y="1770" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2275" y="3110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-437" value="根据分区和分桶定位片&lt;br&gt;hase(数据)%分桶数量&lt;br&gt;如：hash(1) % 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="1890" width="170" height="60" as="geometry" />
+          <mxGeometry x="-2300" y="3230" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
