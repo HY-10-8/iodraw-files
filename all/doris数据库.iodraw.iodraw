@@ -270,7 +270,7 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-109" source="Nz2Tu8nq5uW6-hyOi6lk-112" target="Nz2Tu8nq5uW6-hyOi6lk-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-112" value="根据元数据判断执行计划应该路由到哪一个分区、分片执行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-109">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-112" value="通过元数据、分区规则、分桶规则判断执行计划应该路由到哪一个分区、分片执行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-109">
           <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-114" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-109">
