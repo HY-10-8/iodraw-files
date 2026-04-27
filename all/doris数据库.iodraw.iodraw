@@ -277,7 +277,7 @@
           <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-118" value="BE" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="3020" width="680" height="230" as="geometry" />
+          <mxGeometry x="-600" y="3010" width="680" height="370" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118" source="Nz2Tu8nq5uW6-hyOi6lk-121" target="Nz2Tu8nq5uW6-hyOi6lk-122">
           <mxGeometry relative="1" as="geometry" />
@@ -286,7 +286,7 @@
           <mxGeometry x="40" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-122" value="1、内存达到阈值&lt;div&gt;2、达到预定时间&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-118">
-          <mxGeometry x="60" y="150" width="80" height="80" as="geometry" />
+          <mxGeometry x="60" y="150" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-114" target="Nz2Tu8nq5uW6-hyOi6lk-121">
           <mxGeometry relative="1" as="geometry">
