@@ -4,6 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RUe3Gh5TBmt0SNSnNbjs-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1300" y="2803.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-2" value="FE集群" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-2520" y="2606" width="880" height="395" as="geometry" />
         </mxCell>
@@ -123,7 +128,7 @@
           <mxGeometry x="520" y="109" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-38" value="执行计划的实际执行者&lt;div&gt;一个BE对应一个存储节点（服务器或磁盘）&lt;/div&gt;&lt;div&gt;副本同步是由FE调度的。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-28">
-          <mxGeometry x="52" y="230" width="260" height="70" as="geometry" />
+          <mxGeometry x="37" y="259" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="RUe3Gh5TBmt0SNSnNbjs-28" source="RUe3Gh5TBmt0SNSnNbjs-33" target="RUe3Gh5TBmt0SNSnNbjs-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
