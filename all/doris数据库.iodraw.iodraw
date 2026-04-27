@@ -595,61 +595,8 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-249" target="Nz2Tu8nq5uW6-hyOi6lk-249">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-252" target="Nz2Tu8nq5uW6-hyOi6lk-253">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-252" target="Nz2Tu8nq5uW6-hyOi6lk-255">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-252" target="Nz2Tu8nq5uW6-hyOi6lk-262">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-252" target="Nz2Tu8nq5uW6-hyOi6lk-256">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-299" value="通过 BOB JE机制 同步元数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nz2Tu8nq5uW6-hyOi6lk-276">
-          <mxGeometry x="-0.8933" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-252" value="Master FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2160" y="3490" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-253" target="Nz2Tu8nq5uW6-hyOi6lk-305">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-253" value="Follower FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2160" y="3680" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-255" target="Nz2Tu8nq5uW6-hyOi6lk-305">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-255" value="Follower FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2320" y="3680" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-256" value="....." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1840" y="3680" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-309" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-262" target="Nz2Tu8nq5uW6-hyOi6lk-305">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-262" value="Observer FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2000" y="3680" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-271" value="FE：用于解析sql生成执行计划" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2508" y="3695" width="170" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-272" value="仅执行查询类的sql，不涉及写入" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1860" y="3495" width="220" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-273" value="与普通FE的功能基本一致，但是所有fE的元数据写入都由Master执行，并通过&lt;span style=&quot;color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;BDB JE 机制&lt;/b&gt;同步到所有FE中&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2420" y="3490" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-277" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.168;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-272" target="Nz2Tu8nq5uW6-hyOi6lk-262">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1760" y="3810" as="sourcePoint" />
-            <mxPoint x="-1710" y="3760" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-278" target="Nz2Tu8nq5uW6-hyOi6lk-288">
           <mxGeometry relative="1" as="geometry">
@@ -669,6 +616,59 @@
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-305" value="解析sql、生成执行计划，并下发到对应的BE中执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278">
           <mxGeometry x="380" y="417" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278" source="Nz2Tu8nq5uW6-hyOi6lk-252" target="Nz2Tu8nq5uW6-hyOi6lk-253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278" source="Nz2Tu8nq5uW6-hyOi6lk-252" target="Nz2Tu8nq5uW6-hyOi6lk-255">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278" source="Nz2Tu8nq5uW6-hyOi6lk-252" target="Nz2Tu8nq5uW6-hyOi6lk-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278" source="Nz2Tu8nq5uW6-hyOi6lk-252" target="Nz2Tu8nq5uW6-hyOi6lk-256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-299" value="通过 BOB JE机制 同步元数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nz2Tu8nq5uW6-hyOi6lk-276">
+          <mxGeometry x="-0.8933" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-252" value="Master FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278">
+          <mxGeometry x="378" y="77" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-253" value="Follower FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278">
+          <mxGeometry x="378" y="267" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-255" value="Follower FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278">
+          <mxGeometry x="218" y="267" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-256" value="....." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278">
+          <mxGeometry x="698" y="267" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-262" value="Observer FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278">
+          <mxGeometry x="538" y="267" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-271" value="FE：用于解析sql生成执行计划" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278">
+          <mxGeometry x="30" y="282" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-273" value="与普通FE的功能基本一致，但是所有fE的元数据写入都由Master执行，并通过&lt;span style=&quot;color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;BDB JE 机制&lt;/b&gt;同步到所有FE中&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278">
+          <mxGeometry x="118" y="77" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-277" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.168;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278" target="Nz2Tu8nq5uW6-hyOi6lk-262">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="714.96" y="115.98499999999967" as="sourcePoint" />
+            <mxPoint x="828" y="347" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278" source="Nz2Tu8nq5uW6-hyOi6lk-253" target="Nz2Tu8nq5uW6-hyOi6lk-305">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278" source="Nz2Tu8nq5uW6-hyOi6lk-255" target="Nz2Tu8nq5uW6-hyOi6lk-305">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-309" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-278" source="Nz2Tu8nq5uW6-hyOi6lk-262" target="Nz2Tu8nq5uW6-hyOi6lk-305">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-280" target="Nz2Tu8nq5uW6-hyOi6lk-278">
           <mxGeometry relative="1" as="geometry" />
