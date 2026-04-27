@@ -746,8 +746,8 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-332" value="BE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288">
           <mxGeometry x="520" y="109" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-333" value="执行计划的实际执行者&lt;div&gt;一个BE对应一个存储节点（服务器或磁盘）&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288">
-          <mxGeometry x="40" y="280" width="260" height="40" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-333" value="执行计划的实际执行者&lt;div&gt;一个BE对应一个存储节点（服务器或磁盘）&lt;/div&gt;&lt;div&gt;副本同步是由FE决定的&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288">
+          <mxGeometry x="40" y="280" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-336" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-288" source="Nz2Tu8nq5uW6-hyOi6lk-323" target="Nz2Tu8nq5uW6-hyOi6lk-333">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
