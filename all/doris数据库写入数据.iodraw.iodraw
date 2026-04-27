@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="kmcJqlKNXOtqu_szocWA">
-    <mxGraphModel dx="8116" dy="-41" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="6100" dy="-1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,54 +11,54 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-2" value="FE集群" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-2" value="FE集群" style="swimlane;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="-2520" y="3125" width="880" height="395" as="geometry" />
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RUe3Gh5TBmt0SNSnNbjs-2" source="RUe3Gh5TBmt0SNSnNbjs-8" target="RUe3Gh5TBmt0SNSnNbjs-9">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="RUe3Gh5TBmt0SNSnNbjs-2" source="RUe3Gh5TBmt0SNSnNbjs-8" target="RUe3Gh5TBmt0SNSnNbjs-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="RUe3Gh5TBmt0SNSnNbjs-2" source="RUe3Gh5TBmt0SNSnNbjs-8" target="RUe3Gh5TBmt0SNSnNbjs-10">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="RUe3Gh5TBmt0SNSnNbjs-2" source="RUe3Gh5TBmt0SNSnNbjs-8" target="RUe3Gh5TBmt0SNSnNbjs-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="RUe3Gh5TBmt0SNSnNbjs-2" source="RUe3Gh5TBmt0SNSnNbjs-8" target="RUe3Gh5TBmt0SNSnNbjs-12">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="RUe3Gh5TBmt0SNSnNbjs-2" source="RUe3Gh5TBmt0SNSnNbjs-8" target="RUe3Gh5TBmt0SNSnNbjs-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="RUe3Gh5TBmt0SNSnNbjs-2" source="RUe3Gh5TBmt0SNSnNbjs-8" target="RUe3Gh5TBmt0SNSnNbjs-11">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="RUe3Gh5TBmt0SNSnNbjs-2" source="RUe3Gh5TBmt0SNSnNbjs-8" target="RUe3Gh5TBmt0SNSnNbjs-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-7" value="1、通过 BOB JE机制 &lt;b&gt;同步元数据&lt;/b&gt;&lt;div&gt;2、通过心跳机制检测FE节点状态&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=top;resizable=0;points=[];" vertex="1" connectable="0" parent="RUe3Gh5TBmt0SNSnNbjs-6">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-7" value="1、通过 BOB JE机制 &lt;b&gt;同步元数据&lt;/b&gt;&lt;div&gt;2、通过心跳机制检测FE节点状态&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=top;resizable=0;points=[];movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="RUe3Gh5TBmt0SNSnNbjs-6">
           <mxGeometry x="-0.8933" y="-1" relative="1" as="geometry">
             <mxPoint x="-69" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-8" value="Master FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-2">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-8" value="Master FE" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-2">
           <mxGeometry x="380" y="77" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-9" value="Follower FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-2">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-9" value="Follower FE" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-2">
           <mxGeometry x="380" y="267" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-10" value="Follower FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-2">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-10" value="Follower FE" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-2">
           <mxGeometry x="220" y="267" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-11" value="....." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-2">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-11" value="....." style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-2">
           <mxGeometry x="698" y="267" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-12" value="Observer FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-2">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-12" value="Observer FE" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-2">
           <mxGeometry x="540" y="267" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-13" value="FE：用于解析sql生成执行计划" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-2">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-13" value="FE：用于解析sql生成执行计划" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-2">
           <mxGeometry x="30" y="282" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-14" value="与普通FE的功能基本一致，但是所有fE的元数据写入都由Master执行，并通过&lt;span style=&quot;color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;BDB JE 机制&lt;/b&gt;同步到所有FE中&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-2">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-14" value="与普通FE的功能基本一致，但是所有fE的元数据写入都由Master执行，并通过&lt;span style=&quot;color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;BDB JE 机制&lt;/b&gt;同步到所有FE中&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-2">
           <mxGeometry x="118" y="77" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.441;exitY=0.943;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RUe3Gh5TBmt0SNSnNbjs-2" source="RUe3Gh5TBmt0SNSnNbjs-18" target="RUe3Gh5TBmt0SNSnNbjs-12">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.441;exitY=0.943;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="RUe3Gh5TBmt0SNSnNbjs-2" source="RUe3Gh5TBmt0SNSnNbjs-18" target="RUe3Gh5TBmt0SNSnNbjs-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="714.96" y="115.98499999999967" as="sourcePoint" />
             <mxPoint x="828" y="347" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-18" value="仅执行查询类的sql，不涉及写入" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-2">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-18" value="仅执行查询类的sql，不涉及写入" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="RUe3Gh5TBmt0SNSnNbjs-2">
           <mxGeometry x="620" y="120" width="220" height="35" as="geometry" />
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RUe3Gh5TBmt0SNSnNbjs-24" target="RUe3Gh5TBmt0SNSnNbjs-2">
@@ -160,22 +160,22 @@
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-43" value="通过RPC协议传输数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2180" y="5140" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.006;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RUe3Gh5TBmt0SNSnNbjs-2" target="RUe3Gh5TBmt0SNSnNbjs-45">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.006;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="RUe3Gh5TBmt0SNSnNbjs-2" target="RUe3Gh5TBmt0SNSnNbjs-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1760" y="3930" as="sourcePoint" />
             <mxPoint x="-1540" y="3890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-45" value="&lt;div&gt;Master节点是Follower节点中选出来的唯一节点，负责维护元数据，&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Follower节点是普通的FE节点，但是不参与元数据修改。&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Observer节点一般只用于查询数据，不参与任何写入相关&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-45" value="&lt;div&gt;Master节点是Follower节点中选出来的唯一节点，负责维护元数据，&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Follower节点是普通的FE节点，但是不参与元数据修改。&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Observer节点一般只用于查询数据，不参与任何写入相关&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="-1920" y="3040" width="380" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RUe3Gh5TBmt0SNSnNbjs-14" target="RUe3Gh5TBmt0SNSnNbjs-47">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="RUe3Gh5TBmt0SNSnNbjs-14" target="RUe3Gh5TBmt0SNSnNbjs-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2350" y="3750" as="sourcePoint" />
             <mxPoint x="-2420" y="3660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-47" value="BDB JE是Oracle推出的一个高性能、事务性的嵌入式数据库。采用键值对的方式存储数据。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RUe3Gh5TBmt0SNSnNbjs-47" value="BDB JE是Oracle推出的一个高性能、事务性的嵌入式数据库。采用键值对的方式存储数据。" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="-2460" y="3030" width="200" height="52" as="geometry" />
         </mxCell>
         <mxCell id="RUe3Gh5TBmt0SNSnNbjs-48" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
