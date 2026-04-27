@@ -1,9 +1,114 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
-  <diagram name="第 1 页" id="jkAJwtUhFoSn59VoSR7i">
-    <mxGraphModel dx="1914" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram name="Doris查询数据流程" id="jkAJwtUhFoSn59VoSR7i">
+    <mxGraphModel dx="1595" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dvZCvjgUctOATZhmnxdy-1" value="Doris 查询数据流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="30" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-2" value="客户端 / 接入层" style="swimlane;whiteSpace=wrap;html=1;startSize=32;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="300" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-3" value="业务客户端&#xa;JDBC / MySQL Client / BI 工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="dvZCvjgUctOATZhmnxdy-2">
+          <mxGeometry x="45" y="70" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-4" value="负载均衡 / VIP / FE 地址列表&#xa;选择一个可用 FE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6" vertex="1" parent="dvZCvjgUctOATZhmnxdy-2">
+          <mxGeometry x="45" y="195" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-5" value="接收结果集&#xa;返回给应用或报表工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366" vertex="1" parent="dvZCvjgUctOATZhmnxdy-2">
+          <mxGeometry x="45" y="610" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1" edge="1" parent="dvZCvjgUctOATZhmnxdy-2" source="dvZCvjgUctOATZhmnxdy-3" target="dvZCvjgUctOATZhmnxdy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-7" value="FE 集群：SQL 接入、解析、优化、生成执行计划" style="swimlane;whiteSpace=wrap;html=1;startSize=32;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="430" y="100" width="410" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-8" value="接入 FE&#xa;Master / Follower / Observer 均可作为查询入口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="dvZCvjgUctOATZhmnxdy-7">
+          <mxGeometry x="95" y="70" width="220" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-9" value="解析 SQL&#xa;语法检查、语义分析、权限校验" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="dvZCvjgUctOATZhmnxdy-7">
+          <mxGeometry x="95" y="175" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-10" value="读取 FE 本地元数据副本&#xa;库表 Schema、分区、分桶、Tablet 副本位置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450" vertex="1" parent="dvZCvjgUctOATZhmnxdy-7">
+          <mxGeometry x="95" y="280" width="220" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-11" value="分区裁剪 / Tablet 选择&#xa;根据分区列、谓词、统计信息缩小扫描范围" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="dvZCvjgUctOATZhmnxdy-7">
+          <mxGeometry x="95" y="405" width="220" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-12" value="生成分布式执行计划&#xa;Fragment、ScanRange、Exchange、Join/Agg 策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="dvZCvjgUctOATZhmnxdy-7">
+          <mxGeometry x="95" y="530" width="220" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-13" value="接收 BE 返回的数据块&#xa;必要时做最终聚合 / 排序 / Limit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="dvZCvjgUctOATZhmnxdy-7">
+          <mxGeometry x="95" y="655" width="220" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1" edge="1" parent="dvZCvjgUctOATZhmnxdy-7" source="dvZCvjgUctOATZhmnxdy-8" target="dvZCvjgUctOATZhmnxdy-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1" edge="1" parent="dvZCvjgUctOATZhmnxdy-7" source="dvZCvjgUctOATZhmnxdy-9" target="dvZCvjgUctOATZhmnxdy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1" edge="1" parent="dvZCvjgUctOATZhmnxdy-7" source="dvZCvjgUctOATZhmnxdy-10" target="dvZCvjgUctOATZhmnxdy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1" edge="1" parent="dvZCvjgUctOATZhmnxdy-7" source="dvZCvjgUctOATZhmnxdy-11" target="dvZCvjgUctOATZhmnxdy-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-18" value="BE 集群：扫描 Tablet、执行算子、交换中间结果" style="swimlane;whiteSpace=wrap;html=1;startSize=32;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="900" y="100" width="430" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-19" value="下发 Fragment Instance&#xa;指定 BE、Tablet、Replica、ScanRange" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="dvZCvjgUctOATZhmnxdy-18">
+          <mxGeometry x="95" y="70" width="240" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-20" value="BE 扫描本地 Tablet 副本&#xa;读取 Rowset / Segment / Index" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366" vertex="1" parent="dvZCvjgUctOATZhmnxdy-18">
+          <mxGeometry x="95" y="195" width="240" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-21" value="执行谓词下推与列裁剪&#xa;只读需要的列和满足条件的数据块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366" vertex="1" parent="dvZCvjgUctOATZhmnxdy-18">
+          <mxGeometry x="95" y="320" width="240" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-22" value="本地算子执行&#xa;Filter / Project / Join / Agg / Sort" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366" vertex="1" parent="dvZCvjgUctOATZhmnxdy-18">
+          <mxGeometry x="95" y="445" width="240" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-23" value="BE 间 Exchange&#xa;Shuffle / Broadcast / Gather 中间结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366" vertex="1" parent="dvZCvjgUctOATZhmnxdy-18">
+          <mxGeometry x="95" y="570" width="240" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-24" value="返回结果 Block&#xa;给 FE Coordinator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="dvZCvjgUctOATZhmnxdy-18">
+          <mxGeometry x="95" y="695" width="240" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1" edge="1" parent="dvZCvjgUctOATZhmnxdy-18" source="dvZCvjgUctOATZhmnxdy-19" target="dvZCvjgUctOATZhmnxdy-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1" edge="1" parent="dvZCvjgUctOATZhmnxdy-18" source="dvZCvjgUctOATZhmnxdy-20" target="dvZCvjgUctOATZhmnxdy-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1" edge="1" parent="dvZCvjgUctOATZhmnxdy-18" source="dvZCvjgUctOATZhmnxdy-21" target="dvZCvjgUctOATZhmnxdy-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1" edge="1" parent="dvZCvjgUctOATZhmnxdy-18" source="dvZCvjgUctOATZhmnxdy-22" target="dvZCvjgUctOATZhmnxdy-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1" edge="1" parent="dvZCvjgUctOATZhmnxdy-18" source="dvZCvjgUctOATZhmnxdy-23" target="dvZCvjgUctOATZhmnxdy-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-30" value="说明：普通 SELECT 不需要 Master FE 写元数据；接入 FE 使用本地 replay 后的元数据副本即可生成计划。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;align=left" vertex="1" parent="1">
+          <mxGeometry x="85" y="895" width="560" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-31" value="说明：FE 不存储明细行数据；FE 只知道分区、Tablet 和副本位置，真正的数据文件与索引在 BE 上。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;align=left" vertex="1" parent="1">
+          <mxGeometry x="730" y="895" width="560" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-32" value="MySQL 协议 / JDBC" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1" edge="1" parent="1" source="dvZCvjgUctOATZhmnxdy-4" target="dvZCvjgUctOATZhmnxdy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-33" value="RPC 下发执行计划" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1" edge="1" parent="1" source="dvZCvjgUctOATZhmnxdy-12" target="dvZCvjgUctOATZhmnxdy-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-34" value="RPC 返回结果 Block" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1" edge="1" parent="1" source="dvZCvjgUctOATZhmnxdy-24" target="dvZCvjgUctOATZhmnxdy-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvZCvjgUctOATZhmnxdy-35" value="结果集" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1" edge="1" parent="1" source="dvZCvjgUctOATZhmnxdy-13" target="dvZCvjgUctOATZhmnxdy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
