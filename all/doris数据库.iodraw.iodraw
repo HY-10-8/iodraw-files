@@ -338,13 +338,13 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-148" value="下发执行计划到BE执行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-139">
           <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-147" value="通过元数据、分区规则、分桶规则判断执行计划应该路由到哪一个分区、分片执行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-139">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-147" value="通过元数据、分区规则、分桶规则判断执行计划应该路由到哪一个分区、分片执行" style="whiteSpace=wrap;html=1;rounded=2;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-139">
           <mxGeometry x="80" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-139" source="Nz2Tu8nq5uW6-hyOi6lk-147" target="Nz2Tu8nq5uW6-hyOi6lk-148">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-145" value="生成执行计划" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-139">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-145" value="生成执行计划" style="whiteSpace=wrap;html=1;rounded=2;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-139">
           <mxGeometry x="80" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-139" source="Nz2Tu8nq5uW6-hyOi6lk-145" target="Nz2Tu8nq5uW6-hyOi6lk-147">
