@@ -514,8 +514,8 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-217" value="常见的分区方式：Range分区、List分区&lt;div&gt;其中Range分区一般是以某个时间字段进行分区，比如将数据以创建时间进行分区，每一个月的数据保存到一个分区&lt;/div&gt;&lt;div&gt;List分区通常是以一组枚举值进行分区，比如根据城市进行分区。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2200" y="2562.5" width="340" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-220" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1660" y="2850" width="120" height="60" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-220" value="根据分桶规则路由到对应的分片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="2800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
