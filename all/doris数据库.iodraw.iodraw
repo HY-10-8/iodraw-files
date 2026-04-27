@@ -694,8 +694,8 @@
             <mxPoint x="-1540" y="3560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-301" value="&lt;div&gt;Master节点是Follower节点中选出来的唯一节点，负责维护元数据，&lt;/div&gt;&lt;div&gt;Master节点会向Follower节点发送心跳检测，Follower也会通过心跳检测判断Master是否挂了，并尝试选举新的Master出来&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Follower节点是普通的FE节点，但是不参与元数据修改。&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Observer节点一般只用于查询数据，不参与任何写入相关&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1910" y="3250" width="340" height="100" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-301" value="&lt;div&gt;Master节点是Follower节点中选出来的唯一节点，负责维护元数据，&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Follower节点是普通的FE节点，但是不参与元数据修改。&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Observer节点一般只用于查询数据，不参与任何写入相关&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1910" y="3250" width="440" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
