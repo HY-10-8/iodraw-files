@@ -660,6 +660,9 @@
             <mxPoint x="-2820" y="3620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-286" value="部分jdbc驱动或业务代码可以通过指定多个连接地址，选择性的使用某一个连接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3040" y="3920" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
