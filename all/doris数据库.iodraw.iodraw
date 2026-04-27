@@ -638,7 +638,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-278" value="FE集群" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2540" y="3413" width="910" height="397" as="geometry" />
+          <mxGeometry x="-2520" y="3413" width="880" height="397" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-279" value="客户端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2050" y="3330" width="60" height="30" as="geometry" />
@@ -664,7 +664,7 @@
           <mxGeometry x="-3040" y="3920" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-288" value="BE 集群" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2540" y="3970" width="900" height="500" as="geometry" />
+          <mxGeometry x="-2520" y="3970" width="880" height="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
