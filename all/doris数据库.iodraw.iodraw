@@ -133,8 +133,10 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-56" value="将数据放入内存table中" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="1690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-62" target="Nz2Tu8nq5uW6-hyOi6lk-64">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Nz2Tu8nq5uW6-hyOi6lk-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="2020" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-66" value="落盘" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nz2Tu8nq5uW6-hyOi6lk-65">
           <mxGeometry x="-0.2174" y="-3" relative="1" as="geometry">
