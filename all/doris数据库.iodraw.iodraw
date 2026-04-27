@@ -365,17 +365,18 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-149" value="BE" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="3010" width="480" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" source="Nz2Tu8nq5uW6-hyOi6lk-151" target="Nz2Tu8nq5uW6-hyOi6lk-153">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" source="Nz2Tu8nq5uW6-hyOi6lk-151">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-151" value="将数据放入到内存table中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-151" value="根据元数据找到对应的segment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
           <mxGeometry x="40" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" source="Nz2Tu8nq5uW6-hyOi6lk-153" target="Nz2Tu8nq5uW6-hyOi6lk-155">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-153" value="1、内存达到阈值&lt;div&gt;2、达到预定时间&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
-          <mxGeometry x="35" y="130" width="130" height="100" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" target="Nz2Tu8nq5uW6-hyOi6lk-155">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="230" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" source="Nz2Tu8nq5uW6-hyOi6lk-155" target="Nz2Tu8nq5uW6-hyOi6lk-157">
           <mxGeometry relative="1" as="geometry" />
@@ -392,26 +393,23 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-158" value="生成元数据，追加到segment文件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
           <mxGeometry x="40" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" source="Nz2Tu8nq5uW6-hyOi6lk-160" target="Nz2Tu8nq5uW6-hyOi6lk-162">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" target="Nz2Tu8nq5uW6-hyOi6lk-162">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" target="Nz2Tu8nq5uW6-hyOi6lk-164">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" target="Nz2Tu8nq5uW6-hyOi6lk-165">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-148" target="Nz2Tu8nq5uW6-hyOi6lk-151">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-160" value="segment文件合并" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
-          <mxGeometry x="280" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" source="Nz2Tu8nq5uW6-hyOi6lk-162" target="Nz2Tu8nq5uW6-hyOi6lk-164">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-162" value="1、定期合并&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;当segment文件过多时触发合并&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
-          <mxGeometry x="260" y="130" width="160" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" source="Nz2Tu8nq5uW6-hyOi6lk-164" target="Nz2Tu8nq5uW6-hyOi6lk-165">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-164" value="将对应的segment文件拿到内存中进行合并生成新的sgment文件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
-          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-165" value="删除原本的segment文件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
-          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
