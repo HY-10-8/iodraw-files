@@ -411,8 +411,8 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-148" target="Nz2Tu8nq5uW6-hyOi6lk-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-172" value="存在跨桶查询数据时，BE之间还存在数据传输" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="3060" width="60" height="30" as="geometry" />
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-172" value="存在跨桶查询数据时，BE之间还存在数据传输" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="3060" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
