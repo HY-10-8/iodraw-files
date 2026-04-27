@@ -622,7 +622,7 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-272" value="仅执行查询类的sql，不涉及写入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1920" y="3895" width="220" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-273" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-273" value="与普通FE的功能基本一致，但是所有fE的元数据写入都由Master执行，并通过&lt;span style=&quot;color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;BDB JE 机制同步到所有FE中&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2330" y="3870" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
