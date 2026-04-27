@@ -419,7 +419,7 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-172" value="存在跨桶查询数据时，BE之间还存在数据交换。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="3040" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-176" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-176" value="一个BE会存储多个分片" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-960" y="3035" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
