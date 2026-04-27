@@ -645,8 +645,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-278" target="Nz2Tu8nq5uW6-hyOi6lk-288">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-278">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2040" y="3810" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-2040" y="3930" />
               <mxPoint x="-2040" y="3930" />
@@ -683,7 +684,7 @@
           <mxGeometry x="-2520" y="3970" width="880" height="500" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-292" value="通过RPC协议传输数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2160" y="3880" width="110" height="30" as="geometry" />
+          <mxGeometry x="-2180" y="3880" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
