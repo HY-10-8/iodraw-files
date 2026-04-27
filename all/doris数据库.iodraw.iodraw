@@ -35,17 +35,17 @@
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-8" target="Nz2Tu8nq5uW6-hyOi6lk-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="610" as="targetPoint" />
+            <mxPoint x="240" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-8" target="Nz2Tu8nq5uW6-hyOi6lk-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-8" value="分片1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-9" value="分片2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-3" target="Nz2Tu8nq5uW6-hyOi6lk-9">
           <mxGeometry relative="1" as="geometry" />
@@ -62,22 +62,22 @@
           <mxGeometry x="-130" y="275" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-14" value="segment A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-16" target="Nz2Tu8nq5uW6-hyOi6lk-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-16" value="逻辑概念，对应的是不同的存储目录&lt;div&gt;通过元数据存储相关数据&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="415" width="210" height="30" as="geometry" />
+          <mxGeometry x="-120" y="455" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-18" value="segment B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-20" target="Nz2Tu8nq5uW6-hyOi6lk-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-20" value="最小存储单元、不可改变。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="535" width="150" height="30" as="geometry" />
+          <mxGeometry x="-180" y="575" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
