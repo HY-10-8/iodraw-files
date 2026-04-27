@@ -365,7 +365,7 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-149" value="BE" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="3010" width="480" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" source="Nz2Tu8nq5uW6-hyOi6lk-151">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" source="Nz2Tu8nq5uW6-hyOi6lk-151" target="Nz2Tu8nq5uW6-hyOi6lk-155">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="130" as="targetPoint" />
           </mxGeometry>
@@ -373,15 +373,10 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-151" value="根据元数据找到对应的segment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
           <mxGeometry x="40" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" target="Nz2Tu8nq5uW6-hyOi6lk-155">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="230" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" source="Nz2Tu8nq5uW6-hyOi6lk-155" target="Nz2Tu8nq5uW6-hyOi6lk-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-155" value="生成新的table" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-155" value="将对应的segment数据拿到内存中进行合并（数据更新、数据删除）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149">
           <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-149" source="Nz2Tu8nq5uW6-hyOi6lk-157" target="Nz2Tu8nq5uW6-hyOi6lk-158">
