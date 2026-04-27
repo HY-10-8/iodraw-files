@@ -420,7 +420,7 @@
           <mxGeometry x="450" y="3040" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-176" value="一个BE会存储多个分片" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="3035" width="60" height="30" as="geometry" />
+          <mxGeometry x="-870" y="3030" width="140" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
