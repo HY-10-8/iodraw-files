@@ -399,7 +399,7 @@
           <mxGeometry x="450" y="3040" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-176" value="一个BE会存储多个分片&lt;div&gt;一个分片会存储在一个或多个BE上（备份）&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1250" y="3040" width="250" height="80" as="geometry" />
+          <mxGeometry x="-1180" y="3040" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.178;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-176" target="Nz2Tu8nq5uW6-hyOi6lk-191">
           <mxGeometry relative="1" as="geometry">
@@ -498,6 +498,11 @@
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-207" value="分区1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1820" y="2700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-209">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1600" y="2840" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-209" value="分区2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1660" y="2700" width="120" height="60" as="geometry" />
