@@ -607,6 +607,11 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-252" target="Nz2Tu8nq5uW6-hyOi6lk-256">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-299" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nz2Tu8nq5uW6-hyOi6lk-276">
+          <mxGeometry x="-0.8933" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-252" value="Master FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2160" y="3490" width="120" height="60" as="geometry" />
         </mxCell>
@@ -689,7 +694,7 @@
             <mxPoint x="-1400" y="3530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-298" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Text&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-298" value="&lt;span style=&quot;background-color: initial;&quot;&gt;FE主要分为两中：Follower和Observer。&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Follwer&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1390" y="3510" width="230" height="110" as="geometry" />
         </mxCell>
       </root>
