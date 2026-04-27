@@ -399,11 +399,11 @@
           <mxGeometry x="450" y="3040" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-176" value="一个BE会存储多个分片&lt;div&gt;一个分片会存储在一个或多个BE上（备份）&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1868.08" y="3040" width="230" height="50" as="geometry" />
+          <mxGeometry x="-1550" y="3040" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-176">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1540" y="3065.12" as="targetPoint" />
+            <mxPoint x="-1221.92" y="3065.12" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-178">
@@ -420,7 +420,7 @@
           <mxGeometry x="-190" y="2960" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-181" value="BE 1（存储2026-3月的数据）" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1190" y="3000" width="230" height="530" as="geometry" />
+          <mxGeometry x="-871.9200000000001" y="3000" width="230" height="530" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-182" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-181" source="Nz2Tu8nq5uW6-hyOi6lk-183" target="Nz2Tu8nq5uW6-hyOi6lk-185">
           <mxGeometry relative="1" as="geometry" />
@@ -450,7 +450,7 @@
           <mxGeometry x="80" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-191" value="BE 合并segment逻辑" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1540" y="3000" width="230" height="450" as="geometry" />
+          <mxGeometry x="-1221.92" y="3000" width="230" height="450" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-191" target="Nz2Tu8nq5uW6-hyOi6lk-195">
           <mxGeometry relative="1" as="geometry">
