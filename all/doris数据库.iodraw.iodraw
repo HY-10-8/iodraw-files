@@ -668,13 +668,8 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-286" value="部分jdbc驱动或业务代码可以通过指定多个连接地址，选择性的使用某一个连接&lt;div&gt;或者在FE前面增加一个代理进行负载均衡&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;doris本身没有对客户端使用哪一个FE有特殊的处理&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3060" y="3730" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-288">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2040" y="3960" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-2000" y="3960" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-288" target="Nz2Tu8nq5uW6-hyOi6lk-278">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-288" value="BE 集群" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2520" y="4240" width="880" height="500" as="geometry" />
