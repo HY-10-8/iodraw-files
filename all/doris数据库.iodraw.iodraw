@@ -247,7 +247,7 @@
           <mxGeometry x="800" y="1160" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-109" value="FE" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="2481" width="280" height="400" as="geometry" />
+          <mxGeometry x="-610" y="2495" width="280" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Nz2Tu8nq5uW6-hyOi6lk-109" source="Nz2Tu8nq5uW6-hyOi6lk-106" target="Nz2Tu8nq5uW6-hyOi6lk-110">
           <mxGeometry relative="1" as="geometry" />
@@ -421,7 +421,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-178" value="通过RPC协议传输数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="2881" width="150" height="70" as="geometry" />
+          <mxGeometry x="-240" y="2881" width="150" height="79" as="geometry" />
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-181" value="BE 1（存储2026-3月的数据）" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-920" y="3000" width="240" height="530" as="geometry" />
