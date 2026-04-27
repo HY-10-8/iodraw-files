@@ -523,6 +523,10 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Nz2Tu8nq5uW6-hyOi6lk-226">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1580" y="2870" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1580" y="2890" />
+              <mxPoint x="-1420" y="2890" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-220" value="根据分桶规则路由到对应的分片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
