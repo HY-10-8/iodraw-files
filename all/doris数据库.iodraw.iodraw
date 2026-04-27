@@ -529,6 +529,11 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-220" target="Nz2Tu8nq5uW6-hyOi6lk-224">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-233" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nz2Tu8nq5uW6-hyOi6lk-228">
+          <mxGeometry x="0.7778" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-220" value="根据分桶规则路由到对应的分片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1640" y="2799" width="120" height="60" as="geometry" />
         </mxCell>
@@ -540,6 +545,11 @@
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-226" value="1" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1480" y="2960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nz2Tu8nq5uW6-hyOi6lk-230">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1580" y="2890" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-230" value="分桶规则：Hash分桶、Random分桶&lt;div&gt;Hash表示对分桶字段进行hash运算，根据hash运算的结果进行分桶，提高数据查询效率&lt;/div&gt;&lt;div&gt;Random分桶表示对数据进行随机分桶，保证每个桶的数据尽量都一样多。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2160" y="2840" width="320" height="100" as="geometry" />
