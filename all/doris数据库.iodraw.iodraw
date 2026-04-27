@@ -640,8 +640,11 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-278" value="FE集群" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2540" y="3413" width="910" height="397" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-279" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-279" value="客户端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2050" y="3330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-280" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3080" y="3581.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
