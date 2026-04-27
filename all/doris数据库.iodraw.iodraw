@@ -616,9 +616,6 @@
         <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-262" value="Observer FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1920" y="3560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nz2Tu8nq5uW6-hyOi6lk-270" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="-1980" y="3320" width="240" height="200" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
