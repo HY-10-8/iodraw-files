@@ -27,7 +27,7 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-14" value="数据导入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-13">
           <mxGeometry x="-0.5142" y="-3" relative="1" as="geometry">
-            <mxPoint x="-7" y="-13" as="offset" />
+            <mxPoint x="-45" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-10" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
