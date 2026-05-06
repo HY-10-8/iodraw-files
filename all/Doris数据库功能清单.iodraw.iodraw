@@ -30,7 +30,7 @@
           <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-31" value="查询规划" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-1">
-          <mxGeometry x="40" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-32" value="CBO基于成本优化" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-1">
           <mxGeometry x="240" y="410" width="120" height="60" as="geometry" />
@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-58" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="-160" width="360" height="220" as="geometry" />
+          <mxGeometry x="920" y="-210" width="360" height="220" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-59" value="计划下发" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-58">
           <mxGeometry x="40" y="40" width="110" height="60" as="geometry" />
