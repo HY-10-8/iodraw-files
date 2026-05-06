@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-58" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="-160" width="360" height="270" as="geometry" />
+          <mxGeometry x="1040" y="-160" width="360" height="240" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-59" value="计划下发" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-58">
           <mxGeometry x="40" y="20" width="110" height="60" as="geometry" />
