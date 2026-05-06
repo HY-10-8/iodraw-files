@@ -134,8 +134,8 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-62" value="元数据/事务相关RPC" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-58">
           <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-65" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-66" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
