@@ -9,6 +9,11 @@
             <mxPoint x="90" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-7" value="Mysql 协议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-5">
+          <mxGeometry x="0.6355" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-1" value="FE" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="70" width="480" height="360" as="geometry" />
         </mxCell>
