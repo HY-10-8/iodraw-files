@@ -7,7 +7,7 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-1" value="FE" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="480" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-1">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-3" value="对外连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-1">
           <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
