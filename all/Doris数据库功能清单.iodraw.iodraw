@@ -26,7 +26,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-81" value="元数据一致性：Berkeley DB Java Edition" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-80">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-81" value="元数据一致性：BDB JE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-80">
           <mxGeometry x="0.0174" y="1" relative="1" as="geometry">
             <mxPoint x="16" y="-9" as="offset" />
           </mxGeometry>
