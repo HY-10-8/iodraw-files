@@ -27,10 +27,10 @@
           <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-31" value="查询规划" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-1">
-          <mxGeometry x="270" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-32" value="CBO基于成本优化" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-1">
-          <mxGeometry x="270" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-6" value="Mysql Client / Dbeaver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="40" width="120" height="60" as="geometry" />
