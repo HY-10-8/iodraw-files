@@ -87,7 +87,7 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-36" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="320" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-37" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-36">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-37" value="集群扩容（FE、BE）" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-36">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
