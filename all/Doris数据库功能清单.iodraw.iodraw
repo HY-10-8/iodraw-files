@@ -109,9 +109,9 @@
             <mxPoint x="1290" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-53" value="&lt;span style=&quot;box-sizing: border-box; border: 0px solid; margin: 0px; padding: 0px; font-weight: 600; --tw-font-weight: 600; color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; white-space: normal;&quot; class=&quot;font-semibold&quot;&gt;Thrift/RPC 接口&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-52">
-          <mxGeometry x="-0.2216" y="-2" relative="1" as="geometry">
-            <mxPoint y="-27" as="offset" />
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-54" value="1233333333333333333" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-52">
+          <mxGeometry x="-0.0486" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
