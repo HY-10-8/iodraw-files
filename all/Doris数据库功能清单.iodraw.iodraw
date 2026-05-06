@@ -145,6 +145,9 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-66" value="联邦查询" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="670" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-69" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1030" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
