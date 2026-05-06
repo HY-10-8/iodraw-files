@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-6" target="_EdtOo8uBjDA7UF6kXO0-1">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-6" target="_EdtOo8uBjDA7UF6kXO0-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="80" as="targetPoint" />
           </mxGeometry>
@@ -48,9 +48,9 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-20" target="_EdtOo8uBjDA7UF6kXO0-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-22" value="查询任务、管理导入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-21">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-22" value="查询任务、管理导入的web页面" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-21">
           <mxGeometry x="-0.7787" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="37" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-20" value="运维" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
