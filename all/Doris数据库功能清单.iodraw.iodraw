@@ -129,11 +129,6 @@
             <mxPoint y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-58">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1330" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-58" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="1150" y="-200" width="360" height="220" as="geometry" />
         </mxCell>
@@ -189,6 +184,9 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-87" value="信息同步，如&lt;div&gt;新增BE&lt;/div&gt;&lt;div&gt;权限变动&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-85">
           <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-90" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="168" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
