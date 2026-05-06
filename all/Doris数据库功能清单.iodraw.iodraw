@@ -109,6 +109,9 @@
             <mxPoint x="1290" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-55" value="&lt;span class=&quot;font-semibold&quot; style=&quot;box-sizing: border-box; border: 0px solid; margin: 0px; padding: 0px; font-weight: 600; --tw-font-weight: 600; color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255);&quot;&gt;Thrift/RPC 接口&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="268" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
