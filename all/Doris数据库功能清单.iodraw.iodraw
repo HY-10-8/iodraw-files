@@ -69,7 +69,7 @@
             <mxPoint x="37" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-50" value="http://192.168.34.201:8030/" style="edgeLabel;html=1;align=left;verticalAlign=top;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-21">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-50" value="http://192.168.34.201:8030/&lt;div&gt;支持执行sql、查看日志等功能&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=top;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-21">
           <mxGeometry x="-0.7565" y="-5" relative="1" as="geometry">
             <mxPoint x="-44" y="-5" as="offset" />
           </mxGeometry>
