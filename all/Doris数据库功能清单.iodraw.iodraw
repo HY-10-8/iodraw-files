@@ -91,7 +91,7 @@
           <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-36" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="680" width="200" height="200" as="geometry" />
+          <mxGeometry x="1040" y="1160" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-37" value="集群扩容（FE、BE）" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-36">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
