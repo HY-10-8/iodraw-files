@@ -9,7 +9,7 @@
             <mxPoint x="90" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-7" value="Mysql 协议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-5">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-7" value="根据 Mysql 协议执行的sql" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-5">
           <mxGeometry x="0.6355" y="-1" relative="1" as="geometry">
             <mxPoint x="-243" y="-101" as="offset" />
           </mxGeometry>
