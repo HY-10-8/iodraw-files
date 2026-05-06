@@ -134,6 +134,14 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-62" value="元数据/事务相关RPC" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-58">
           <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-66" target="_EdtOo8uBjDA7UF6kXO0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-68" value="将Doris作为查询分析器，查询其他数据库的数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-67">
+          <mxGeometry x="-0.7175" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-66" value="联邦查询" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="670" width="120" height="60" as="geometry" />
         </mxCell>
