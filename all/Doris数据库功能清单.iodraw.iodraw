@@ -175,8 +175,11 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-74" value="......" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-69">
           <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-85" target="_EdtOo8uBjDA7UF6kXO0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-85" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-360" width="200" height="290" as="geometry" />
+          <mxGeometry x="420" y="-380" width="200" height="290" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-84" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Master（主）&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px; white-space: nowrap;&quot;&gt;FE&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px; white-space: nowrap;&quot;&gt;选举&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-85">
           <mxGeometry x="40" y="20" width="120" height="60" as="geometry" />
