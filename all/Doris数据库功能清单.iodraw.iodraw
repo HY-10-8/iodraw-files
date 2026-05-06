@@ -78,10 +78,10 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-33" value="BE" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="680" width="480" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-34" value="数据存储" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-34" value="数据存储" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-33">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-35" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-35" value="数据查询（执行查询计划）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
