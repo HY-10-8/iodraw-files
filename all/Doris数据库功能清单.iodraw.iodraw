@@ -172,19 +172,6 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-74" value="......" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-69">
           <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-1" target="_EdtOo8uBjDA7UF6kXO0-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="720" y="-80" />
-              <mxPoint x="620" y="-80" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-83" value="通过RPC协议" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-82">
-          <mxGeometry x="-0.01" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
