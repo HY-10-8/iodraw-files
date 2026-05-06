@@ -45,6 +45,9 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-19" value="HTTP" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-10">
           <mxGeometry x="40" y="263.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-20" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
