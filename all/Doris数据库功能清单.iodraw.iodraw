@@ -15,9 +15,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-1" value="FE" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="70" width="480" height="360" as="geometry" />
+          <mxGeometry x="520" y="70" width="480" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-24" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-1">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-24" value="语法校验" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-1">
           <mxGeometry x="170" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-6" value="Mysql Client / Dbeaver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
