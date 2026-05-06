@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="2eCwMeu1AZKKSfXXHXNU">
-    <mxGraphModel dx="3243" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3243" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,8 +111,11 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-57" value="Thrift/RPC 接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-52">
           <mxGeometry x="-0.0054" y="-3" relative="1" as="geometry">
-            <mxPoint x="6" y="-113" as="offset" />
+            <mxPoint y="-13" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-58" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="-160" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
