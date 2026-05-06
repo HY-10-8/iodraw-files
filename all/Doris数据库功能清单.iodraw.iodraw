@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-1" target="_EdtOo8uBjDA7UF6kXO0-6">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-1" target="_EdtOo8uBjDA7UF6kXO0-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="80" as="targetPoint" />
           </mxGeometry>
@@ -19,7 +19,7 @@
             <mxPoint x="80" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-8">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-11" value="数据导入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-8">
           <mxGeometry x="0.5591" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
