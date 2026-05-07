@@ -354,8 +354,8 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-147" value="MySQL" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-146">
           <mxGeometry x="80" y="39" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-148" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="1920" width="120" height="60" as="geometry" />
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-148" value="Oracle" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-146">
+          <mxGeometry x="80" y="139" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
