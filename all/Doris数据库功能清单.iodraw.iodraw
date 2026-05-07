@@ -351,8 +351,11 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-146" value="外部数据源" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1640" y="1761" width="360" height="359" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-147" value="HDFS" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-146">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-147" value="MySQL" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-146">
           <mxGeometry x="80" y="39" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-148" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
