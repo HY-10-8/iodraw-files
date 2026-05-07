@@ -350,7 +350,7 @@
           <mxGeometry x="180" y="21" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-186" value="" style="swimlane;startSize=0;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-154">
-          <mxGeometry x="420" y="510" width="340" height="389" as="geometry" />
+          <mxGeometry x="410" y="430" width="340" height="389" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-109" value="&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;font color=&quot;#333333&quot; face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, Segoe UI Emoji, SF Pro, sans-serif&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;元数据管理&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-186">
           <mxGeometry x="100" y="19" width="120" height="60" as="geometry" />
