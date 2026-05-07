@@ -251,9 +251,6 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-99" value="JDBC、Dbeaver" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-620" y="1821" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-131" target="_EdtOo8uBjDA7UF6kXO0-111">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-113" target="_EdtOo8uBjDA7UF6kXO0-134">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -446,6 +443,9 @@
               <mxPoint x="680" y="1852" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-131" target="_EdtOo8uBjDA7UF6kXO0-111">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
