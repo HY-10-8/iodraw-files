@@ -422,13 +422,13 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-171" value="BE3" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-174" value="客户端、生态工具" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-174" value="客户端、生态工具" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-640" y="2880" width="200" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-175" value="SQL Client&lt;div&gt;（JDBC、ODBC）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-174">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-175" value="SQL Client&lt;div style=&quot;font-size: 16px;&quot;&gt;（JDBC、ODBC）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-174">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-176" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-174">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-176" value="" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-174">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
