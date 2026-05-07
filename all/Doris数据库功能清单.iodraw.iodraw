@@ -378,7 +378,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-154" value="Doris集群" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="1680" width="1680" height="840" as="geometry" />
+          <mxGeometry x="-160" y="1680" width="1680" height="1090" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
