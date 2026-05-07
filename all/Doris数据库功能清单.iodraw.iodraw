@@ -349,7 +349,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-146" value="外部数据源" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="1790" width="200" height="200" as="geometry" />
+          <mxGeometry x="1640" y="1761" width="360" height="359" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
