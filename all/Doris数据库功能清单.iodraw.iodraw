@@ -360,6 +360,9 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-149" value="HIve" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-146">
           <mxGeometry x="40" y="259" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-150" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-146">
+          <mxGeometry x="200" y="59" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
