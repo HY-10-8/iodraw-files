@@ -188,9 +188,6 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-95" value="FE" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1761" width="680" height="759" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-109" value="&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;font color=&quot;#333333&quot; face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, Segoe UI Emoji, SF Pro, sans-serif&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;元数据管理&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-95">
-          <mxGeometry x="200" y="359" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-111" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;SF Pro&amp;quot;, sans-serif; font-size: 16px; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;集群管理&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-95">
           <mxGeometry x="520" y="359" width="120" height="60" as="geometry" />
         </mxCell>
@@ -202,9 +199,6 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-116" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;SF Pro&amp;quot;, sans-serif; font-size: 16px; text-align: left; white-space: pre-wrap; background-color: rgb(248, 248, 248);&quot;&gt;外部数据源&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-95">
           <mxGeometry x="520" y="159" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-117" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;SF Pro&amp;quot;, sans-serif; font-size: 16px; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;统计信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-95">
-          <mxGeometry x="360" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-118" value="物化视图" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-95">
           <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
@@ -371,7 +365,13 @@
           <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-186" value="" style="swimlane;startSize=0;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-154">
-          <mxGeometry x="420" y="531" width="200" height="200" as="geometry" />
+          <mxGeometry x="420" y="531" width="320" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-109" value="&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;font color=&quot;#333333&quot; face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, Segoe UI Emoji, SF Pro, sans-serif&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;元数据管理&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-186">
+          <mxGeometry x="100" y="19" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-117" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;SF Pro&amp;quot;, sans-serif; font-size: 16px; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;统计信息&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-186">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-156" value="Doris 数据库" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry y="2880" width="1640" height="760" as="geometry" />
