@@ -198,10 +198,10 @@
           <mxGeometry x="920" y="1761" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-99" value="JDBC、Dbeaver" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="1701" width="120" height="60" as="geometry" />
+          <mxGeometry x="-620" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-100" value="HDFS、S3、KafKa&lt;div&gt;HTTP&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="1790" width="120" height="60" as="geometry" />
+          <mxGeometry x="-620" y="1829" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
