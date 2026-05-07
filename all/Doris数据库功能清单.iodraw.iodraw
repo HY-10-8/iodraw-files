@@ -522,16 +522,13 @@
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-223" value="&lt;span style=&quot;color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;元数据管理&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="4815" width="140" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-224" value="&lt;br&gt;&lt;div&gt;&lt;table style=&quot;border-width: 0px; border-style: solid; border-color: inherit; border-image: initial; margin: 0px; padding: 0px; text-indent: 0px; border-collapse: collapse; width: 736px; table-layout: auto; --tw-leading: calc(14px + 8px); line-height: 22px; font-size: 14px; color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot; class=&quot;text-size-chat leading-[calc(var(--codex-chat-font-size)+8px)] extension:leading-normal w-full table-auto border-collapse&quot;&gt;&lt;tbody style=&quot;box-sizing: border-box; border: 0px solid; margin: 0px; padding: 0px;&quot;&gt;&lt;tr style=&quot;box-sizing: border-box; border-width: 0px 0px 1px; border-style: solid; border-color: rgba(26, 28, 31, 0.08); border-image: initial; margin: 0px; padding: 0px;&quot; class=&quot;border-b border-token-border last:border-b-0&quot;&gt;&lt;td style=&quot;box-sizing: border-box; border: 0px solid; margin: 0px; padding: 4px; max-width: 192px; min-width: 64px; vertical-align: top; overflow-wrap: break-word;&quot; class=&quot;max-w-48 min-w-16 p-1 align-top break-words whitespace-normal&quot;&gt;Catalog-目录&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-223">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+          <mxGeometry x="1175" y="4815" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-225" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-223">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-226" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-223">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
