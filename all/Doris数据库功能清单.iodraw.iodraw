@@ -370,6 +370,9 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-121" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;SF Pro&amp;quot;, sans-serif; font-size: 16px; text-align: left; white-space: pre-wrap; background-color: rgb(248, 248, 248);&quot;&gt;高可用角色&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-154">
           <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-186" value="" style="swimlane;startSize=0;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-154">
+          <mxGeometry x="420" y="531" width="200" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-156" value="Doris 数据库" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry y="2880" width="1640" height="760" as="geometry" />
         </mxCell>
