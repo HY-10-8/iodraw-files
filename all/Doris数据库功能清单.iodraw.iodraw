@@ -384,7 +384,7 @@
           <mxGeometry x="-360" y="2920" width="1640" height="760" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-158" value="FE集群" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-156">
-          <mxGeometry x="80" y="40" width="600" height="360" as="geometry" />
+          <mxGeometry x="80" y="40" width="520" height="360" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-159" value="Master FE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
@@ -394,6 +394,9 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-161" value="Follower FE" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
           <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-162" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
+          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
