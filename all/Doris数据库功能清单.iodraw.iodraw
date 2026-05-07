@@ -318,7 +318,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-183" value="" style="swimlane;startSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneFillColor=#dae8fc;gradientColor=none;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-154">
-          <mxGeometry x="100" y="120" width="320" height="210" as="geometry">
+          <mxGeometry x="100" y="120" width="320" height="280" as="geometry">
             <mxRectangle x="100" y="120" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
