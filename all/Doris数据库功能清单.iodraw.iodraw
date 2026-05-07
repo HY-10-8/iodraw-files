@@ -191,7 +191,7 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-96" value="BE" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="1480" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-97" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-97" value="&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;SF Pro&amp;quot;, sans-serif; font-size: 16px; text-align: left; white-space: pre-wrap;&quot;&gt;SQL 接入&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
