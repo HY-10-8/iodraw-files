@@ -107,7 +107,7 @@
           <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-29" value="外部数据与联邦查询" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="160" width="410" height="340" as="geometry" />
+          <mxGeometry x="1960" y="160" width="410" height="340" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nchbdZMz5PszLTY394G-29" source="6nchbdZMz5PszLTY394G-96" target="6nchbdZMz5PszLTY394G-104">
           <mxGeometry relative="1" as="geometry" />
@@ -178,7 +178,12 @@
           <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-36" target="6nchbdZMz5PszLTY394G-45">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1840" y="570" />
+              <mxPoint x="1840" y="630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-146" value="查询数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6nchbdZMz5PszLTY394G-43">
           <mxGeometry x="0.1297" y="-1" relative="1" as="geometry">
