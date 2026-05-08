@@ -76,9 +76,6 @@
         <mxCell id="6nchbdZMz5PszLTY394G-122" value="SQL执行入口" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-22">
           <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-26" target="6nchbdZMz5PszLTY394G-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-26" value="SQL解析与分析" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1169" y="720" width="440" height="470" as="geometry" />
         </mxCell>
@@ -167,9 +164,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-51" target="6nchbdZMz5PszLTY394G-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-60" target="6nchbdZMz5PszLTY394G-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-60" target="6nchbdZMz5PszLTY394G-42">
@@ -300,6 +294,9 @@
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-117" value="REST 管理接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-115">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-122" target="6nchbdZMz5PszLTY394G-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
