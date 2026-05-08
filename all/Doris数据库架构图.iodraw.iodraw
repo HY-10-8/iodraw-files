@@ -125,7 +125,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-42" value="&lt;span style=&quot;box-sizing: border-box; border: 0px solid; margin: 0px; padding: 0px; --tw-font-weight: 600; color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;font-semibold&quot;&gt;查询调度与协调模块&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="840" width="410" height="340" as="geometry" />
+          <mxGeometry x="1520" y="860" width="410" height="460" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nchbdZMz5PszLTY394G-42" source="6nchbdZMz5PszLTY394G-45" target="6nchbdZMz5PszLTY394G-46">
           <mxGeometry relative="1" as="geometry" />
@@ -156,6 +156,9 @@
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-57" value="结果汇总" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-42">
           <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-143" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-42">
+          <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-36" target="6nchbdZMz5PszLTY394G-45">
           <mxGeometry relative="1" as="geometry" />
