@@ -137,10 +137,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-60" value="元数据管理模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="600" width="200" height="200" as="geometry" />
+          <mxGeometry x="2080" y="600" width="380" height="400" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-61" value="Catalog管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-60">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-62" value="DataBase管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-60">
+          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-63" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-60">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
