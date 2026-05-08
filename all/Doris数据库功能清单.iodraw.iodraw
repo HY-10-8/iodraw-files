@@ -510,7 +510,7 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-402" value="数据交换" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-399">
           <mxGeometry x="0.0696" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-400" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-167" source="_EdtOo8uBjDA7UF6kXO0-170" target="_EdtOo8uBjDA7UF6kXO0-171">
@@ -521,6 +521,11 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-401" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-167" source="_EdtOo8uBjDA7UF6kXO0-171" target="_EdtOo8uBjDA7UF6kXO0-170">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-403" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-401">
+          <mxGeometry x="0.0094" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-171" value="BE3" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
