@@ -178,18 +178,6 @@
         <mxCell id="6nchbdZMz5PszLTY394G-64" value="Partition管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-60">
           <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-65" value="TAblet/Replica元数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-60">
-          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-66" value="Schema变更" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-60">
-          <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-67" value="统计消息" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-60">
-          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-68" value="元数据持久化" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-60">
-          <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-75" value="事务与作业管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="930" width="360" height="200" as="geometry" />
         </mxCell>
@@ -308,6 +296,18 @@
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-87" value="合并任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-142">
           <mxGeometry x="40" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-65" value="TAblet/Replica元数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-66" value="Schema变更" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-67" value="统计消息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-68" value="元数据持久化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
