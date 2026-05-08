@@ -443,7 +443,7 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-174" target="_EdtOo8uBjDA7UF6kXO0-287">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-294" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-288">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-294" value="MySql 协议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-288">
           <mxGeometry x="-0.6757" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
