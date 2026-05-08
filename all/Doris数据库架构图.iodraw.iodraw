@@ -89,7 +89,7 @@
           <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-29" value="外部数据与联邦查询" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="550" width="200" height="200" as="geometry" />
+          <mxGeometry x="1640" y="550" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-36" target="6nchbdZMz5PszLTY394G-29">
           <mxGeometry relative="1" as="geometry" />
@@ -115,7 +115,7 @@
         <mxCell id="6nchbdZMz5PszLTY394G-48" value="BE选择与实例分配" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-42">
           <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-51" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-42">
+        <mxCell id="6nchbdZMz5PszLTY394G-51" value="执行任务下发" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-42">
           <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-36" target="6nchbdZMz5PszLTY394G-42">
