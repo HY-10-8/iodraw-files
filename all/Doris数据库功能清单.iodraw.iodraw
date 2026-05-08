@@ -488,7 +488,7 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-321" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Segoe UI&amp;quot;, helvetica, verdana, sans-serif; font-size: 14px; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;存储事务&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="390" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-335" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Segoe UI&amp;quot;, helvetica, verdana, sans-serif; font-size: 14px; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;导入执行&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-335" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="180" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-329" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Segoe UI&amp;quot;, helvetica, verdana, sans-serif; font-size: 14px; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;数据扫描&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
