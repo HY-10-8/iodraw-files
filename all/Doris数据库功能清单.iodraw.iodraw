@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="2eCwMeu1AZKKSfXXHXNU">
-    <mxGraphModel dx="2426" dy="1492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2972" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -471,6 +471,14 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-301" value="&lt;span style=&quot;color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;查询调度与协调&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
           <mxGeometry x="430" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-395" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-388" target="_EdtOo8uBjDA7UF6kXO0-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-396" value="更新元数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-395">
+          <mxGeometry x="-0.2687" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-388" value="返回结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
           <mxGeometry x="240" y="520" width="120" height="60" as="geometry" />
