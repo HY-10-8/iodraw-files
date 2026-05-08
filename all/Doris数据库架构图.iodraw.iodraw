@@ -60,6 +60,9 @@
         <mxCell id="6nchbdZMz5PszLTY394G-22" value="会话管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="400" width="200" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-26" value="SQL解析与分析" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="690" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
