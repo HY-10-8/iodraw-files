@@ -52,16 +52,17 @@
         <mxCell id="6nchbdZMz5PszLTY394G-14" value="Mysql 协议接口&lt;div&gt;9030&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-20">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1020" y="690" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="6nchbdZMz5PszLTY394G-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-22" target="6nchbdZMz5PszLTY394G-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-22" value="会话管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="400" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-26" value="SQL解析与分析" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="690" width="200" height="200" as="geometry" />
+          <mxGeometry x="920" y="680" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-26">
+          <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
