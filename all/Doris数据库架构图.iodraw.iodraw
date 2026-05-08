@@ -193,9 +193,6 @@
         <mxCell id="6nchbdZMz5PszLTY394G-68" value="元数据持久化" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-60">
           <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-75" target="6nchbdZMz5PszLTY394G-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-75" value="事务与作业管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1200" width="360" height="480" as="geometry" />
         </mxCell>
