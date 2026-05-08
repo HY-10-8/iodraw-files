@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="JY_4SN1vGHJHv1_xCJ_7">
-    <mxGraphModel dx="2183" dy="1983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2183" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,14 +157,14 @@
         <mxCell id="6nchbdZMz5PszLTY394G-57" value="结果汇总" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-42">
           <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-36" target="6nchbdZMz5PszLTY394G-42">
+        <mxCell id="6nchbdZMz5PszLTY394G-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-36" target="6nchbdZMz5PszLTY394G-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-51" target="6nchbdZMz5PszLTY394G-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-60" value="元数据管理模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="-120" width="680" height="440" as="geometry" />
+          <mxGeometry x="760" y="110" width="680" height="240" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-61" value="Catalog管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-60">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
@@ -186,6 +186,9 @@
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-67" value="统计消息" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-60">
           <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-68" value="元数据持久化" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-60">
+          <mxGeometry x="520" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-75" value="事务与作业管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="930" width="360" height="200" as="geometry" />
@@ -305,9 +308,6 @@
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-87" value="合并任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-142">
           <mxGeometry x="40" y="241" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-68" value="元数据持久化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
