@@ -209,10 +209,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-88" value="Agent任务" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2630" y="1270" width="200" height="200" as="geometry" />
+          <mxGeometry x="2640" y="1241" width="340" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-89" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2670" y="1330" width="120" height="60" as="geometry" />
+        <mxCell id="6nchbdZMz5PszLTY394G-89" value="接收FE任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-88">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
