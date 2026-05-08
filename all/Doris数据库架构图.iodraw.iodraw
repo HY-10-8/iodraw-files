@@ -95,10 +95,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-29" value="外部数据与联邦查询" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="320" width="200" height="200" as="geometry" />
+          <mxGeometry x="2000" y="320" width="200" height="390" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-96" value="&lt;span style=&quot;color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;External&amp;nbsp;&lt;/span&gt;Catalog&lt;div&gt;管理&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-29">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-103" value="&lt;span style=&quot;color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;分区与文件发现&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-29">
+          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-36" target="6nchbdZMz5PszLTY394G-29">
           <mxGeometry relative="1" as="geometry" />
@@ -240,9 +243,6 @@
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-99" value="外部访问" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-98">
           <mxGeometry x="430" y="80" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-102" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2050" y="410" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
