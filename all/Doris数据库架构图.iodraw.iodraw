@@ -234,7 +234,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-98" value="BE" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2120" y="580" width="1020" height="1280" as="geometry" />
+          <mxGeometry x="2080" y="580" width="1020" height="1280" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-54" value="FE查询执行" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-98">
           <mxGeometry x="80" y="280" width="200" height="200" as="geometry" />
