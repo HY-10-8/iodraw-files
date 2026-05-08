@@ -716,7 +716,7 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-291" value="KafKa" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-289">
           <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-292" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-289">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-292" value="HDFS / S3" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-289">
           <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
