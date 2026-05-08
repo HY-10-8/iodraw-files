@@ -401,6 +401,11 @@
             <mxPoint x="320" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-385" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-280">
+          <mxGeometry x="-0.1261" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-283" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Follower FE&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
@@ -571,7 +576,7 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-379" value="FE询问，BE上报当前状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-326">
           <mxGeometry x="0.0467" relative="1" as="geometry">
-            <mxPoint x="13" y="-10" as="offset" />
+            <mxPoint x="33" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-341" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-156" source="_EdtOo8uBjDA7UF6kXO0-301" target="_EdtOo8uBjDA7UF6kXO0-335">
