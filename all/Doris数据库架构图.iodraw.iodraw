@@ -40,8 +40,13 @@
         <mxCell id="6nchbdZMz5PszLTY394G-12" value="浏览器" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-11">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="514" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-20" value="接入层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="290" width="200" height="200" as="geometry" />
+          <mxGeometry x="620" y="414" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-15" value="HTTP/REST&lt;div&gt;8030&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-20">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
