@@ -301,7 +301,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-142" value="后台任务" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1200" width="200" height="330" as="geometry" />
+          <mxGeometry x="1060" y="1180" width="200" height="330" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-84" value="导出任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-142">
           <mxGeometry x="40" y="41" width="120" height="60" as="geometry" />
