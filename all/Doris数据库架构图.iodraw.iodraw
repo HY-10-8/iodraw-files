@@ -311,6 +311,9 @@
         <mxCell id="6nchbdZMz5PszLTY394G-87" value="合并任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-86">
           <mxGeometry x="20" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-142" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1200" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
