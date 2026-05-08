@@ -470,7 +470,7 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-315" value="FE查询执行" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-327" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Segoe UI&amp;quot;, helvetica, verdana, sans-serif; font-size: 14px; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;Agent 任务&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-327" value="Agent 任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="220" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-323" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Helvetica Neue, Segoe UI, helvetica, verdana, sans-serif&quot; color=&quot;#444444&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;向量化计算&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
@@ -494,7 +494,7 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-329" value="数据扫描" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="40" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-325" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Segoe UI&amp;quot;, helvetica, verdana, sans-serif; font-size: 14px; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;心跳上报&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-325" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Helvetica Neue, Segoe UI, helvetica, verdana, sans-serif&quot; color=&quot;#444444&quot;&gt;心跳上报&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="40" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-156" source="_EdtOo8uBjDA7UF6kXO0-304" target="_EdtOo8uBjDA7UF6kXO0-305">
