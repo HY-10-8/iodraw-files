@@ -40,7 +40,7 @@
         <mxCell id="6nchbdZMz5PszLTY394G-12" value="浏览器" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-11">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-20" target="6nchbdZMz5PszLTY394G-22">
+        <mxCell id="6nchbdZMz5PszLTY394G-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-20" target="6nchbdZMz5PszLTY394G-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-20" value="接入层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -51,6 +51,11 @@
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-14" value="Mysql 协议接口&lt;div&gt;9030&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-20">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="690" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-22" value="会话管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="400" width="200" height="200" as="geometry" />
