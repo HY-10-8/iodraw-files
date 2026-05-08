@@ -251,16 +251,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-107" value="集群管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2010" y="-120" width="420" height="400" as="geometry" />
+          <mxGeometry x="2000" y="-160" width="420" height="400" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-110" value="Edit log 复制&lt;div&gt;元数据同步&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-107">
-          <mxGeometry x="30" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-109" value="Master 选举" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-107">
-          <mxGeometry x="30" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-111" value="FE间请求转发" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-107">
-          <mxGeometry x="30" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-108" value="FE节点管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-107">
           <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
