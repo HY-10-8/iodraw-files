@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="JY_4SN1vGHJHv1_xCJ_7">
-    <mxGraphModel dx="2593" dy="2200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1803" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,7 +191,7 @@
           <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-75" value="事务与作业管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1120" width="360" height="440" as="geometry" />
+          <mxGeometry x="880" y="1220" width="360" height="440" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-78" value="事务开始" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-75">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
@@ -204,18 +204,6 @@
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-81" value="导入事务&lt;div&gt;Stram Load&lt;/div&gt;&lt;div&gt;Routine Load&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-75">
           <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-86" value="" style="swimlane;startSize=0;" vertex="1" parent="6nchbdZMz5PszLTY394G-75">
-          <mxGeometry x="180" y="30" width="160" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-84" value="导出任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-86">
-          <mxGeometry x="20" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-85" value="备份/恢复任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-86">
-          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-87" value="合并任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-86">
-          <mxGeometry x="20" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-34" target="6nchbdZMz5PszLTY394G-75">
           <mxGeometry relative="1" as="geometry" />
@@ -310,6 +298,18 @@
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-15" target="6nchbdZMz5PszLTY394G-115">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-86" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1220" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-84" value="导出任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-86">
+          <mxGeometry x="20" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-85" value="备份/恢复任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-86">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-87" value="合并任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-86">
+          <mxGeometry x="20" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
