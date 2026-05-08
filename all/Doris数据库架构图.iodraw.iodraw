@@ -109,13 +109,14 @@
         <mxCell id="6nchbdZMz5PszLTY394G-46" value="扫描范围分配" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-42">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nchbdZMz5PszLTY394G-42" source="6nchbdZMz5PszLTY394G-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="270" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="6nchbdZMz5PszLTY394G-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nchbdZMz5PszLTY394G-42" source="6nchbdZMz5PszLTY394G-48" target="6nchbdZMz5PszLTY394G-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-48" value="BE选择与实例分配" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-42">
           <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-51" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-42">
+          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-36" target="6nchbdZMz5PszLTY394G-42">
           <mxGeometry relative="1" as="geometry" />
