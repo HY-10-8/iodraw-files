@@ -377,7 +377,7 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-158" value="FE集群" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-156">
           <mxGeometry x="80" y="80" width="760" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" target="_EdtOo8uBjDA7UF6kXO0-284">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-285" target="_EdtOo8uBjDA7UF6kXO0-284">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="70" as="sourcePoint" />
             <mxPoint x="570" y="70" as="targetPoint" />
@@ -423,7 +423,7 @@
           <mxGeometry x="560" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-285" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Master FE&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
-          <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-167" value="BE集群" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-156">
           <mxGeometry x="1040" y="80" width="520" height="360" as="geometry" />
@@ -438,7 +438,7 @@
           <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-174" value="客户端、生态工具" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="2880" width="200" height="360" as="geometry" />
+          <mxGeometry x="-640" y="2880" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-175" value="SQL Client&lt;div style=&quot;font-size: 16px;&quot;&gt;（JDBC、ODBC）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-174">
           <mxGeometry x="35" y="40" width="135" height="60" as="geometry" />
