@@ -67,11 +67,20 @@
         <mxCell id="6nchbdZMz5PszLTY394G-28" value="SQL 词法/语法解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-26">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nchbdZMz5PszLTY394G-26" source="6nchbdZMz5PszLTY394G-32" target="6nchbdZMz5PszLTY394G-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-32" value="语义分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-26">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nchbdZMz5PszLTY394G-26" source="6nchbdZMz5PszLTY394G-34" target="6nchbdZMz5PszLTY394G-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-34" value="权限校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-26">
           <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nchbdZMz5PszLTY394G-26" source="6nchbdZMz5PszLTY394G-35" target="6nchbdZMz5PszLTY394G-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-35" value="生成执行计划" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-26">
           <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
