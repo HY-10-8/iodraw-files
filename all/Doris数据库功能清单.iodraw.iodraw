@@ -570,9 +570,6 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-350" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-156" source="_EdtOo8uBjDA7UF6kXO0-303" target="_EdtOo8uBjDA7UF6kXO0-327">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-351" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-156" source="_EdtOo8uBjDA7UF6kXO0-303" target="_EdtOo8uBjDA7UF6kXO0-331">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-362" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.458;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-156" source="_EdtOo8uBjDA7UF6kXO0-303" target="_EdtOo8uBjDA7UF6kXO0-322">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
