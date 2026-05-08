@@ -61,7 +61,7 @@
         <mxCell id="6nchbdZMz5PszLTY394G-26" value="SQL解析与分析" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="680" width="440" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-28" value="SQL解析与分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-26">
+        <mxCell id="6nchbdZMz5PszLTY394G-28" value="SQL 词法/语法解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-26">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-26">
