@@ -290,7 +290,7 @@
           <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-115" value="运维与管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="640" width="200" height="240" as="geometry" />
+          <mxGeometry x="600" y="680" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-116" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif&quot; color=&quot;#1a1c1f&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;Web UI&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-115">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
@@ -336,7 +336,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-142" value="后台任务" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="800" width="200" height="340" as="geometry" />
+          <mxGeometry x="1400" y="860" width="200" height="340" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-84" value="导出任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-142">
           <mxGeometry x="40" y="41" width="120" height="60" as="geometry" />
