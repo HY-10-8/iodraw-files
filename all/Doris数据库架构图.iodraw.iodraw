@@ -232,6 +232,9 @@
         <mxCell id="6nchbdZMz5PszLTY394G-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-96" target="6nchbdZMz5PszLTY394G-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-98" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="480" width="1020" height="1280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
