@@ -31,6 +31,9 @@
         <mxCell id="6nchbdZMz5PszLTY394G-10" value="HDFS / S3" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-7">
           <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-11" target="6nchbdZMz5PszLTY394G-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-11" value="运维" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="870" width="200" height="200" as="geometry" />
         </mxCell>
@@ -41,7 +44,7 @@
           <mxGeometry x="640" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-15" value="HTTP/REST&lt;div&gt;8030&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
