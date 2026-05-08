@@ -443,6 +443,11 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-174" target="_EdtOo8uBjDA7UF6kXO0-287">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-294" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-288">
+          <mxGeometry x="-0.6757" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-174" value="客户端、生态工具" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-640" y="2880" width="200" height="240" as="geometry" />
         </mxCell>
@@ -706,6 +711,9 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-275" value="&lt;span style=&quot;color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;Profile 汇总&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-269">
           <mxGeometry y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-289" target="_EdtOo8uBjDA7UF6kXO0-287">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-289" value="数据源" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-640" y="3160" width="200" height="310" as="geometry" />
