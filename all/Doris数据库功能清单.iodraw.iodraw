@@ -453,7 +453,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-167" value="BE集群" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-156">
-          <mxGeometry x="1040" y="80" width="520" height="360" as="geometry" />
+          <mxGeometry x="1040" y="80" width="520" height="640" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-168" value="BE1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
@@ -466,6 +466,9 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-305" value="外部访问" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-315" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Segoe UI&amp;quot;, helvetica, verdana, sans-serif; font-size: 14px; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;FE查询执行&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
+          <mxGeometry x="190" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-156" source="_EdtOo8uBjDA7UF6kXO0-304" target="_EdtOo8uBjDA7UF6kXO0-305">
           <mxGeometry relative="1" as="geometry" />
@@ -778,9 +781,6 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-311" value="浏览器" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-310">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-315" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Segoe UI&amp;quot;, helvetica, verdana, sans-serif; font-size: 14px; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;FE查询执行&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="3120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
