@@ -160,6 +160,9 @@
         <mxCell id="6nchbdZMz5PszLTY394G-67" value="统计消息" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-60">
           <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-68" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-60">
+          <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
