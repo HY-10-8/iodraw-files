@@ -763,7 +763,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-310" value="运维" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="3522" width="200" height="200" as="geometry" />
+          <mxGeometry x="-640" y="3480" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-311" value="浏览器" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-310">
           <mxGeometry x="40" y="48" width="120" height="60" as="geometry" />
