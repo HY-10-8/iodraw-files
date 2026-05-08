@@ -70,6 +70,11 @@
         <mxCell id="6nchbdZMz5PszLTY394G-121" value="上下文管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-22">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nchbdZMz5PszLTY394G-22" source="6nchbdZMz5PszLTY394G-124">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-124" value="执行状态维护" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-22">
           <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
         </mxCell>
