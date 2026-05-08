@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-123" value="结果返回控制" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-22">
-          <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nchbdZMz5PszLTY394G-22" source="6nchbdZMz5PszLTY394G-121" target="6nchbdZMz5PszLTY394G-122">
           <mxGeometry relative="1" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-124" value="执行状态维护" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-22">
-          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-122" value="SQL执行入口" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-22">
           <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
@@ -230,7 +230,7 @@
         <mxCell id="6nchbdZMz5PszLTY394G-81" value="导入数据事务&lt;div&gt;Stram Load&lt;/div&gt;&lt;div&gt;Routine Load&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-75">
           <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-34" target="6nchbdZMz5PszLTY394G-75">
+        <mxCell id="6nchbdZMz5PszLTY394G-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-34" target="6nchbdZMz5PszLTY394G-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-98" value="BE" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
