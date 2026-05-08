@@ -479,7 +479,7 @@
           <mxGeometry x="-640" y="2840" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-175" value="SQL Client&lt;div style=&quot;font-size: 16px;&quot;&gt;（JDBC、ODBC）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-174">
-          <mxGeometry x="35" y="40" width="135" height="60" as="geometry" />
+          <mxGeometry x="40" y="40" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-176" value="BI报表" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-174">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
@@ -757,7 +757,7 @@
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-292" value="HDFS / S3" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-289">
-          <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-312" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-310" target="_EdtOo8uBjDA7UF6kXO0-308">
           <mxGeometry relative="1" as="geometry" />
@@ -766,7 +766,7 @@
           <mxGeometry x="-640" y="3480" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-311" value="浏览器" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-310">
-          <mxGeometry x="40" y="48" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
