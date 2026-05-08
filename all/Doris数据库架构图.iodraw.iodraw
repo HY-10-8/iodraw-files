@@ -350,8 +350,8 @@
         <mxCell id="6nchbdZMz5PszLTY394G-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-35" target="6nchbdZMz5PszLTY394G-148">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1400" y="1030" />
-              <mxPoint x="1400" y="730" />
+              <mxPoint x="1660" y="730" />
+              <mxPoint x="2150" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
