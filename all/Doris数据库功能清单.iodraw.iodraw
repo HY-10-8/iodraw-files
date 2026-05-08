@@ -375,7 +375,7 @@
           <mxGeometry y="2880" width="2000" height="880" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-158" value="FE集群" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;swimlaneFillColor=#99FF99;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-156">
-          <mxGeometry x="80" y="80" width="680" height="760" as="geometry" />
+          <mxGeometry x="80" y="80" width="640" height="760" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-285" target="_EdtOo8uBjDA7UF6kXO0-284">
           <mxGeometry relative="1" as="geometry">
