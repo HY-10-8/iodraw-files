@@ -442,8 +442,16 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-304" value="&lt;span style=&quot;color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;外部数据源与联邦查询&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
           <mxGeometry x="430" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-308" value="&lt;span style=&quot;color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;运维与管理&lt;/span&gt;" style="whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
-          <mxGeometry x="70" y="490" width="60" height="120" as="geometry" />
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-380" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-308" target="_EdtOo8uBjDA7UF6kXO0-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-381" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-380">
+          <mxGeometry x="-0.1421" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-308" value="&lt;span style=&quot;color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;运维与管理&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
+          <mxGeometry x="40" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-162" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;SF Pro&amp;quot;, sans-serif; font-size: 16px; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;元数据管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
           <mxGeometry x="240" y="520" width="120" height="60" as="geometry" />
