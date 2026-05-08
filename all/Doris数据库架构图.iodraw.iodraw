@@ -4,8 +4,38 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6nchbdZMz5PszLTY394G-1" value="nurse.pkg_setting.get_ward_score_risk_infos;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="650" y="280" width="280" height="40" as="geometry" />
+        <mxCell id="6nchbdZMz5PszLTY394G-2" value="MySql 协议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="460" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-3" value="客户端、生态工具" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="180" y="240" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-4" value="SQL Client&lt;div style=&quot;font-size: 16px;&quot;&gt;（JDBC、ODBC）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="6nchbdZMz5PszLTY394G-3">
+          <mxGeometry x="32.5" y="40" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-5" value="BI报表" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="6nchbdZMz5PszLTY394G-3">
+          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-6" value="数据导入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="460" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-7" value="数据源" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="520" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-8" value="MySql / PostgreSql" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-7">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-9" value="KafKa" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-7">
+          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-10" value="HDFS / S3" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-7">
+          <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-11" value="运维" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="870" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-12" value="浏览器" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-11">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
