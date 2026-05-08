@@ -340,7 +340,12 @@
           <mxGeometry x="40" y="241" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-35" target="6nchbdZMz5PszLTY394G-48">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1880" y="670" />
+              <mxPoint x="1880" y="830" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-145" value="写入数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6nchbdZMz5PszLTY394G-144">
           <mxGeometry x="0.469" relative="1" as="geometry">
@@ -350,8 +355,7 @@
         <mxCell id="6nchbdZMz5PszLTY394G-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-35" target="6nchbdZMz5PszLTY394G-148">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1660" y="730" />
-              <mxPoint x="1880" y="730" />
+              <mxPoint x="1880" y="670" />
               <mxPoint x="1880" y="430" />
             </Array>
           </mxGeometry>
