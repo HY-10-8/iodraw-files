@@ -405,20 +405,21 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-166" value="集群管理" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
           <mxGeometry x="200" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-160" value="Follower FE" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
-          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-159">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-159" target="_EdtOo8uBjDA7UF6kXO0-160">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-160" target="_EdtOo8uBjDA7UF6kXO0-159">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-283" target="_EdtOo8uBjDA7UF6kXO0-159">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="70" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-283" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Follower FE&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
           <mxGeometry x="60" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-284" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Follower FE&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
-          <mxGeometry x="580" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-167" value="BE集群" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-156">
           <mxGeometry x="1040" y="80" width="520" height="360" as="geometry" />
