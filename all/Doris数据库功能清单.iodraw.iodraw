@@ -708,7 +708,7 @@
           <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-289" value="数据源" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="3810" width="200" height="360" as="geometry" />
+          <mxGeometry x="-640" y="3160" width="200" height="310" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-290" value="MySql / PostgreSql" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-289">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
