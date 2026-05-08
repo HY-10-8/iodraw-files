@@ -193,7 +193,7 @@
         <mxCell id="6nchbdZMz5PszLTY394G-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-34" target="6nchbdZMz5PszLTY394G-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-81" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6nchbdZMz5PszLTY394G-81" value="导入事务&lt;div&gt;Stram Load&lt;/div&gt;&lt;div&gt;Routine Load&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
