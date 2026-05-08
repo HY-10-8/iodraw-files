@@ -227,7 +227,7 @@
           <mxGeometry x="80" y="280" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-88" value="Agent任务" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-98">
-          <mxGeometry x="80" y="560" width="200" height="340" as="geometry" />
+          <mxGeometry x="80" y="580" width="200" height="340" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nchbdZMz5PszLTY394G-88" source="6nchbdZMz5PszLTY394G-89" target="6nchbdZMz5PszLTY394G-90">
           <mxGeometry relative="1" as="geometry" />
@@ -242,7 +242,7 @@
           <mxGeometry x="40" y="239" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-99" value="外部访问" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-98">
-          <mxGeometry x="430" y="80" width="200" height="200" as="geometry" />
+          <mxGeometry x="80" y="50" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-105" target="6nchbdZMz5PszLTY394G-99">
           <mxGeometry relative="1" as="geometry" />
