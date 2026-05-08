@@ -136,8 +136,11 @@
         <mxCell id="6nchbdZMz5PszLTY394G-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-51" target="6nchbdZMz5PszLTY394G-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-60" target="6nchbdZMz5PszLTY394G-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-60" value="元数据管理模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="950" width="380" height="440" as="geometry" />
+          <mxGeometry x="830" y="1280" width="380" height="440" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-61" value="Catalog管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-60">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
@@ -162,6 +165,9 @@
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-68" value="元数据持久化" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-60">
           <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-34" target="6nchbdZMz5PszLTY394G-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
