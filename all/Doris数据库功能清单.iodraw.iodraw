@@ -392,17 +392,8 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-162" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;SF Pro&amp;quot;, sans-serif; font-size: 16px; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;元数据管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
           <mxGeometry x="40" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-163" value="查询优化" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
-          <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-164" value="SQL解析" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
           <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-165" value="执行调度" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
-          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-166" value="集群管理" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
-          <mxGeometry x="200" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-285" target="_EdtOo8uBjDA7UF6kXO0-283">
           <mxGeometry relative="1" as="geometry">
@@ -427,6 +418,9 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-287" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Helvetica Neue, Segoe UI, helvetica, verdana, sans-serif&quot; color=&quot;#444444&quot;&gt;接入层&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-296" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Helvetica Neue, Segoe UI, helvetica, verdana, sans-serif&quot; color=&quot;#444444&quot;&gt;会话与执行控制&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
+          <mxGeometry x="220" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-167" value="BE集群" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-156">
           <mxGeometry x="1040" y="80" width="520" height="360" as="geometry" />
@@ -732,8 +726,14 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-292" value="HDFS / S3" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-289">
           <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-296" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Helvetica Neue, Segoe UI, helvetica, verdana, sans-serif&quot; color=&quot;#444444&quot;&gt;会话与执行控制&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="3460" width="120" height="60" as="geometry" />
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-163" value="查询优化" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="3740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-165" value="执行调度" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="3740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-166" value="集群管理" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="3840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
