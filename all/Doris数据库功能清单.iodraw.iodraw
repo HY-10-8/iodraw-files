@@ -375,7 +375,7 @@
           <mxGeometry y="2880" width="1680" height="880" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-158" value="FE集群" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;swimlaneFillColor=#99FF99;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-156">
-          <mxGeometry x="80" y="80" width="760" height="640" as="geometry" />
+          <mxGeometry x="80" y="80" width="760" height="760" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-285" target="_EdtOo8uBjDA7UF6kXO0-284">
           <mxGeometry relative="1" as="geometry">
@@ -452,7 +452,7 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-298" target="_EdtOo8uBjDA7UF6kXO0-301">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-167" value="BE集群" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;swimlaneFillColor=default;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-156">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-167" value="BE集群" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;swimlaneFillColor=#A9C4EB;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-156">
           <mxGeometry x="920" y="80" width="680" height="760" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-168" value="BE1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
