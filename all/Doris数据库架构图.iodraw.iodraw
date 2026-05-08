@@ -61,6 +61,9 @@
         <mxCell id="6nchbdZMz5PszLTY394G-120" value="连接生命周期管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-22">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nchbdZMz5PszLTY394G-22" source="6nchbdZMz5PszLTY394G-123" target="6nchbdZMz5PszLTY394G-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-123" value="结果返回控制" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-22">
           <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
         </mxCell>
@@ -69,11 +72,6 @@
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-121" value="上下文管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-22">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nchbdZMz5PszLTY394G-22" source="6nchbdZMz5PszLTY394G-124">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="160" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-124" value="执行状态维护" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-22">
           <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
@@ -259,7 +257,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-107" value="集群管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="-160" width="420" height="440" as="geometry" />
+          <mxGeometry x="2160" y="570" width="420" height="440" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-110" value="Edit log 复制&lt;div&gt;元数据同步&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-107">
           <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
