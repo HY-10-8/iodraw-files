@@ -403,7 +403,7 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-385" value="元数据同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-280">
           <mxGeometry x="-0.1261" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="5" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-283" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Follower FE&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
