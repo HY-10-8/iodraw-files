@@ -483,7 +483,7 @@
           <mxGeometry x="390" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-331" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Segoe UI&amp;quot;, helvetica, verdana, sans-serif; font-size: 14px; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;副本任务&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
-          <mxGeometry x="410" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-321" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Segoe UI&amp;quot;, helvetica, verdana, sans-serif; font-size: 14px; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;存储事务&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="390" y="390" width="120" height="60" as="geometry" />
@@ -513,8 +513,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="880" y="390" />
-              <mxPoint x="880" y="750" />
-              <mxPoint x="1390" y="750" />
+              <mxPoint x="880" y="830" />
+              <mxPoint x="1390" y="830" />
+              <mxPoint x="1390" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
