@@ -215,7 +215,7 @@
           <mxGeometry x="80" y="280" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-88" value="Agent任务" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-98">
-          <mxGeometry x="80" y="580" width="200" height="340" as="geometry" />
+          <mxGeometry x="70" y="535" width="200" height="340" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nchbdZMz5PszLTY394G-88" source="6nchbdZMz5PszLTY394G-89" target="6nchbdZMz5PszLTY394G-90">
           <mxGeometry relative="1" as="geometry" />
@@ -236,7 +236,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-107" value="集群管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="1410" width="420" height="440" as="geometry" />
+          <mxGeometry x="1360" y="1360" width="420" height="440" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-110" value="Edit log 复制&lt;div&gt;元数据同步&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-107">
           <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
