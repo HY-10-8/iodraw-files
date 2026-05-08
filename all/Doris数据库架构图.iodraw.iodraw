@@ -56,19 +56,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-22" value="会话管理" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="230" width="380" height="320" as="geometry" />
+          <mxGeometry x="1000" y="240" width="380" height="320" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-120" value="连接生命周期管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-22">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-121" value="上下文管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-22">
-          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-123" value="结果返回控制" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-22">
           <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-121" value="上下文管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-22">
+          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-124" value="执行状态维护" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-22">
-          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-122" value="SQL执行入口" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-22">
+          <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-26" target="6nchbdZMz5PszLTY394G-60">
           <mxGeometry relative="1" as="geometry" />
@@ -297,9 +300,6 @@
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-15" target="6nchbdZMz5PszLTY394G-115">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-122" value="SQL执行入口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
