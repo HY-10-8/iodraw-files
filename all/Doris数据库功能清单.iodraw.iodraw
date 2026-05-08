@@ -498,7 +498,7 @@
           <mxGeometry x="40" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-322" value="Compaction(后台合并文件)" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
-          <mxGeometry x="360" y="200" width="210" height="60" as="geometry" />
+          <mxGeometry x="480" y="220" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-320" value="&lt;div style=&quot;text-align: left;&quot;&gt;数据写入&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
