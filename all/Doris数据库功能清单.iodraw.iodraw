@@ -426,7 +426,7 @@
           <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-287" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Helvetica Neue, Segoe UI, helvetica, verdana, sans-serif&quot; color=&quot;#444444&quot;&gt;接入层&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
-          <mxGeometry x="40" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-167" value="BE集群" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-156">
           <mxGeometry x="1040" y="80" width="520" height="360" as="geometry" />
@@ -714,6 +714,11 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-289" target="_EdtOo8uBjDA7UF6kXO0-287">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-295" value="数据导入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-293">
+          <mxGeometry x="-0.5338" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-289" value="数据源" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-640" y="3160" width="200" height="310" as="geometry" />
