@@ -229,7 +229,7 @@
         <mxCell id="6nchbdZMz5PszLTY394G-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-86" target="6nchbdZMz5PszLTY394G-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-96" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6nchbdZMz5PszLTY394G-96" value="Catalog管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2070" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
