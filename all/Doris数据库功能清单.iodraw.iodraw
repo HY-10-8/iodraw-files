@@ -374,9 +374,6 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-156" value="Doris 数据库" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry y="2880" width="2000" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-353" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-156" source="_EdtOo8uBjDA7UF6kXO0-158" target="_EdtOo8uBjDA7UF6kXO0-167">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-158" value="FE集群" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;swimlaneFillColor=#99FF99;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-156">
           <mxGeometry x="80" y="80" width="760" height="760" as="geometry" />
         </mxCell>
@@ -535,6 +532,11 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-342" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-156" source="_EdtOo8uBjDA7UF6kXO0-301" target="_EdtOo8uBjDA7UF6kXO0-315">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-355" value="下发执行计划" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-342">
+          <mxGeometry x="-0.3449" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-350" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-156" source="_EdtOo8uBjDA7UF6kXO0-303" target="_EdtOo8uBjDA7UF6kXO0-327">
           <mxGeometry relative="1" as="geometry" />
