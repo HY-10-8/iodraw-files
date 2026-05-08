@@ -74,7 +74,7 @@
           <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-36" value="Nereids 优化器（CBO）" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-26">
-          <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-29" value="外部数据与联邦查询" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1554" y="650" width="200" height="200" as="geometry" />
