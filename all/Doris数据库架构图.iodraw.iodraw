@@ -240,7 +240,7 @@
           <mxGeometry x="80" y="280" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-88" value="Agent任务" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-98">
-          <mxGeometry x="70" y="535" width="200" height="340" as="geometry" />
+          <mxGeometry x="80" y="595" width="200" height="340" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nchbdZMz5PszLTY394G-88" source="6nchbdZMz5PszLTY394G-89" target="6nchbdZMz5PszLTY394G-90">
           <mxGeometry relative="1" as="geometry" />
