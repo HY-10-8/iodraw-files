@@ -125,7 +125,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-42" value="&lt;span style=&quot;box-sizing: border-box; border: 0px solid; margin: 0px; padding: 0px; --tw-font-weight: 600; color: rgb(26, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;font-semibold&quot;&gt;查询调度与协调模块&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="860" width="410" height="460" as="geometry" />
+          <mxGeometry x="1520" y="860" width="410" height="340" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nchbdZMz5PszLTY394G-42" source="6nchbdZMz5PszLTY394G-45" target="6nchbdZMz5PszLTY394G-46">
           <mxGeometry relative="1" as="geometry" />
@@ -311,6 +311,11 @@
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-35" target="6nchbdZMz5PszLTY394G-48">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-145" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6nchbdZMz5PszLTY394G-144">
+          <mxGeometry x="0.469" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
