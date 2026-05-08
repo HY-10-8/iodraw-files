@@ -209,7 +209,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-88" value="Agent任务" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2640" y="1241" width="340" height="340" as="geometry" />
+          <mxGeometry x="2040" y="1314" width="200" height="340" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nchbdZMz5PszLTY394G-88" source="6nchbdZMz5PszLTY394G-89" target="6nchbdZMz5PszLTY394G-90">
           <mxGeometry relative="1" as="geometry" />
@@ -221,7 +221,7 @@
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-92" value="上报任务结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-88">
-          <mxGeometry x="40" y="269" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="239" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
