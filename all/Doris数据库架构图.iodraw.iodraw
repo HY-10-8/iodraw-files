@@ -194,7 +194,7 @@
           <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-86" value="" style="swimlane;startSize=0;" vertex="1" parent="6nchbdZMz5PszLTY394G-75">
-          <mxGeometry x="180" y="40" width="160" height="290" as="geometry" />
+          <mxGeometry x="180" y="40" width="160" height="300" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-84" value="导出任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-86">
           <mxGeometry x="20" y="10" width="120" height="60" as="geometry" />
