@@ -493,6 +493,12 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-321" value="存储事务" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="520" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-374" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-167" source="_EdtOo8uBjDA7UF6kXO0-329" target="_EdtOo8uBjDA7UF6kXO0-340">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-375" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-167" source="_EdtOo8uBjDA7UF6kXO0-329" target="_EdtOo8uBjDA7UF6kXO0-339">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-329" value="数据扫描" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="360" y="640" width="120" height="60" as="geometry" />
         </mxCell>
@@ -585,7 +591,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-174" value="客户端、生态工具" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="2840" width="200" height="240" as="geometry" />
+          <mxGeometry x="-400" y="2850" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-175" value="SQL Client&lt;div style=&quot;font-size: 16px;&quot;&gt;（JDBC、ODBC）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-174">
           <mxGeometry x="32.5" y="40" width="135" height="60" as="geometry" />
@@ -854,7 +860,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-289" value="数据源" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="3120" width="200" height="320" as="geometry" />
+          <mxGeometry x="-400" y="3130" width="200" height="320" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-290" value="MySql / PostgreSql" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-289">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
@@ -869,7 +875,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-310" value="运维" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="3480" width="200" height="200" as="geometry" />
+          <mxGeometry x="-400" y="3490" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-311" value="浏览器" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-310">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
