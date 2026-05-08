@@ -234,13 +234,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-98" value="BE" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="570" width="1020" height="1280" as="geometry" />
+          <mxGeometry x="2080" y="580" width="1020" height="1280" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-54" value="FE查询执行" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-98">
           <mxGeometry x="80" y="280" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-88" value="Agent任务" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-98">
-          <mxGeometry x="80" y="595" width="200" height="340" as="geometry" />
+          <mxGeometry x="80" y="580" width="200" height="340" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6nchbdZMz5PszLTY394G-88" source="6nchbdZMz5PszLTY394G-89" target="6nchbdZMz5PszLTY394G-90">
           <mxGeometry relative="1" as="geometry" />
@@ -323,7 +323,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-142" value="后台任务" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1160" width="200" height="330" as="geometry" />
+          <mxGeometry x="1120" y="1160" width="200" height="320" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-84" value="导出任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-142">
           <mxGeometry x="40" y="41" width="120" height="60" as="geometry" />
