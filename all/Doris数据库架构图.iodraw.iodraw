@@ -118,6 +118,9 @@
         <mxCell id="6nchbdZMz5PszLTY394G-51" value="执行任务下发" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-42">
           <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-56" value="状态回收&lt;br&gt;接收返回消息" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-42">
+          <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-36" target="6nchbdZMz5PszLTY394G-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -126,6 +129,9 @@
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-51" target="6nchbdZMz5PszLTY394G-54">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-57" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
