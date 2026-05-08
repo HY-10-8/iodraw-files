@@ -843,7 +843,7 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-339" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Segoe UI&amp;quot;, helvetica, verdana, sans-serif; font-size: 14px; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;BE之间数据交换&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="3520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-340" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Segoe UI&amp;quot;, helvetica, verdana, sans-serif; font-size: 14px; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;索引&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-340" value="索引" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="3500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
