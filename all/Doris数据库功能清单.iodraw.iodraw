@@ -535,7 +535,7 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-355" value="下发执行计划" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_EdtOo8uBjDA7UF6kXO0-342">
           <mxGeometry x="-0.3449" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-350" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-156" source="_EdtOo8uBjDA7UF6kXO0-303" target="_EdtOo8uBjDA7UF6kXO0-327">
