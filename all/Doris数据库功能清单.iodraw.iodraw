@@ -479,9 +479,6 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-323" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Helvetica Neue, Segoe UI, helvetica, verdana, sans-serif&quot; color=&quot;#444444&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;向量化计算&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="40" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-344" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-167" source="_EdtOo8uBjDA7UF6kXO0-324" target="_EdtOo8uBjDA7UF6kXO0-323">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-324" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Helvetica Neue, Segoe UI, helvetica, verdana, sans-serif&quot; color=&quot;#444444&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;查询执行&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="40" y="370" width="120" height="60" as="geometry" />
         </mxCell>
@@ -505,6 +502,9 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-322" value="Compaction(后台合并文件)" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="360" y="200" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-320" value="&lt;div style=&quot;text-align: left;&quot;&gt;数据写入&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
+          <mxGeometry x="200" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-156" source="_EdtOo8uBjDA7UF6kXO0-304" target="_EdtOo8uBjDA7UF6kXO0-305">
           <mxGeometry relative="1" as="geometry" />
@@ -836,9 +836,6 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-319" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_EdtOo8uBjDA7UF6kXO0-305" target="_EdtOo8uBjDA7UF6kXO0-177">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-320" value="&lt;div style=&quot;text-align: left;&quot;&gt;数据写入&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="3340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-334" value="云模式适配" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="3430" width="120" height="60" as="geometry" />
