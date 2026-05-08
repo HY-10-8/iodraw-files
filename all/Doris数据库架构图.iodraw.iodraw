@@ -37,7 +37,7 @@
         <mxCell id="6nchbdZMz5PszLTY394G-14" value="Mysql 协议接口&lt;div&gt;9030&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6nchbdZMz5PszLTY394G-15" value="HTTP/REST&lt;div&gt;8030&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
