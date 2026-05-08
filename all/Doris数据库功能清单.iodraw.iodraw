@@ -416,6 +416,9 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-285" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Master FE&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
           <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-287" target="_EdtOo8uBjDA7UF6kXO0-296">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-287" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Helvetica Neue, Segoe UI, helvetica, verdana, sans-serif&quot; color=&quot;#444444&quot;&gt;接入层&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
