@@ -377,17 +377,16 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-158" value="FE集群" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-156">
           <mxGeometry x="80" y="80" width="760" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-159" target="_EdtOo8uBjDA7UF6kXO0-284">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" target="_EdtOo8uBjDA7UF6kXO0-284">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="70" as="sourcePoint" />
             <mxPoint x="570" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-159" value="Master FE" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
-          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-284" target="_EdtOo8uBjDA7UF6kXO0-159">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-284">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="70" as="sourcePoint" />
+            <mxPoint x="440" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-162" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;SF Pro&amp;quot;, sans-serif; font-size: 16px; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;元数据管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
@@ -405,14 +404,16 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-166" value="集群管理" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
           <mxGeometry x="200" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-159" target="_EdtOo8uBjDA7UF6kXO0-283">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-285" target="_EdtOo8uBjDA7UF6kXO0-283">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="70" as="sourcePoint" />
             <mxPoint x="160" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-283" target="_EdtOo8uBjDA7UF6kXO0-159">
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-158" source="_EdtOo8uBjDA7UF6kXO0-283">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="70" as="sourcePoint" />
+            <mxPoint x="320" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-283" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Follower FE&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-158">
