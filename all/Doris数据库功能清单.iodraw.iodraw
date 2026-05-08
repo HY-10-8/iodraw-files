@@ -473,6 +473,9 @@
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-327" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Segoe UI&amp;quot;, helvetica, verdana, sans-serif; font-size: 14px; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;Agent 任务&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
           <mxGeometry x="260" y="560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_EdtOo8uBjDA7UF6kXO0-323" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Segoe UI&amp;quot;, helvetica, verdana, sans-serif; font-size: 14px; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;向量化计算&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="_EdtOo8uBjDA7UF6kXO0-167">
+          <mxGeometry x="40" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_EdtOo8uBjDA7UF6kXO0-156" source="_EdtOo8uBjDA7UF6kXO0-304" target="_EdtOo8uBjDA7UF6kXO0-305">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -488,7 +491,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="990" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="880" y="670" />
+              <mxPoint x="1240" y="740" />
+              <mxPoint x="880" y="740" />
               <mxPoint x="880" y="390" />
             </Array>
           </mxGeometry>
@@ -802,9 +806,6 @@
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-322" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Segoe UI&amp;quot;, helvetica, verdana, sans-serif; font-size: 14px; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;Compaction(后台合并文件)&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="3200" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_EdtOo8uBjDA7UF6kXO0-323" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Segoe UI&amp;quot;, helvetica, verdana, sans-serif; font-size: 14px; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;向量化计算&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="3420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EdtOo8uBjDA7UF6kXO0-324" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Segoe UI&amp;quot;, helvetica, verdana, sans-serif; font-size: 14px; text-align: left; white-space: nowrap; background-color: rgb(234, 234, 234);&quot;&gt;查询执行&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="3330" width="120" height="60" as="geometry" />
