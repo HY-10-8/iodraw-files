@@ -211,6 +211,11 @@
         <mxCell id="6nchbdZMz5PszLTY394G-81" value="导入事务&lt;div&gt;Stram Load&lt;/div&gt;&lt;div&gt;Routine Load&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="6nchbdZMz5PszLTY394G-75">
           <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6nchbdZMz5PszLTY394G-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="6nchbdZMz5PszLTY394G-75" source="6nchbdZMz5PszLTY394G-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-86" value="" style="swimlane;startSize=0;" vertex="1" parent="6nchbdZMz5PszLTY394G-75">
           <mxGeometry x="180" y="30" width="160" height="280" as="geometry" />
         </mxCell>
@@ -224,9 +229,6 @@
           <mxGeometry x="20" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-34" target="6nchbdZMz5PszLTY394G-75">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6nchbdZMz5PszLTY394G-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nchbdZMz5PszLTY394G-86" target="6nchbdZMz5PszLTY394G-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nchbdZMz5PszLTY394G-98" value="BE" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
