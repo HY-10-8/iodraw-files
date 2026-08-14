@@ -216,8 +216,8 @@
         <mxCell id="90" value="统计信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=left;verticalAlign=top;" parent="Vq3hVMW9N8FSbHExLnwD-126" vertex="1">
           <mxGeometry width="1318" height="355" as="geometry" />
         </mxCell>
-        <mxCell id="91" value="CREATE TABLE users(&#xa;  id   INTEGER PRIMARY KEY,&#xa;  name TEXT NOT NULL&#xa;);&#xa;总共【1000】数据、A表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=left;verticalAlign=middle;" parent="Vq3hVMW9N8FSbHExLnwD-126" vertex="1">
-          <mxGeometry x="45" y="105.29999999999995" width="293.8" height="198" as="geometry" />
+        <mxCell id="91" value="CREATE TABLE users(&lt;br&gt;  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;id   INTEGER PRIMARY KEY,&lt;br&gt;  &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;name TEXT NOT NULL&lt;br&gt;);&lt;br&gt;总共【1000】数据、A表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=left;verticalAlign=middle;" parent="Vq3hVMW9N8FSbHExLnwD-126" vertex="1">
+          <mxGeometry x="45" y="105.3" width="335" height="198" as="geometry" />
         </mxCell>
         <mxCell id="92" value="CREATE TABLE orders(&#xa;  order_id INTEGER PRIMARY KEY,&#xa;  user_id  INTEGER NOT NULL,&#xa;  status   TEXT NOT NULL,&#xa;  FOREIGN KEY(user_id) REFERENCES demo_users(id)&#xa;);&#xa;CREATE INDEX idx_demo_orders_user_status ON demo_orders(user_id, status);&#xa;总共【100000】行数据、B表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=left;verticalAlign=middle;" parent="Vq3hVMW9N8FSbHExLnwD-126" vertex="1">
           <mxGeometry x="455" y="65.45000000000005" width="790" height="244.11" as="geometry" />
