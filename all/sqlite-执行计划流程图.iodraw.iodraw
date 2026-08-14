@@ -616,7 +616,7 @@
           <mxGeometry x="105.80000000000018" y="584.1999999999998" width="417.1" height="79.1" as="geometry" />
         </mxCell>
         <mxCell id="51" value="A2 保留" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=center;verticalAlign=middle;" parent="Vq3hVMW9N8FSbHExLnwD-335" vertex="1">
-          <mxGeometry x="105.80000000000018" y="219.80000000000018" width="417.1" height="79.1" as="geometry" />
+          <mxGeometry x="105.80000000000018" y="210.00000000000017" width="417.1" height="79.1" as="geometry" />
         </mxCell>
         <mxCell id="52" value="B3 保留" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=center;verticalAlign=middle;" parent="Vq3hVMW9N8FSbHExLnwD-335" vertex="1">
           <mxGeometry x="105.80000000000018" y="398.1999999999998" width="417.1" height="78.3" as="geometry" />
