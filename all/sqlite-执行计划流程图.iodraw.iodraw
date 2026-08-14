@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="sqlite-plan" name="SQLite执行计划流程">
-    <mxGraphModel dx="2893" dy="1415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="13292" pageHeight="9125" math="0" shadow="0">
+    <mxGraphModel dx="3158" dy="1415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="13292" pageHeight="9125" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           <mxGeometry x="670" y="1580" width="952" height="470" as="geometry" />
         </mxCell>
         <mxCell id="4" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;规范化条件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1.5;fontSize=20;align=left;verticalAlign=top;" parent="FYUAunM9AxQf5uX6ODjO-126" vertex="1">
-          <mxGeometry width="952" height="470" as="geometry" />
+          <mxGeometry width="860" height="470" as="geometry" />
         </mxCell>
         <mxCell id="6" value="连接条件&#xa;b.user_id = a.id" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=center;verticalAlign=middle;" parent="FYUAunM9AxQf5uX6ODjO-126" vertex="1">
           <mxGeometry x="83.60000000000002" y="64.79999999999995" width="244.1" height="106.5" as="geometry" />
