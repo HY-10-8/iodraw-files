@@ -597,39 +597,6 @@
             <mxRectangle width="375" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vq3hVMW9N8FSbHExLnwD-337" value="" style="group;fontSize=20;" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="510" y="2170" width="1262" height="836" as="geometry" />
-        </mxCell>
-        <mxCell id="55" value="同一张表，淘汰候选whereloop的条件为：&#xa;    需要等待的外层表更少或相同；&#xa;    建立成本更低或相同；&#xa;    运行成本更低或相同；&#xa;    预计输出行数更少或相同。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=left;verticalAlign=top;" parent="Vq3hVMW9N8FSbHExLnwD-337" vertex="1">
-          <mxGeometry x="110" y="332" width="450" height="136" as="geometry" />
-        </mxCell>
-        <mxCell id="Vq3hVMW9N8FSbHExLnwD-335" value="" style="group;align=left;fontSize=20;" parent="Vq3hVMW9N8FSbHExLnwD-337" connectable="0" vertex="1">
-          <mxGeometry x="650" width="612" height="836" as="geometry" />
-        </mxCell>
-        <mxCell id="48" value="根据使用条件、排序过滤可用的【whereloop】" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=1.5;fontSize=20;align=left;verticalAlign=top;fontColor=#ffffff;" parent="Vq3hVMW9N8FSbHExLnwD-335" vertex="1">
-          <mxGeometry x="20" width="561" height="800" as="geometry" />
-        </mxCell>
-        <mxCell id="49" value="A1 保留" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=center;verticalAlign=middle;" parent="Vq3hVMW9N8FSbHExLnwD-335" vertex="1">
-          <mxGeometry x="105.80000000000018" y="108.59999999999991" width="417.1" height="78.3" as="geometry" />
-        </mxCell>
-        <mxCell id="50" value="B5 保留" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=center;verticalAlign=middle;" parent="Vq3hVMW9N8FSbHExLnwD-335" vertex="1">
-          <mxGeometry x="105.80000000000018" y="584.1999999999998" width="417.1" height="79.1" as="geometry" />
-        </mxCell>
-        <mxCell id="51" value="A2 保留" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=center;verticalAlign=middle;" parent="Vq3hVMW9N8FSbHExLnwD-335" vertex="1">
-          <mxGeometry x="105.80000000000018" y="210.00000000000017" width="417.1" height="79.1" as="geometry" />
-        </mxCell>
-        <mxCell id="52" value="B3 保留" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=center;verticalAlign=middle;" parent="Vq3hVMW9N8FSbHExLnwD-335" vertex="1">
-          <mxGeometry x="105.80000000000018" y="398.1999999999998" width="417.1" height="78.3" as="geometry" />
-        </mxCell>
-        <mxCell id="53" value="B4 被#6覆盖" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=center;verticalAlign=middle;" parent="Vq3hVMW9N8FSbHExLnwD-335" vertex="1">
-          <mxGeometry x="105.80000000000018" y="494.1999999999998" width="417.1" height="78.3" as="geometry" />
-        </mxCell>
-        <mxCell id="54" value="B6 保留" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=center;verticalAlign=middle;" parent="Vq3hVMW9N8FSbHExLnwD-335" vertex="1">
-          <mxGeometry x="105.80000000000018" y="679.5999999999999" width="417.1" height="78.3" as="geometry" />
-        </mxCell>
-        <mxCell id="Vq3hVMW9N8FSbHExLnwD-334" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="Vq3hVMW9N8FSbHExLnwD-337" source="55" target="48" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Vq3hVMW9N8FSbHExLnwD-432" value="" style="group" parent="1" connectable="0" vertex="1">
           <mxGeometry x="2600" y="2080" width="272" height="300" as="geometry" />
         </mxCell>
@@ -829,6 +796,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vq3hVMW9N8FSbHExLnwD-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" parent="FYUAunM9AxQf5uX6ODjO-127" source="26" target="22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55" value="同一张表，淘汰候选whereloop的条件为：&#xa;    需要等待的外层表更少或相同；&#xa;    建立成本更低或相同；&#xa;    运行成本更低或相同；&#xa;    预计输出行数更少或相同。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2502" width="450" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="Vq3hVMW9N8FSbHExLnwD-335" value="" style="group;align=left;fontSize=20;" parent="1" connectable="0" vertex="1">
+          <mxGeometry x="1160" y="2170" width="612" height="836" as="geometry" />
+        </mxCell>
+        <mxCell id="48" value="根据使用条件、排序过滤可用的【whereloop】" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=1.5;fontSize=20;align=left;verticalAlign=top;fontColor=#ffffff;" parent="Vq3hVMW9N8FSbHExLnwD-335" vertex="1">
+          <mxGeometry x="20" width="561" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="49" value="A1 保留" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=center;verticalAlign=middle;" parent="Vq3hVMW9N8FSbHExLnwD-335" vertex="1">
+          <mxGeometry x="105.80000000000018" y="108.59999999999991" width="417.1" height="78.3" as="geometry" />
+        </mxCell>
+        <mxCell id="50" value="B5 保留" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=center;verticalAlign=middle;" parent="Vq3hVMW9N8FSbHExLnwD-335" vertex="1">
+          <mxGeometry x="105.80000000000018" y="584.1999999999998" width="417.1" height="79.1" as="geometry" />
+        </mxCell>
+        <mxCell id="51" value="A2 保留" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=center;verticalAlign=middle;" parent="Vq3hVMW9N8FSbHExLnwD-335" vertex="1">
+          <mxGeometry x="105.80000000000018" y="186.90000000000018" width="417.1" height="79.1" as="geometry" />
+        </mxCell>
+        <mxCell id="52" value="B3 保留" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=center;verticalAlign=middle;" parent="Vq3hVMW9N8FSbHExLnwD-335" vertex="1">
+          <mxGeometry x="105.80000000000018" y="398.1999999999998" width="417.1" height="78.3" as="geometry" />
+        </mxCell>
+        <mxCell id="53" value="B4 被#6覆盖" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=center;verticalAlign=middle;" parent="Vq3hVMW9N8FSbHExLnwD-335" vertex="1">
+          <mxGeometry x="105.80000000000018" y="494.1999999999998" width="417.1" height="78.3" as="geometry" />
+        </mxCell>
+        <mxCell id="54" value="B6 保留" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=center;verticalAlign=middle;" parent="Vq3hVMW9N8FSbHExLnwD-335" vertex="1">
+          <mxGeometry x="105.80000000000018" y="679.5999999999999" width="417.1" height="78.3" as="geometry" />
+        </mxCell>
+        <mxCell id="Vq3hVMW9N8FSbHExLnwD-334" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="55" target="48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
