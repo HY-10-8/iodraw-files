@@ -641,7 +641,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vq3hVMW9N8FSbHExLnwD-337" value="" style="group;fontSize=20;" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="1460" y="2120" width="1262" height="836" as="geometry" />
+          <mxGeometry x="510" y="2170" width="1262" height="836" as="geometry" />
         </mxCell>
         <mxCell id="55" value="同一张表，淘汰候选whereloop的条件为：&#xa;    需要等待的外层表更少或相同；&#xa;    建立成本更低或相同；&#xa;    运行成本更低或相同；&#xa;    预计输出行数更少或相同。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=left;verticalAlign=top;" parent="Vq3hVMW9N8FSbHExLnwD-337" vertex="1">
           <mxGeometry x="110" y="332" width="450" height="136" as="geometry" />
