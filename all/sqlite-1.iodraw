@@ -73,7 +73,7 @@
         <mxCell id="2" value="#1 全表扫描，users表共1000条数据，转换为对数为：L99（行数据）&#xa;全表扫描得成本 = L行 + L16（偏移量） = 99 + 16 = L115&#xa;#3 全表扫描，orders表共100000条数据，转换为对数为：L166&#xa;但是这里还存在一个条件：b.status = ‘paid’，所以预计只会取到1/4左右得数据&#xa;预计行数 = L166 - L20 = L146&#xa;运行成本 = L166 + L16 = L182&#xa;但是因为orders表在stat4中存在有效数据，所以惩罚从x3变成x2.75：&#xa;L166 + L16 - L2 = L182" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;fontSize=20;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="3530" y="1670" width="864" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="Vq3hVMW9N8FSbHExLnwD-323" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="13" target="Vq3hVMW9N8FSbHExLnwD-246" edge="1">
+        <mxCell id="Vq3hVMW9N8FSbHExLnwD-323" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="13" target="Vq3hVMW9N8FSbHExLnwD-246" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vq3hVMW9N8FSbHExLnwD-328" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="13" target="Vq3hVMW9N8FSbHExLnwD-313" edge="1">
