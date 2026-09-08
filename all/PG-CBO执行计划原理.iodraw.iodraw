@@ -60,7 +60,7 @@
           <mxGeometry x="19.75" y="255" width="200.5" height="85" as="geometry" />
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-18" value="b表" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="409" y="278.04" width="791" height="257.31" as="geometry" />
+          <mxGeometry x="408" y="240.00000000000003" width="791" height="257.31" as="geometry" />
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-19" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="440" y="313.04" width="680.33" height="203.75" as="geometry" />
