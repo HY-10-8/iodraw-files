@@ -556,7 +556,7 @@
         <mxCell id="h48CHQcW-xhReIeVoeAo-132" value="剪枝：&lt;br&gt;根据路径涉及的表、输出行、连接方式、排序等因素，淘汰成本更高的路径" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
           <mxGeometry x="2037" y="-294" width="253" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="h48CHQcW-xhReIeVoeAo-133" value="" style="endArrow=classic;html=1;rounded=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=1.021;exitY=0.328;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="h48CHQcW-xhReIeVoeAo-178" target="h48CHQcW-xhReIeVoeAo-139" edge="1">
+        <mxCell id="h48CHQcW-xhReIeVoeAo-133" value="" style="endArrow=classic;html=1;rounded=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=1;exitY=0.442;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="h48CHQcW-xhReIeVoeAo-178" target="h48CHQcW-xhReIeVoeAo-139" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1940.999999999999" y="119" as="sourcePoint" />
             <mxPoint x="2226" y="244" as="targetPoint" />
