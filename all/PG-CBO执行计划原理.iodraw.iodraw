@@ -367,7 +367,7 @@
             <mxRectangle width="180" height="44" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h48CHQcW-xhReIeVoeAo-84" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" vertex="1" parent="h48CHQcW-xhReIeVoeAo-76">
+        <mxCell id="h48CHQcW-xhReIeVoeAo-84" value="被A4淘汰" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" vertex="1" parent="h48CHQcW-xhReIeVoeAo-76">
           <mxGeometry x="608" width="71" height="44" as="geometry">
             <mxRectangle width="71" height="44" as="alternateBounds" />
           </mxGeometry>
