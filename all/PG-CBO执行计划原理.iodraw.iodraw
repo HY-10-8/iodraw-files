@@ -300,13 +300,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-70" value="扫描方式" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-67" vertex="1">
-          <mxGeometry x="101" width="127" height="40" as="geometry">
-            <mxRectangle width="127" height="40" as="alternateBounds" />
+          <mxGeometry x="101" width="117" height="40" as="geometry">
+            <mxRectangle width="117" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-71" value="预计行数" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-67" vertex="1">
-          <mxGeometry x="228" width="52" height="40" as="geometry">
-            <mxRectangle width="52" height="40" as="alternateBounds" />
+          <mxGeometry x="218" width="62" height="40" as="geometry">
+            <mxRectangle width="62" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-72" value="运行成本" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-67" vertex="1">
@@ -343,13 +343,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-79" value="全表扫描" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-76" vertex="1">
-          <mxGeometry x="101" width="127" height="44" as="geometry">
-            <mxRectangle width="127" height="44" as="alternateBounds" />
+          <mxGeometry x="101" width="117" height="44" as="geometry">
+            <mxRectangle width="117" height="44" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-80" value="3333" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-76" vertex="1">
-          <mxGeometry x="228" width="52" height="44" as="geometry">
-            <mxRectangle width="52" height="44" as="alternateBounds" />
+          <mxGeometry x="218" width="62" height="44" as="geometry">
+            <mxRectangle width="62" height="44" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-81" value="467" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-76" vertex="1">
@@ -386,13 +386,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-97" value="&lt;span style=&quot;color: rgb(29 , 29 , 31) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;sf pro display&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; font-size: 11px ; background-color: rgba(255 , 255 , 255 , 0.92)&quot;&gt;患者ID索引&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-94" vertex="1">
-          <mxGeometry x="101" width="127" height="35" as="geometry">
-            <mxRectangle width="127" height="35" as="alternateBounds" />
+          <mxGeometry x="101" width="117" height="35" as="geometry">
+            <mxRectangle width="117" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-98" value="3333" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-94" vertex="1">
-          <mxGeometry x="228" width="52" height="35" as="geometry">
-            <mxRectangle width="52" height="35" as="alternateBounds" />
+          <mxGeometry x="218" width="62" height="35" as="geometry">
+            <mxRectangle width="62" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-99" value="798" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-94" vertex="1">
@@ -429,13 +429,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-106" value="&lt;span style=&quot;color: rgb(29 , 29 , 31) ; font-size: 11px ; background-color: rgba(255 , 255 , 255 , 0.92)&quot;&gt;患者ID索引&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-103" vertex="1">
-          <mxGeometry x="101" width="127" height="37" as="geometry">
-            <mxRectangle width="127" height="37" as="alternateBounds" />
+          <mxGeometry x="101" width="117" height="37" as="geometry">
+            <mxRectangle width="117" height="37" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-107" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-103" vertex="1">
-          <mxGeometry x="228" width="52" height="37" as="geometry">
-            <mxRectangle width="52" height="37" as="alternateBounds" />
+          <mxGeometry x="218" width="62" height="37" as="geometry">
+            <mxRectangle width="62" height="37" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-108" value="0.03" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-103" vertex="1">
@@ -472,13 +472,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-115" value="位图扫描" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-112" vertex="1">
-          <mxGeometry x="101" width="127" height="37" as="geometry">
-            <mxRectangle width="127" height="37" as="alternateBounds" />
+          <mxGeometry x="101" width="117" height="37" as="geometry">
+            <mxRectangle width="117" height="37" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-116" value="3333" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-112" vertex="1">
-          <mxGeometry x="228" width="52" height="37" as="geometry">
-            <mxRectangle width="52" height="37" as="alternateBounds" />
+          <mxGeometry x="218" width="62" height="37" as="geometry">
+            <mxRectangle width="62" height="37" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-117" value="258.66" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-112" vertex="1">
@@ -515,13 +515,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-124" value="位图扫描" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-121" vertex="1">
-          <mxGeometry x="101" width="127" height="37" as="geometry">
-            <mxRectangle width="127" height="37" as="alternateBounds" />
+          <mxGeometry x="101" width="117" height="37" as="geometry">
+            <mxRectangle width="117" height="37" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-125" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-121" vertex="1">
-          <mxGeometry x="228" width="52" height="37" as="geometry">
-            <mxRectangle width="52" height="37" as="alternateBounds" />
+          <mxGeometry x="218" width="62" height="37" as="geometry">
+            <mxRectangle width="62" height="37" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h48CHQcW-xhReIeVoeAo-126" value="4.01" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-121" vertex="1">
