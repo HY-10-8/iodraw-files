@@ -539,7 +539,7 @@
             <mxRectangle width="180" height="37" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h48CHQcW-xhReIeVoeAo-129" value="&lt;span style=&quot;color: rgb(255 , 0 , 0)&quot;&gt;被A4淘汰&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-121" vertex="1">
+        <mxCell id="h48CHQcW-xhReIeVoeAo-129" value="&lt;span style=&quot;color: rgb(255 , 0 , 0)&quot;&gt;被A3淘汰&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;hachureGap=4;" parent="h48CHQcW-xhReIeVoeAo-121" vertex="1">
           <mxGeometry x="608" width="71" height="37" as="geometry">
             <mxRectangle width="71" height="37" as="alternateBounds" />
           </mxGeometry>
