@@ -108,12 +108,6 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-309" value="（A join C） join B" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1240" y="440" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-314" value="（RA&amp;nbsp;join C） join O" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1639" y="690" width="230" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-315" value="（RA&amp;nbsp;join C） join O" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="740" width="230" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-316" target="NEyjl3xciexzlBsbwED4-317">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -126,7 +120,7 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-319" value="C&amp;nbsp; join（A&amp;nbsp; join&amp;nbsp; B）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="980" y="440" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-323" value="（A join C） join B" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="NEyjl3xciexzlBsbwED4-323" value="（B join C） join A" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1500" y="440" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
