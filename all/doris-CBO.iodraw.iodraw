@@ -227,6 +227,9 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-438" value="后续在枚举连接方式、分布情况时，会同步计算成本，若成本超过基准线，则淘汰该分支不再往下计算" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1740" y="343" width="340" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-467" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-439" target="NEyjl3xciexzlBsbwED4-462">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-439" value="连接C表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2509" y="449.99999999999994" width="270" height="60" as="geometry" />
         </mxCell>
@@ -247,7 +250,7 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-465" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2120" y="-10" width="1140" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-466" value="计算A join B的所有" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NEyjl3xciexzlBsbwED4-466" value="计算A join B的所有组合情况" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2380" y="-70" width="390" height="30" as="geometry" />
         </mxCell>
       </root>
