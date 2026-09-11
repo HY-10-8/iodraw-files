@@ -4,28 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NEyjl3xciexzlBsbwED4-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-276" target="NEyjl3xciexzlBsbwED4-13">
+        <mxCell id="NEyjl3xciexzlBsbwED4-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-276">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-66" y="237.5" as="sourcePoint" />
+            <mxPoint x="38.999999999999545" y="237.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-12" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="47" y="53" width="236" height="369" as="geometry" />
-        </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-13" value="将SQL解析成AST得到" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;align=left;verticalAlign=top;" vertex="1" parent="NEyjl3xciexzlBsbwED4-12">
-          <mxGeometry width="236" height="369" as="geometry" />
-        </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-14" value="待查的表：&lt;br&gt;患者信息 as A&lt;br&gt;医嘱记录 as B" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;align=center;verticalAlign=middle;" vertex="1" parent="NEyjl3xciexzlBsbwED4-12">
-          <mxGeometry x="19.75" y="61" width="200.5" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-15" value="待查询的字段：&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#x9;&lt;/span&gt;A.&quot;患者编号&quot;,&lt;span style=&quot;white-space: pre&quot;&gt;&#x9;&lt;/span&gt;A.&quot;患者姓名&quot;,&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#x9;&lt;/span&gt;B.&quot;医嘱名称&quot;,&lt;span style=&quot;white-space: pre&quot;&gt;&#x9;&lt;/span&gt;B.&quot;金额&quot;, &lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#x9;&lt;/span&gt;B.&quot;开立时间&quot;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;align=left;verticalAlign=top;" vertex="1" parent="NEyjl3xciexzlBsbwED4-12">
-          <mxGeometry x="19.75" y="138" width="200.5" height="89" as="geometry" />
-        </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-16" value="过滤条件:&lt;br&gt;B.&quot;患者ID&quot; = A.&quot;患者ID&quot;&lt;br&gt;&lt;span style=&quot;text-align: left&quot;&gt;A.&quot;科室编码&quot; = &#39;CARD&#39; &lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;align=center;verticalAlign=middle;" vertex="1" parent="NEyjl3xciexzlBsbwED4-12">
-          <mxGeometry x="19.75" y="255" width="200.5" height="85" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-276" value="&lt;div&gt;SELECT c.name, o.amount&lt;/div&gt;&lt;div&gt;FROM&amp;nbsp; &amp;nbsp;customer c&lt;/div&gt;&lt;div&gt;JOIN&amp;nbsp; &amp;nbsp;orders&amp;nbsp; o&amp;nbsp; ON c.id = o.cust_id&lt;/div&gt;&lt;div&gt;JOIN&amp;nbsp; &amp;nbsp;region&amp;nbsp; ra ON ra.id = c.region_id&lt;/div&gt;&lt;div&gt;WHERE&amp;nbsp; o.amount &amp;gt; 100 AND ra.name = &#39;华东&#39;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-410" y="198" width="340" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-277" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
