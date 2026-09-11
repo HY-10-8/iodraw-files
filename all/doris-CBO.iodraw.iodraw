@@ -100,7 +100,7 @@
             <mxPoint x="-89" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-309" value="（C join RA） join O" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="NEyjl3xciexzlBsbwED4-309" value="（A join C） join B" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1240" y="440" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-314" value="（RA&amp;nbsp;join C） join O" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
