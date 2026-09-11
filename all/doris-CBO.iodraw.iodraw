@@ -191,7 +191,7 @@
           <mxGeometry x="25" y="54.5" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-430" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2510" y="-170" width="250" height="250" as="geometry" />
+          <mxGeometry x="2510" y="30" width="250" height="250" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-428" value="根据数据分布情况选择数据如何计算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-430">
           <mxGeometry width="250" height="250" as="geometry" />
@@ -214,7 +214,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-434" value="计算出一个成本，假设为6000" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="3000" y="-130" width="120" height="60" as="geometry" />
+          <mxGeometry x="3000" y="-130" width="270" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
