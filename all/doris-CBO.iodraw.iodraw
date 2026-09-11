@@ -94,10 +94,10 @@
             <mxPoint x="-89" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-310" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-309" target="NEyjl3xciexzlBsbwED4-303">
+        <mxCell id="NEyjl3xciexzlBsbwED4-310" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-309" target="NEyjl3xciexzlBsbwED4-309">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-309" value="（C join O） join RA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="NEyjl3xciexzlBsbwED4-309" value="（C join RA） join O" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="890" y="390" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
