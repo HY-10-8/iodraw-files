@@ -83,6 +83,9 @@
             <mxPoint x="1005" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-320" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-303" target="NEyjl3xciexzlBsbwED4-319">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-303" value="（C join O） join RA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="890" y="250" width="230" height="70" as="geometry" />
         </mxCell>
@@ -105,6 +108,9 @@
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-315" value="（RA&amp;nbsp;join C） join O" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="830" y="660" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-316" target="NEyjl3xciexzlBsbwED4-317">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-316" value="（O&amp;nbsp;join C） join RA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="720" y="437" width="230" height="70" as="geometry" />
