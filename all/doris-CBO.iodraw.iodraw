@@ -49,8 +49,14 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-288" value="o.cust_id = c.id&lt;div&gt;o.amount &amp;gt; 100&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="413" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-289" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NEyjl3xciexzlBsbwED4-289" value="ra.id = c.region_id&lt;div&gt;ra.name = &#39;华东&#39;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="413" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-290" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="570" as="sourcePoint" />
+            <mxPoint y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
