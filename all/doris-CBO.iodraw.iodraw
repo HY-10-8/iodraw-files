@@ -49,6 +49,9 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-288" value="o.cust_id = c.id&lt;div&gt;o.amount &amp;gt; 100&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="413" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-289" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="413" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
