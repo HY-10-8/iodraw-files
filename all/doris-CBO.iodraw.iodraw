@@ -115,7 +115,7 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-316" value="（B join A） join C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="720" y="437" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-317" value="RA join （O&amp;nbsp;join C）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="NEyjl3xciexzlBsbwED4-317" value="C join （B join A）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="560" y="590" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-319" value="RA&amp;nbsp; join（C join O）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
