@@ -197,13 +197,16 @@
           <mxGeometry width="250" height="250" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-420" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;通过广播B表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NEyjl3xciexzlBsbwED4-430">
-          <mxGeometry x="25" y="50" width="200" height="40" as="geometry" />
+          <mxGeometry x="25" y="50" width="185" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-424" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;通过本地连接&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NEyjl3xciexzlBsbwED4-430">
           <mxGeometry x="25" y="120" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-426" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;shuffle-重组&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NEyjl3xciexzlBsbwED4-430">
           <mxGeometry x="25" y="190" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-432" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-422" target="NEyjl3xciexzlBsbwED4-420">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
