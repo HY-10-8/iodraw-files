@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-301" value="查询条件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-294">
-          <mxGeometry x="44" y="285" width="610" height="100" as="geometry" />
+          <mxGeometry x="44" y="285" width="610" height="105" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-299" value="查询表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-294">
           <mxGeometry x="44" y="172" width="610" height="100" as="geometry" />
