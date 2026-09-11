@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-287" value="a.id = b.cust_id&lt;div style=&quot;font-size: 16px;&quot;&gt;a.region_id = c.id&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-294">
-          <mxGeometry x="109" y="313" width="120" height="60" as="geometry" />
+          <mxGeometry x="103.5" y="313" width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-288" value="o.cust_id = c.id&lt;div style=&quot;font-size: 16px;&quot;&gt;o.amount &amp;gt; 100&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-294">
           <mxGeometry x="289" y="313" width="120" height="60" as="geometry" />
