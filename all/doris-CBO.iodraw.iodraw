@@ -236,8 +236,13 @@
             <mxPoint x="3030" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-463" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NEyjl3xciexzlBsbwED4-461">
+          <mxGeometry x="0.2885" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-462" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;计算成本得出成本为8000&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2890" y="460" width="240" height="60" as="geometry" />
+          <mxGeometry x="2890" y="383" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
