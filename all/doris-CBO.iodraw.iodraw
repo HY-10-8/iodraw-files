@@ -109,8 +109,8 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-316" value="（O&amp;nbsp;join C） join RA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="720" y="437" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-317" value="（O&amp;nbsp;join C） join RA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="710" y="590" width="230" height="70" as="geometry" />
+        <mxCell id="NEyjl3xciexzlBsbwED4-317" value="join （O&amp;nbsp;join C）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="720" y="580" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
