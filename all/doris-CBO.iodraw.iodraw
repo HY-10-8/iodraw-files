@@ -123,6 +123,9 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-323" value="（B join C） join A" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1500" y="440" width="230" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-370" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="727" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
