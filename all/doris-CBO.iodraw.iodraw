@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NEyjl3xciexzlBsbwED4-427" value="两张表的连接方式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2150" y="30" width="250" height="170" as="geometry" />
+          <mxGeometry x="2150" y="35.5" width="250" height="170" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fontSize=16;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-276" target="NEyjl3xciexzlBsbwED4-294">
           <mxGeometry relative="1" as="geometry">
@@ -185,10 +185,10 @@
           <mxGeometry x="2560" y="20" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-421" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;A 与B通过嵌套循环连接&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2175" y="130" width="200" height="40" as="geometry" />
+          <mxGeometry x="2175" y="150" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-422" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;A 与B通过Hash连接&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2175" y="70" width="200" height="40" as="geometry" />
+          <mxGeometry x="2175" y="90" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-424" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;通过本地连接&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2560" y="90" width="200" height="40" as="geometry" />
