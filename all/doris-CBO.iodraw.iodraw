@@ -68,7 +68,10 @@
           <mxGeometry x="-20" y="280" width="610" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-300" value="查询条件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="400" width="610" height="100" as="geometry" />
+          <mxGeometry y="530" width="610" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-301" value="查询条件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="410" width="610" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
