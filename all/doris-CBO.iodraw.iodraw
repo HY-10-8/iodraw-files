@@ -247,6 +247,9 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-465" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2120" y="-10" width="1140" height="330" as="geometry" />
         </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-466" value="计算A join B的所有" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="-70" width="390" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
