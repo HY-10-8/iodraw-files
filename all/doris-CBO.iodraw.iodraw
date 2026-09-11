@@ -78,7 +78,7 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-303" target="NEyjl3xciexzlBsbwED4-309">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-312" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-303">
+        <mxCell id="NEyjl3xciexzlBsbwED4-312" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-303" target="NEyjl3xciexzlBsbwED4-316">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1005" y="410" as="targetPoint" />
           </mxGeometry>
@@ -98,15 +98,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-309" value="（C join RA） join O" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="680" y="410" width="230" height="70" as="geometry" />
+          <mxGeometry x="1120" y="437" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-314" value="（RA&amp;nbsp;join C） join O" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="939" y="413" width="230" height="70" as="geometry" />
+          <mxGeometry x="1379" y="440" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-315" value="（RA&amp;nbsp;join C） join O" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="930" y="510" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-316" value="（C join O） join RA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="NEyjl3xciexzlBsbwED4-316" value="（O&amp;nbsp;join C） join RA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="680" y="520" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
