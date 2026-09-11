@@ -70,7 +70,7 @@
           <mxGeometry x="115" y="308" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-289" value="ra.id = c.region_id&lt;div style=&quot;font-size: 16px;&quot;&gt;ra.name = &#39;华东&#39;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="275" y="308" width="120" height="60" as="geometry" />
+          <mxGeometry x="275" y="308" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-300" value="分组、排序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-130" y="417" width="610" height="100" as="geometry" />
