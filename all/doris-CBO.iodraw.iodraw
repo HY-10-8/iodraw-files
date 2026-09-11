@@ -65,13 +65,13 @@
           <mxGeometry x="410" y="282" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-299" value="查询表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="NEyjl3xciexzlBsbwED4-294">
-          <mxGeometry x="30" y="290" width="610" height="100" as="geometry" />
+          <mxGeometry x="25" y="342" width="610" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-300" value="分组、排序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="NEyjl3xciexzlBsbwED4-294">
-          <mxGeometry x="30" y="540" width="610" height="100" as="geometry" />
+          <mxGeometry x="25" y="592" width="610" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-301" value="查询条件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="NEyjl3xciexzlBsbwED4-294">
-          <mxGeometry x="30" y="403" width="610" height="100" as="geometry" />
+          <mxGeometry x="25" y="455" width="610" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
