@@ -235,13 +235,13 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-438" value="后续在枚举连接方式、分布情况时，会同步计算成本，若成本超过基准线，则淘汰该分支不再往下计算" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1740" y="343" width="340" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-441" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-439">
+        <mxCell id="NEyjl3xciexzlBsbwED4-441" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-439">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2499.999999999999" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-439" value="C的扫描方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2150" y="410" width="250" height="60" as="geometry" />
+          <mxGeometry x="2910" y="413" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-442" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2500" y="350" width="250" height="170" as="geometry" />
