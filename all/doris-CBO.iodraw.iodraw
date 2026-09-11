@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Nx0s3ZxXxJOtAXjN5DLK">
-    <mxGraphModel dx="2856" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2856" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,8 +13,13 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-276" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;SELECT c.name, o.amount&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;FROM&amp;nbsp; &amp;nbsp;customer c&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;JOIN&amp;nbsp; &amp;nbsp;orders&amp;nbsp; o&amp;nbsp; ON c.id = o.cust_id&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;JOIN&amp;nbsp; &amp;nbsp;region&amp;nbsp; ra ON ra.id = c.region_id&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;WHERE&amp;nbsp; o.amount &amp;gt; 100 AND ra.name = &#39;华东&#39;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-720" y="170" width="370" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-294" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="530" width="710" height="610" as="geometry" />
+        <mxCell id="NEyjl3xciexzlBsbwED4-294" value="" style="swimlane;startSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-160" y="-10" width="50" height="40" as="geometry">
+            <mxRectangle x="-80" y="350" width="710" height="610" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-301" value="查询条件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="NEyjl3xciexzlBsbwED4-294">
+          <mxGeometry x="30" y="325" width="610" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-299" value="查询表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="NEyjl3xciexzlBsbwED4-294">
           <mxGeometry x="30" y="212" width="610" height="100" as="geometry" />
@@ -69,9 +74,6 @@
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-300" value="分组、排序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="NEyjl3xciexzlBsbwED4-294">
           <mxGeometry x="30" y="462" width="610" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-301" value="查询条件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="NEyjl3xciexzlBsbwED4-294">
-          <mxGeometry x="30" y="325" width="610" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
