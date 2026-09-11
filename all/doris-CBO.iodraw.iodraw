@@ -230,11 +230,14 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-439" value="连接C表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2890" y="239" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-461" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="NEyjl3xciexzlBsbwED4-434">
+        <mxCell id="NEyjl3xciexzlBsbwED4-461" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-439" target="NEyjl3xciexzlBsbwED4-434">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2980" y="230" as="sourcePoint" />
             <mxPoint x="3030" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-462" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;计算成本得出成本为8000&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2890" y="460" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
