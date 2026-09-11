@@ -11,7 +11,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-276" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;SELECT c.name, o.amount&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;FROM&amp;nbsp; &amp;nbsp;customer c&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;JOIN&amp;nbsp; &amp;nbsp;orders&amp;nbsp; o&amp;nbsp; ON c.id = o.cust_id&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;JOIN&amp;nbsp; &amp;nbsp;region&amp;nbsp; ra ON ra.id = c.region_id&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;WHERE&amp;nbsp; o.amount &amp;gt; 100 AND ra.name = &#39;华东&#39;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="198" width="340" height="79" as="geometry" />
+          <mxGeometry x="-440" y="198" width="370" height="112" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-277" value="root" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="130" y="90" width="120" height="60" as="geometry" />
