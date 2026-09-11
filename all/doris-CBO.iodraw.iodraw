@@ -230,7 +230,7 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-438" value="后续在枚举连接方式、分布情况时，会同步计算成本，若成本超过基准线，则淘汰该分支不再往下计算" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1740" y="343" width="340" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-439" value="连接C表计算成本得出成本为8000" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="NEyjl3xciexzlBsbwED4-439" value="连接C表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2890" y="239" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
