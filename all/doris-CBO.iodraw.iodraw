@@ -148,7 +148,7 @@
             <mxRectangle width="330" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-378" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="NEyjl3xciexzlBsbwED4-378" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-303" target="NEyjl3xciexzlBsbwED4-361">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1200" y="300" as="sourcePoint" />
             <mxPoint x="1250" y="250" as="targetPoint" />
