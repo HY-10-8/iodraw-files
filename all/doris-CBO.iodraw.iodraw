@@ -231,10 +231,10 @@
           <mxGeometry x="1740" y="343" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-439" value="C的扫描方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2900" y="413" width="250" height="60" as="geometry" />
+          <mxGeometry x="2900" y="407" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-442" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2160" y="358" width="250" height="170" as="geometry" />
+          <mxGeometry x="2160" y="343" width="250" height="170" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-443" value="两张表的连接方式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-442">
           <mxGeometry width="250" height="170" as="geometry" />
