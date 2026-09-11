@@ -75,16 +75,6 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-300" value="分组、排序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-294">
           <mxGeometry x="44" y="422" width="610" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-312" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-303" target="NEyjl3xciexzlBsbwED4-361">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="835.0588235294122" y="437" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-377" value="根据这个初始路径推理出其他路径" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NEyjl3xciexzlBsbwED4-312">
-          <mxGeometry x="-0.1806" y="-6" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-303" value="（A join B） join C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="890" y="250" width="230" height="70" as="geometry" />
         </mxCell>
@@ -156,6 +146,12 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-376" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-375">
           <mxGeometry width="330" height="46" as="geometry">
             <mxRectangle width="330" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-378" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="300" as="sourcePoint" />
+            <mxPoint x="1250" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
