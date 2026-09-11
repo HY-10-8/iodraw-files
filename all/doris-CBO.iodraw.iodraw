@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-324" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;hachureGap=4;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="121" width="330" height="328" as="geometry" />
+          <mxGeometry x="1380" y="121" width="330" height="329" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-334" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;hachureGap=4;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-324">
           <mxGeometry width="330" height="52" as="geometry" />
@@ -117,15 +117,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-361" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;hachureGap=4;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-324">
-          <mxGeometry y="143" width="330" height="47" as="geometry" />
+          <mxGeometry y="143" width="330" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-362" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;（A join C） join B&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-361">
-          <mxGeometry width="330" height="47" as="geometry">
-            <mxRectangle width="330" height="47" as="alternateBounds" />
+          <mxGeometry width="330" height="48" as="geometry">
+            <mxRectangle width="330" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-371" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;hachureGap=4;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-324">
-          <mxGeometry y="190" width="330" height="46" as="geometry" />
+          <mxGeometry y="191" width="330" height="46" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-372" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;（B join C） join A&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-371">
           <mxGeometry width="330" height="46" as="geometry">
@@ -133,7 +133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-373" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;hachureGap=4;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-324">
-          <mxGeometry y="236" width="330" height="46" as="geometry" />
+          <mxGeometry y="237" width="330" height="46" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-374" value="............" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-373">
           <mxGeometry width="330" height="46" as="geometry">
@@ -141,7 +141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-375" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;hachureGap=4;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-324">
-          <mxGeometry y="282" width="330" height="46" as="geometry" />
+          <mxGeometry y="283" width="330" height="46" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-376" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;hachureGap=4;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-375">
           <mxGeometry width="330" height="46" as="geometry">
@@ -166,7 +166,7 @@
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-380" value="根据连接方式、分布情况生成完整路径" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="NEyjl3xciexzlBsbwED4-379">
           <mxGeometry x="-0.1132" y="2" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="85" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
