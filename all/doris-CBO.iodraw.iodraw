@@ -243,6 +243,18 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-439" value="C的扫描方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2150" y="410" width="250" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-442" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2500" y="350" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-443" value="两张表的连接方式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-442">
+          <mxGeometry width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-444" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;A 与B通过嵌套循环连接&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-442">
+          <mxGeometry x="25" y="114.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-445" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;B 与 C 通过Hash连接&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-442">
+          <mxGeometry x="25" y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
