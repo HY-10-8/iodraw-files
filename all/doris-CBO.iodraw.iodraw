@@ -14,12 +14,12 @@
           <mxGeometry x="-440" y="188" width="370" height="112" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-277" value="root" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="130" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-278" value="customer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="40" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-280" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-277" target="NEyjl3xciexzlBsbwED4-278">
+        <mxCell id="NEyjl3xciexzlBsbwED4-280" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-277" target="NEyjl3xciexzlBsbwED4-278">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="270" as="sourcePoint" />
             <mxPoint x="390" y="220" as="targetPoint" />
