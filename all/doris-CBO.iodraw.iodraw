@@ -86,7 +86,7 @@
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-305" value="根据sql生成基本的查询逻辑" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="NEyjl3xciexzlBsbwED4-304">
           <mxGeometry x="0.4694" y="-4" relative="1" as="geometry">
-            <mxPoint x="-89" y="-6" as="offset" />
+            <mxPoint x="-89" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-324" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;hachureGap=4;fontSize=16;" vertex="1" parent="1">
@@ -156,7 +156,7 @@
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-381" value="根据初始路径枚举出其他查询方式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NEyjl3xciexzlBsbwED4-378">
           <mxGeometry x="-0.3909" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="38" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-379" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-334">
@@ -164,7 +164,7 @@
             <mxPoint x="1950" y="147" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-380" value="枚举连接方式、分布情况" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NEyjl3xciexzlBsbwED4-379">
+        <mxCell id="NEyjl3xciexzlBsbwED4-380" value="根据连接方式、分布情况生成完整路径" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NEyjl3xciexzlBsbwED4-379">
           <mxGeometry x="-0.1132" y="2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
