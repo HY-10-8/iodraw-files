@@ -64,7 +64,7 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-294" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-170" y="570" width="580" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-299" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NEyjl3xciexzlBsbwED4-299" value="查询表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
           <mxGeometry x="-20" y="250" width="610" height="130" as="geometry" />
         </mxCell>
       </root>
