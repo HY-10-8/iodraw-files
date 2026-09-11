@@ -7,7 +7,7 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-4" target="NEyjl3xciexzlBsbwED4-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-4" value="&lt;div&gt;SELECT A.&quot;患者姓名&quot;, B.&quot;医嘱名称&quot;, B.&quot;金额&quot;, B.&quot;开立时间&quot;&lt;/div&gt;&lt;div&gt;FROM his_demo.&quot;患者信息&quot; AS A&lt;/div&gt;&lt;div&gt;JOIN his_demo.&quot;医嘱记录&quot; AS B ON B.&quot;患者ID&quot; = A.&quot;患者ID&quot;&lt;/div&gt;&lt;div&gt;WHERE A.&quot;科室编码&quot; = &#39;CARD&#39;;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontColor=#000000;align=left;" vertex="1" parent="1">
+        <mxCell id="NEyjl3xciexzlBsbwED4-4" value="&lt;div&gt;select&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontColor=#000000;align=left;" vertex="1" parent="1">
           <mxGeometry x="-426" y="202" width="360" height="71" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-12" value="" style="group" vertex="1" connectable="0" parent="1">
