@@ -75,7 +75,7 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-300" value="分组、排序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;fontSize=16;" vertex="1" parent="NEyjl3xciexzlBsbwED4-294">
           <mxGeometry x="44" y="422" width="610" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-303" value="基本的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NEyjl3xciexzlBsbwED4-303" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-304" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-294">
