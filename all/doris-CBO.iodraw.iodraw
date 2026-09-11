@@ -233,17 +233,6 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-439" value="连接C表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2509" y="449.99999999999994" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-461" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.459;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-439" target="NEyjl3xciexzlBsbwED4-465">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2860" y="550" as="sourcePoint" />
-            <mxPoint x="2905" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-463" value="同时从A join B组合中根据条件取出最优的路径" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="NEyjl3xciexzlBsbwED4-461">
-          <mxGeometry x="0.2885" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="27" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-462" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;计算成本得出成本为8000&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2509" y="594" width="270" height="60" as="geometry" />
         </mxCell>
@@ -252,6 +241,12 @@
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-466" value="计算A join B的所有组合情况" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2380" y="-70" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-468" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2600" y="390" as="sourcePoint" />
+            <mxPoint x="2650" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
