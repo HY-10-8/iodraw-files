@@ -242,11 +242,14 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-466" value="计算A join B的所有组合情况" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2380" y="-70" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-468" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="NEyjl3xciexzlBsbwED4-468" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.458;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-465" target="NEyjl3xciexzlBsbwED4-439">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2600" y="390" as="sourcePoint" />
             <mxPoint x="2650" y="340" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-470" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.666;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-439" target="NEyjl3xciexzlBsbwED4-465">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
