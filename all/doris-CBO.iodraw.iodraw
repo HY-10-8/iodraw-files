@@ -232,14 +232,9 @@
             <mxPoint x="1940" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-415" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NEyjl3xciexzlBsbwED4-414">
-          <mxGeometry x="-0.0247" y="2" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-416" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NEyjl3xciexzlBsbwED4-414">
-          <mxGeometry x="-0.2375" y="-8" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="NEyjl3xciexzlBsbwED4-418" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;根据连接方式、分布情况生成完整路径&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NEyjl3xciexzlBsbwED4-414">
+          <mxGeometry x="0.0411" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
