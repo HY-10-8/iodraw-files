@@ -190,7 +190,7 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-424" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;通过本地连接&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2410" y="90" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NEyjl3xciexzlBsbwED4-426" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;重组&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NEyjl3xciexzlBsbwED4-426" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;shuffle-重组&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2410" y="160" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
