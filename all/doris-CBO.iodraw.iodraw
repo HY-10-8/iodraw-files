@@ -34,6 +34,9 @@
         <mxCell id="NEyjl3xciexzlBsbwED4-282" value="orders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="301" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEyjl3xciexzlBsbwED4-283" target="NEyjl3xciexzlBsbwED4-289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-283" value="region" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="300" width="120" height="60" as="geometry" />
         </mxCell>
@@ -57,6 +60,9 @@
         </mxCell>
         <mxCell id="NEyjl3xciexzlBsbwED4-289" value="ra.id = c.region_id&lt;div&gt;ra.name = &#39;华东&#39;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="413" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEyjl3xciexzlBsbwED4-294" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
