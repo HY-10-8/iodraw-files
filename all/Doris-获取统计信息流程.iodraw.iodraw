@@ -24,16 +24,24 @@
         <mxCell id="g7dcf9LGIZHRohGAYGBR-3" value="每5分钟检测一次表状态，判断是否需要重新获取统计信息" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=40;position=0.17;position2=0;" vertex="1" parent="1">
           <mxGeometry x="910" y="-20" width="120" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="g7dcf9LGIZHRohGAYGBR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g7dcf9LGIZHRohGAYGBR-5" target="g7dcf9LGIZHRohGAYGBR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g7dcf9LGIZHRohGAYGBR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g7dcf9LGIZHRohGAYGBR-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="g7dcf9LGIZHRohGAYGBR-5" value="采集统计信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g7dcf9LGIZHRohGAYGBR-9" value="BE1" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="g7dcf9LGIZHRohGAYGBR-10" value="FE2" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g7dcf9LGIZHRohGAYGBR-10" value="BE2" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="360" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="g7dcf9LGIZHRohGAYGBR-11" value="FE3" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g7dcf9LGIZHRohGAYGBR-11" value="BE3" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="360" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="g7dcf9LGIZHRohGAYGBR-12" value="假设需要重新采集统计信息的表只占3个BE" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=40;position=0.25;base=20;" vertex="1" parent="1">
