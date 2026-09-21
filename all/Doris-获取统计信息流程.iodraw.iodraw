@@ -13,7 +13,7 @@
         <mxCell id="g7dcf9LGIZHRohGAYGBR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g7dcf9LGIZHRohGAYGBR-2" target="g7dcf9LGIZHRohGAYGBR-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g7dcf9LGIZHRohGAYGBR-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g7dcf9LGIZHRohGAYGBR-6">
+        <mxCell id="g7dcf9LGIZHRohGAYGBR-7" value="生成采集统计信息的任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g7dcf9LGIZHRohGAYGBR-6">
           <mxGeometry x="0.2702" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
