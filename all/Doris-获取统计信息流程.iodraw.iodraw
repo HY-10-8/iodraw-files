@@ -37,11 +37,21 @@
             <mxPoint x="590" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="g7dcf9LGIZHRohGAYGBR-18" value="约采集 139万行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g7dcf9LGIZHRohGAYGBR-14">
+          <mxGeometry x="0.4" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="g7dcf9LGIZHRohGAYGBR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g7dcf9LGIZHRohGAYGBR-5" target="g7dcf9LGIZHRohGAYGBR-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g7dcf9LGIZHRohGAYGBR-16" value="每一份采集 （419万/ 3） 行内容" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g7dcf9LGIZHRohGAYGBR-15">
           <mxGeometry x="-0.8585" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g7dcf9LGIZHRohGAYGBR-19" value="约采集 139万行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g7dcf9LGIZHRohGAYGBR-15">
+          <mxGeometry x="0.8341" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
