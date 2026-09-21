@@ -70,9 +70,6 @@
         <mxCell id="g7dcf9LGIZHRohGAYGBR-12" value="假设需要重新采集统计信息的表只占3个BE" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=40;position=0.25;base=20;" vertex="1" parent="1">
           <mxGeometry x="960" y="290" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g7dcf9LGIZHRohGAYGBR-20" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="580" y="340" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="g7dcf9LGIZHRohGAYGBR-21" value="默认采集419万行，除非手动执行时制定了行数，且每个BE均分采集行数" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;base=40;" vertex="1" parent="1">
           <mxGeometry x="180" y="210" width="120" height="90" as="geometry" />
         </mxCell>
