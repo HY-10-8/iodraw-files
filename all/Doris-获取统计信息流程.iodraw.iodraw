@@ -36,8 +36,8 @@
         <mxCell id="g7dcf9LGIZHRohGAYGBR-11" value="FE3" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="360" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="g7dcf9LGIZHRohGAYGBR-12" value="假设需要重新采集统计信息的表只占3个BE" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="240" width="120" height="80" as="geometry" />
+        <mxCell id="g7dcf9LGIZHRohGAYGBR-12" value="假设需要重新采集统计信息的表只占3个BE" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=40;position=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="290" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
