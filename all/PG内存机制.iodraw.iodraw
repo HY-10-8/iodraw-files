@@ -37,8 +37,8 @@
         <mxCell id="hsZLfapZjs0gfuHIcwkx-16" value="存在各自的私有内存" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1240" y="590" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-18" value="共享内存，主要用于数据页缓存、WAL日志缓冲区、统计信息等等" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1350" y="310" width="200" height="50" as="geometry" />
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-18" value="共享内存，主要用于数据页缓存、WAL日志缓冲区、统计信息等等" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1320" y="300" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
