@@ -70,8 +70,8 @@
         <mxCell id="hsZLfapZjs0gfuHIcwkx-46" value="通过多种方式传递信号、数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;通知：信号、Latch&lt;/div&gt;&lt;div&gt;共享状态：共享内存 + 锁&lt;/div&gt;&lt;div&gt;数据：DSM + shm_mq、socket、通过磁盘&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1460" y="810" width="250" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-47" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2285" y="1548" width="50" height="30" as="geometry" />
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-49" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2190" y="1520" width="60" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
