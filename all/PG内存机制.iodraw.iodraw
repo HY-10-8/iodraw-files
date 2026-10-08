@@ -7,7 +7,7 @@
         <mxCell id="hsZLfapZjs0gfuHIcwkx-3" value="PG" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-960" y="200" width="840" height="790" as="geometry" />
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-5" value="Postmaster" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-5" value="Postmaster-监督进程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
           <mxGeometry x="320" y="40" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="hsZLfapZjs0gfuHIcwkx-13" value="监督进程，是数据库的第一个进程，核心功能是接收客户端的连接请求，并启动Backend进程处理这个请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-5">
