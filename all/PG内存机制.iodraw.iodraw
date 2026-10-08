@@ -40,7 +40,7 @@
         <mxCell id="hsZLfapZjs0gfuHIcwkx-39" value="&lt;span style=&quot;text-align: left;&quot;&gt;实际数据处理，比如排序、哈希操作、会话状态、执行计划缓存等等&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="-1795" y="630" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="hsZLfapZjs0gfuHIcwkx-39">
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1820" y="640" as="sourcePoint" />
             <mxPoint x="-2040" y="640" as="targetPoint" />
