@@ -28,8 +28,8 @@
             <mxPoint x="-1110" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1210" y="590" width="60" height="30" as="geometry" />
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-16" value="存在各自的私有内存" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="590" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
