@@ -7,7 +7,7 @@
         <mxCell id="hsZLfapZjs0gfuHIcwkx-78" value="本地内存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="120" y="560" width="760" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-77" value="其他" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-77" value="后台进程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="120" y="960" width="760" height="160" as="geometry" />
         </mxCell>
         <mxCell id="hsZLfapZjs0gfuHIcwkx-55" value="共享内存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
