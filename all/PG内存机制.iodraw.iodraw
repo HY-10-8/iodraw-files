@@ -63,12 +63,12 @@
         </mxCell>
         <mxCell id="hsZLfapZjs0gfuHIcwkx-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1000" y="920" as="sourcePoint" />
-            <mxPoint x="-1000" y="800" as="targetPoint" />
+            <mxPoint x="-1480" y="920" as="sourcePoint" />
+            <mxPoint x="-1480" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hsZLfapZjs0gfuHIcwkx-46" value="通过多种方式传递信号、数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;通知：信号、Latch&lt;/div&gt;&lt;div&gt;共享状态：共享内存 + 锁&lt;/div&gt;&lt;div&gt;数据：DSM + shm_mq、socket、通过磁盘&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-980" y="810" width="250" height="101" as="geometry" />
+          <mxGeometry x="-1460" y="810" width="250" height="101" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
