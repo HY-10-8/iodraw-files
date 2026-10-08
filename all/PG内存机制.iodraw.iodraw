@@ -19,8 +19,8 @@
         <mxCell id="hsZLfapZjs0gfuHIcwkx-8" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;Backend&lt;/span&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
           <mxGeometry x="320" y="320" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-535" y="308" width="50" height="30" as="geometry" />
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-12" value="&lt;span style=&quot;white-space: normal;&quot;&gt;监督进程，是数据库的第一个进程，核心功能是接收客户端的连接请求，并启动Backend进程处理这个请求&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-805" y="120" width="590" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
