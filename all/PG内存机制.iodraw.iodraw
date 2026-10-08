@@ -34,7 +34,7 @@
             <mxPoint x="-1120" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-16" value="存在各自的私有内存&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-16" value="存在各自的私有内存&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;用于实际数据处理，比如排序、哈希操作等等，&lt;/div&gt;&lt;div&gt;临时内存，使用完后，会释放掉&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1320" y="580" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hsZLfapZjs0gfuHIcwkx-18" value="共享内存，主要用于数据页缓存、WAL日志缓冲区、统计信息等等&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;所有进程仅此一份，多个进程都会读取，所以会使用到锁、原子操作等机制保护使用&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
