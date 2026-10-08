@@ -7,22 +7,16 @@
         <mxCell id="hsZLfapZjs0gfuHIcwkx-3" value="PG" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-940" y="200" width="840" height="790" as="geometry" />
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-5" value="Postmaster-监督进程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-5" value="Postmaster-监督进程" style="swimlane;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
           <mxGeometry x="-640" y="90" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-13" value="监督进程，是数据库的第一个进程，核心功能是接收客户端的连接请求，并启动Backend进程处理这个请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-5">
-          <mxGeometry x="20" y="40" width="150" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-6" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;&quot; class=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Backend-后端进程&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-6" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;&quot; class=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Backend-后端进程&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;container=0;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
           <mxGeometry x="-880" y="331" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-22" value="&lt;span style=&quot;text-align: left;&quot;&gt;实际数据处理，比如排序、哈希操作、会话状态、执行计划缓存等等&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-6">
-          <mxGeometry x="5" y="70" width="190" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-7" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Backend-后端进程&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-7" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Backend-后端进程&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
           <mxGeometry x="-400" y="331" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-8" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Backend-后端进程&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-8" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Backend-后端进程&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
           <mxGeometry x="-640" y="331" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="hsZLfapZjs0gfuHIcwkx-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="hsZLfapZjs0gfuHIcwkx-3">
@@ -31,17 +25,23 @@
             <mxPoint x="-1120" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-24" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;writer&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-24" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;writer&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
           <mxGeometry x="-880" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-25" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;checkpointer&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-25" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;checkpointer&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
           <mxGeometry x="-720" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-27" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;walwriter&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-27" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;walwriter&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
           <mxGeometry x="-560" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-28" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;autovacuum worker&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-28" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;autovacuum worker&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
           <mxGeometry x="-400" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-13" value="监督进程，是数据库的第一个进程，核心功能是接收客户端的连接请求，并启动Backend进程处理这个请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
+          <mxGeometry x="-620" y="130" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-22" value="&lt;span style=&quot;text-align: left;&quot;&gt;实际数据处理，比如排序、哈希操作、会话状态、执行计划缓存等等&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
+          <mxGeometry x="-875" y="401" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hsZLfapZjs0gfuHIcwkx-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -49,10 +49,10 @@
             <mxPoint x="-2080" y="611" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-16" value="存在各自的私有本地内存&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;用于实际数据处理，比如排序、哈希操作、会话状态、执行计划缓存等等，&lt;/div&gt;&lt;div&gt;临时内存，使用完后，会释放掉。&lt;/div&gt;&lt;div&gt;内存采用树形方式，便于统一销毁（一般以事务、查询结束为标志&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-16" value="存在各自的私有本地内存&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;用于实际数据处理，比如排序、哈希操作、会话状态、执行计划缓存等等，&lt;/div&gt;&lt;div&gt;临时内存，使用完后，会释放掉。&lt;/div&gt;&lt;div&gt;内存采用树形方式，便于统一销毁（一般以事务、查询结束为标志&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="-2280" y="591" width="200" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-18" value="共享内存，主要用于数据页缓存、WAL日志缓冲区、统计信息等等&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;所有进程仅此一份，多个进程都会读取，所以会使用到锁、原子操作等机制保护使用&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-18" value="共享内存，主要用于数据页缓存、WAL日志缓冲区、统计信息等等&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;所有进程仅此一份，多个进程都会读取，所以会使用到锁、原子操作等机制保护使用&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="-2280" y="320" width="200" height="110" as="geometry" />
         </mxCell>
       </root>
