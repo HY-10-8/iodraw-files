@@ -23,16 +23,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hsZLfapZjs0gfuHIcwkx-34" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;writer&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-1810" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1800" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hsZLfapZjs0gfuHIcwkx-35" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;checkpointer&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-1650" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1640" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hsZLfapZjs0gfuHIcwkx-36" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;walwriter&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-1490" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1480" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hsZLfapZjs0gfuHIcwkx-37" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;autovacuum worker&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-1330" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1320" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hsZLfapZjs0gfuHIcwkx-38" value="监督进程，是数据库的第一个进程，核心功能是接收客户端的连接请求，并启动Backend进程处理这个请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="-1540" y="200" width="150" height="110" as="geometry" />
