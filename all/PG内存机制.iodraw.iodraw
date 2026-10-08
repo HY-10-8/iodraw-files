@@ -31,8 +31,11 @@
             <mxPoint x="-160" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-24" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;writer&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
           <mxGeometry x="270" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-25" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;checkpointer&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
+          <mxGeometry x="440" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hsZLfapZjs0gfuHIcwkx-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
