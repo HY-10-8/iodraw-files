@@ -59,7 +59,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hsZLfapZjs0gfuHIcwkx-44" value="通过多种方式传递信号、数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;通知：信号、Latch&lt;/div&gt;&lt;div&gt;共享状态：共享内存 + 锁&lt;/div&gt;&lt;div&gt;数据：DSM + shm_mq、socket、通过磁盘&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-940" y="399" width="170" height="61" as="geometry" />
+          <mxGeometry x="-980" y="370" width="250" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1000" y="880" as="sourcePoint" />
+            <mxPoint x="-1000" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-46" value="通过多种方式传递信号、数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;通知：信号、Latch&lt;/div&gt;&lt;div&gt;共享状态：共享内存 + 锁&lt;/div&gt;&lt;div&gt;数据：DSM + shm_mq、socket、通过磁盘&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="770" width="250" height="101" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
