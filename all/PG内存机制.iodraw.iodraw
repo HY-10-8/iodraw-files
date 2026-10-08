@@ -10,6 +10,9 @@
         <mxCell id="hsZLfapZjs0gfuHIcwkx-5" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;Postmaster&lt;/span&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
           <mxGeometry x="320" y="40" width="200" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-5">
+          <mxGeometry x="20" y="40" width="170" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="hsZLfapZjs0gfuHIcwkx-6" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;Backend&lt;/span&gt;&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="hsZLfapZjs0gfuHIcwkx-3">
           <mxGeometry x="80" y="320" width="200" height="200" as="geometry" />
         </mxCell>
