@@ -58,8 +58,8 @@
             <mxPoint x="-1000" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsZLfapZjs0gfuHIcwkx-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-940" y="399" width="60" height="30" as="geometry" />
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-44" value="通过多种方式传递信号、数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="399" width="170" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
