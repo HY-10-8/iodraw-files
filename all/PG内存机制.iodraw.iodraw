@@ -52,6 +52,12 @@
         <mxCell id="hsZLfapZjs0gfuHIcwkx-42" value="共享内存，主要用于数据页缓存、WAL日志缓冲区、统计信息等等&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;所有进程仅此一份，多个进程都会读取，所以会使用到锁、原子操作等机制保护使用&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="-2240" y="200" width="200" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="hsZLfapZjs0gfuHIcwkx-43" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-980" y="430" as="sourcePoint" />
+            <mxPoint x="-930" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
