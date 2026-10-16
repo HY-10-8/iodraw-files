@@ -23,6 +23,16 @@
             <mxPoint x="790" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DLSul2nURmS1VCfohdxV-10" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DLSul2nURmS1VCfohdxV-7">
+          <mxGeometry x="0.0909" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DLSul2nURmS1VCfohdxV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DLSul2nURmS1VCfohdxV-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-6" value="内联" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="110" width="80" height="80" as="geometry" />
         </mxCell>
