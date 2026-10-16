@@ -18,8 +18,16 @@
         <mxCell id="DLSul2nURmS1VCfohdxV-4" value="SQL引擎" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DLSul2nURmS1VCfohdxV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DLSul2nURmS1VCfohdxV-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-6" value="内联" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DLSul2nURmS1VCfohdxV-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
