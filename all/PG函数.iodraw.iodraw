@@ -9,11 +9,6 @@
             <mxPoint x="570" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DLSul2nURmS1VCfohdxV-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DLSul2nURmS1VCfohdxV-3">
-          <mxGeometry x="-0.1354" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-1" value="SQL函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -22,6 +17,9 @@
         </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-4" value="SQL引擎" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DLSul2nURmS1VCfohdxV-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="110" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
