@@ -93,8 +93,11 @@
         <mxCell id="DLSul2nURmS1VCfohdxV-24" value="SPI" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="640" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="W32jyzRIIlLhw14K4Wwh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="W32jyzRIIlLhw14K4Wwh-2" target="DLSul2nURmS1VCfohdxV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="W32jyzRIIlLhw14K4Wwh-2" value="SPI" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
