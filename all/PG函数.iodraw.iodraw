@@ -99,6 +99,9 @@
         <mxCell id="W32jyzRIIlLhw14K4Wwh-2" value="SPI" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="W32jyzRIIlLhw14K4Wwh-4" value="通过fmgr_sql调用函数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
