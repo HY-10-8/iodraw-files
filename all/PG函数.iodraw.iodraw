@@ -93,6 +93,9 @@
         <mxCell id="DLSul2nURmS1VCfohdxV-24" value="SPI" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="640" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="W32jyzRIIlLhw14K4Wwh-2" value="SPI" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
