@@ -56,11 +56,6 @@
         <mxCell id="DLSul2nURmS1VCfohdxV-12" value="通过fmgr_sql调用函数" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DLSul2nURmS1VCfohdxV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DLSul2nURmS1VCfohdxV-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-15" value="过程解释器" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -70,14 +65,14 @@
         <mxCell id="DLSul2nURmS1VCfohdxV-18" value="通过SPI间接调用" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W32jyzRIIlLhw14K4Wwh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="DLSul2nURmS1VCfohdxV-18">
+        <mxCell id="W32jyzRIIlLhw14K4Wwh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DLSul2nURmS1VCfohdxV-15" target="DLSul2nURmS1VCfohdxV-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840" y="470" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W32jyzRIIlLhw14K4Wwh-7" value="存在SQL调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="W32jyzRIIlLhw14K4Wwh-6">
           <mxGeometry x="0.3" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-15" y="-32" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DLSul2nURmS1VCfohdxV-23" target="DLSul2nURmS1VCfohdxV-24" edge="1">
