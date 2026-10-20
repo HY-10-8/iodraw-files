@@ -55,8 +55,10 @@
         <mxCell id="DLSul2nURmS1VCfohdxV-8" value="展开函数到原SQL中" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DLSul2nURmS1VCfohdxV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DLSul2nURmS1VCfohdxV-12" target="W32jyzRIIlLhw14K4Wwh-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="DLSul2nURmS1VCfohdxV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DLSul2nURmS1VCfohdxV-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-12" value="通过fmgr_sql调用函数" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="240" width="120" height="60" as="geometry" />
@@ -80,8 +82,10 @@
             <mxPoint x="-30" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DLSul2nURmS1VCfohdxV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DLSul2nURmS1VCfohdxV-23" target="DLSul2nURmS1VCfohdxV-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="DLSul2nURmS1VCfohdxV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DLSul2nURmS1VCfohdxV-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="670" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-26" value="若需要访问数据库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DLSul2nURmS1VCfohdxV-25" vertex="1" connectable="0">
           <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
@@ -90,18 +94,6 @@
         </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-23" value="C函数" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DLSul2nURmS1VCfohdxV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DLSul2nURmS1VCfohdxV-24" target="DLSul2nURmS1VCfohdxV-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DLSul2nURmS1VCfohdxV-24" value="SPI" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="W32jyzRIIlLhw14K4Wwh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="W32jyzRIIlLhw14K4Wwh-2" target="DLSul2nURmS1VCfohdxV-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="W32jyzRIIlLhw14K4Wwh-2" value="SPI" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W32jyzRIIlLhw14K4Wwh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W32jyzRIIlLhw14K4Wwh-4" target="DLSul2nURmS1VCfohdxV-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
