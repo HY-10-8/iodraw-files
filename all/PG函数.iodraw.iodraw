@@ -112,8 +112,8 @@
         <mxCell id="W32jyzRIIlLhw14K4Wwh-11" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;fmgr_sql：PG内部的SQL函数管理器&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;SPI： 是一组 C 语言函数接口，它的核心作用是让开发者能够在数据库服务器进程内部直接执行 SQL 命令，并处理结果&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="240" y="840" width="510" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="mErqvZKS-an8vl8x1vy6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="mErqvZKS-an8vl8x1vy6-3" value="CBO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
