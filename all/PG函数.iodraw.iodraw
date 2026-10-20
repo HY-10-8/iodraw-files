@@ -59,7 +59,7 @@
         <mxCell id="DLSul2nURmS1VCfohdxV-15" value="过程解释器" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DLSul2nURmS1VCfohdxV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DLSul2nURmS1VCfohdxV-18" target="DLSul2nURmS1VCfohdxV-4" edge="1">
+        <mxCell id="DLSul2nURmS1VCfohdxV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DLSul2nURmS1VCfohdxV-18" target="DLSul2nURmS1VCfohdxV-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-18" value="通过SPI调用" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
