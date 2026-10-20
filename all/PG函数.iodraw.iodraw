@@ -10,18 +10,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-1" value="SQL函数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DLSul2nURmS1VCfohdxV-2" target="W32jyzRIIlLhw14K4Wwh-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="470" as="targetPoint" />
+            <mxPoint x="550" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-2" value="PL/pgSQL过程函数" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-4" value="SQL引擎" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DLSul2nURmS1VCfohdxV-6" target="DLSul2nURmS1VCfohdxV-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -50,24 +50,24 @@
         <mxCell id="DLSul2nURmS1VCfohdxV-8" value="展开函数到原SQL中" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mErqvZKS-an8vl8x1vy6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DLSul2nURmS1VCfohdxV-12" target="DLSul2nURmS1VCfohdxV-18">
+        <mxCell id="DLSul2nURmS1VCfohdxV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DLSul2nURmS1VCfohdxV-12" target="W32jyzRIIlLhw14K4Wwh-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-12" value="通过fmgr_sql调用函数" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-15" value="过程解释器" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DLSul2nURmS1VCfohdxV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DLSul2nURmS1VCfohdxV-18" target="DLSul2nURmS1VCfohdxV-1" edge="1">
+        <mxCell id="DLSul2nURmS1VCfohdxV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DLSul2nURmS1VCfohdxV-18" target="DLSul2nURmS1VCfohdxV-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-18" value="通过SPI调用" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W32jyzRIIlLhw14K4Wwh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DLSul2nURmS1VCfohdxV-15" target="DLSul2nURmS1VCfohdxV-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="470" as="sourcePoint" />
+            <mxPoint x="840" y="470" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W32jyzRIIlLhw14K4Wwh-7" value="存在SQL调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W32jyzRIIlLhw14K4Wwh-6" vertex="1" connectable="0">
@@ -75,7 +75,7 @@
             <mxPoint x="-30" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DLSul2nURmS1VCfohdxV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DLSul2nURmS1VCfohdxV-23" target="DLSul2nURmS1VCfohdxV-18" edge="1">
+        <mxCell id="DLSul2nURmS1VCfohdxV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DLSul2nURmS1VCfohdxV-23" target="DLSul2nURmS1VCfohdxV-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-26" value="若需要访问数据库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DLSul2nURmS1VCfohdxV-25" vertex="1" connectable="0">
@@ -86,11 +86,23 @@
         <mxCell id="DLSul2nURmS1VCfohdxV-23" value="C函数" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="640" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DLSul2nURmS1VCfohdxV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DLSul2nURmS1VCfohdxV-24" target="DLSul2nURmS1VCfohdxV-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLSul2nURmS1VCfohdxV-24" value="SPI" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W32jyzRIIlLhw14K4Wwh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="W32jyzRIIlLhw14K4Wwh-2" target="DLSul2nURmS1VCfohdxV-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W32jyzRIIlLhw14K4Wwh-2" value="SPI" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="W32jyzRIIlLhw14K4Wwh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W32jyzRIIlLhw14K4Wwh-4" target="DLSul2nURmS1VCfohdxV-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W32jyzRIIlLhw14K4Wwh-4" value="通过fmgr_sql调用函数" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W32jyzRIIlLhw14K4Wwh-11" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;fmgr_sql：PG内部的SQL函数管理器&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;SPI： 是一组 C 语言函数接口，它的核心作用是让开发者能够在数据库服务器进程内部直接执行 SQL 命令，并处理结果&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="240" y="840" width="510" height="120" as="geometry" />
