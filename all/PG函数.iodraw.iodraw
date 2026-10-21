@@ -22,11 +22,11 @@
         </mxCell>
         <mxCell id="mErqvZKS-an8vl8x1vy6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DLSul2nURmS1VCfohdxV-4" target="mErqvZKS-an8vl8x1vy6-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1080" y="390" as="targetPoint" />
+            <mxPoint x="1040" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-4" value="SQL引擎" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DLSul2nURmS1VCfohdxV-6" target="DLSul2nURmS1VCfohdxV-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -106,14 +106,14 @@
         </mxCell>
         <mxCell id="mErqvZKS-an8vl8x1vy6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mErqvZKS-an8vl8x1vy6-3" target="mErqvZKS-an8vl8x1vy6-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1290" y="390" as="targetPoint" />
+            <mxPoint x="1210" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mErqvZKS-an8vl8x1vy6-3" value="CBO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mErqvZKS-an8vl8x1vy6-5" value="执行执行计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
