@@ -117,11 +117,46 @@
         <mxCell id="mErqvZKS-an8vl8x1vy6-5" value="执行执行计划" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1169" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qOpeinCWp7Zv7y04fi-T-1" value="SQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-1" value="SQL函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qOpeinCWp7Zv7y04fi-T-3" value="参与外层查询优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qOpeinCWp7Zv7y04fi-T-8" target="qOpeinCWp7Zv7y04fi-T-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="-160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-5" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOpeinCWp7Zv7y04fi-T-4">
+          <mxGeometry x="0.0909" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qOpeinCWp7Zv7y04fi-T-8" target="qOpeinCWp7Zv7y04fi-T-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-7" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOpeinCWp7Zv7y04fi-T-6">
+          <mxGeometry x="0.3167" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-8" value="内联" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qOpeinCWp7Zv7y04fi-T-10" target="qOpeinCWp7Zv7y04fi-T-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="-160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-10" value="展开函数到原SQL中" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-11" value="通过fmgr_sql调用函数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-12" value="参与外层查询优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
