@@ -176,6 +176,11 @@
         <mxCell id="qOpeinCWp7Zv7y04fi-T-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOpeinCWp7Zv7y04fi-T-11" target="qOpeinCWp7Zv7y04fi-T-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-47" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOpeinCWp7Zv7y04fi-T-43">
+          <mxGeometry x="0.0583" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qOpeinCWp7Zv7y04fi-T-11" value="通过fmgr调用函数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="-280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -203,9 +208,9 @@
         <mxCell id="qOpeinCWp7Zv7y04fi-T-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qOpeinCWp7Zv7y04fi-T-21" target="qOpeinCWp7Zv7y04fi-T-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qOpeinCWp7Zv7y04fi-T-46" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOpeinCWp7Zv7y04fi-T-34">
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-46" value="若存在SQL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOpeinCWp7Zv7y04fi-T-34">
           <mxGeometry x="-0.25" y="8" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qOpeinCWp7Zv7y04fi-T-21" value="PL/pgSQL执行器" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
