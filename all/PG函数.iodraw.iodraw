@@ -178,6 +178,9 @@
         <mxCell id="qOpeinCWp7Zv7y04fi-T-15" value="PL/pgSQL过程函数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-19" value="fmgr_sql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
