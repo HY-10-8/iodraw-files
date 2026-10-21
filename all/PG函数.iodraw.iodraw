@@ -210,7 +210,7 @@
         </mxCell>
         <mxCell id="qOpeinCWp7Zv7y04fi-T-46" value="若存在SQL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="qOpeinCWp7Zv7y04fi-T-34">
           <mxGeometry x="-0.25" y="8" relative="1" as="geometry">
-            <mxPoint x="10" as="offset" />
+            <mxPoint x="10" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qOpeinCWp7Zv7y04fi-T-21" value="PL/pgSQL执行器" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -251,6 +251,9 @@
         </mxCell>
         <mxCell id="qOpeinCWp7Zv7y04fi-T-40" value="运行函数体" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-48" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="-52" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
