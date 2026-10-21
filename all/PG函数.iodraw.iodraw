@@ -191,6 +191,9 @@
         <mxCell id="qOpeinCWp7Zv7y04fi-T-15" value="PL/pgSQL过程函数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOpeinCWp7Zv7y04fi-T-19" target="qOpeinCWp7Zv7y04fi-T-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qOpeinCWp7Zv7y04fi-T-19" value="fmgr_sql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -199,6 +202,9 @@
         </mxCell>
         <mxCell id="qOpeinCWp7Zv7y04fi-T-21" value="PL/pgSQL执行器" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="-280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOpeinCWp7Zv7y04fi-T-24" target="qOpeinCWp7Zv7y04fi-T-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qOpeinCWp7Zv7y04fi-T-24" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="-160" width="120" height="60" as="geometry" />
