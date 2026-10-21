@@ -49,9 +49,6 @@
         <mxCell id="DLSul2nURmS1VCfohdxV-6" value="内联" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DLSul2nURmS1VCfohdxV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DLSul2nURmS1VCfohdxV-8" target="DLSul2nURmS1VCfohdxV-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DLSul2nURmS1VCfohdxV-8" value="展开函数到原SQL中" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="130" width="120" height="60" as="geometry" />
         </mxCell>
