@@ -155,7 +155,7 @@
         <mxCell id="qOpeinCWp7Zv7y04fi-T-10" value="展开函数到原SQL中" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qOpeinCWp7Zv7y04fi-T-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qOpeinCWp7Zv7y04fi-T-11">
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOpeinCWp7Zv7y04fi-T-11" target="qOpeinCWp7Zv7y04fi-T-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="-390" as="targetPoint" />
           </mxGeometry>
