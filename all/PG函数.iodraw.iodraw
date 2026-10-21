@@ -252,7 +252,7 @@
         <mxCell id="qOpeinCWp7Zv7y04fi-T-40" value="运行函数体" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qOpeinCWp7Zv7y04fi-T-49" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-49" value="Text" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="-40" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
