@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qOpeinCWp7Zv7y04fi-T-11" value="通过fmgr调用函数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-360" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="-280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qOpeinCWp7Zv7y04fi-T-12" value="参与外层查询优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="-520" width="120" height="60" as="geometry" />
@@ -170,13 +170,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qOpeinCWp7Zv7y04fi-T-14" value="C函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-200" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qOpeinCWp7Zv7y04fi-T-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qOpeinCWp7Zv7y04fi-T-15" target="qOpeinCWp7Zv7y04fi-T-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qOpeinCWp7Zv7y04fi-T-15" value="PL/pgSQL过程函数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-360" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="-280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qOpeinCWp7Zv7y04fi-T-19" value="fmgr_sql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="-400" width="120" height="60" as="geometry" />
