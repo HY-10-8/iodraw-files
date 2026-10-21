@@ -155,7 +155,7 @@
         <mxCell id="qOpeinCWp7Zv7y04fi-T-10" value="展开函数到原SQL中" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qOpeinCWp7Zv7y04fi-T-11" value="通过fmgr_sql调用函数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-11" value="通过fmgr调用函数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="-400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qOpeinCWp7Zv7y04fi-T-12" value="参与外层查询优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
