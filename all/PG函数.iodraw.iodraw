@@ -160,15 +160,15 @@
             <mxPoint x="540" y="-390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qOpeinCWp7Zv7y04fi-T-20" value="sql" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOpeinCWp7Zv7y04fi-T-18">
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-20" value="sql" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="qOpeinCWp7Zv7y04fi-T-18">
           <mxGeometry x="0.1" y="4" relative="1" as="geometry">
-            <mxPoint x="4" y="-18" as="offset" />
+            <mxPoint x="24" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qOpeinCWp7Zv7y04fi-T-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOpeinCWp7Zv7y04fi-T-11" target="qOpeinCWp7Zv7y04fi-T-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qOpeinCWp7Zv7y04fi-T-23" value="plpgsql" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOpeinCWp7Zv7y04fi-T-22">
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-23" value="plpgsql" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="qOpeinCWp7Zv7y04fi-T-22">
           <mxGeometry x="0.3333" y="7" relative="1" as="geometry">
             <mxPoint x="10" y="-3" as="offset" />
           </mxGeometry>
@@ -176,7 +176,7 @@
         <mxCell id="qOpeinCWp7Zv7y04fi-T-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qOpeinCWp7Zv7y04fi-T-11" target="qOpeinCWp7Zv7y04fi-T-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qOpeinCWp7Zv7y04fi-T-47" value="C" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qOpeinCWp7Zv7y04fi-T-43">
+        <mxCell id="qOpeinCWp7Zv7y04fi-T-47" value="C" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="qOpeinCWp7Zv7y04fi-T-43">
           <mxGeometry x="0.0583" y="-6" relative="1" as="geometry">
             <mxPoint x="26" as="offset" />
           </mxGeometry>
