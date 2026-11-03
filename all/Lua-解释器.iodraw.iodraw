@@ -10,6 +10,9 @@
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-2" value="Lua - 解释器" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="120" width="930" height="570" as="geometry" />
         </mxCell>
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-2">
+          <mxGeometry x="80" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
