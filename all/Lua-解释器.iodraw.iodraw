@@ -53,7 +53,7 @@
           <mxGeometry x="500" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-8" value="词法分析：识别代码里的单词和符号&lt;div&gt;语法分析：识别代码含义&lt;/div&gt;&lt;div&gt;代码生成器：根据代码生成字节码&lt;/div&gt;&lt;div&gt;虚拟机：逐条执行字节码&lt;/div&gt;&lt;div&gt;调用帧：一次函数调用所需的执行记录和工作空间&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="440" width="400" height="130" as="geometry" />
+          <mxGeometry x="40" y="440" width="320" height="130" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YK9fg9cT_8YSmuaUv1Kp-23" target="YK9fg9cT_8YSmuaUv1Kp-21">
           <mxGeometry relative="1" as="geometry" />
