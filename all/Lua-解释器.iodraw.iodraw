@@ -55,9 +55,6 @@
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-8" value="词法分析：识别代码里的单词和符号&lt;div&gt;语法分析：识别代码含义&lt;/div&gt;&lt;div&gt;代码生成器：根据代码生成字节码&lt;/div&gt;&lt;div&gt;虚拟机：逐条执行字节码&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="400" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-19" value="local a = 10&lt;div&gt;local b = 20&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;local c = a + b&lt;/div&gt;&lt;div style=&quot;&quot;&gt;return c&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="520" width="120" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
