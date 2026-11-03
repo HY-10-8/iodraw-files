@@ -11,16 +11,16 @@
           <mxGeometry x="240" y="80" width="850" height="230" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-9" value="词法分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-2">
-          <mxGeometry x="60" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-10" value="语法分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-2">
-          <mxGeometry x="240" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-11" value="代码生成器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-2">
-          <mxGeometry x="400" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-12" value="虚拟机执行引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-2">
-          <mxGeometry x="550" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-3" value="词法分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="800" width="120" height="60" as="geometry" />
