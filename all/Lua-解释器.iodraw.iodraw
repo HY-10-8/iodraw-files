@@ -59,19 +59,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-20" value="&lt;span style=&quot;&quot;&gt;local a = 10&lt;/span&gt;&lt;div style=&quot;&quot;&gt;local b = 20&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;local c = a + b&lt;/div&gt;&lt;div style=&quot;&quot;&gt;return c&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="40" y="640" width="140" height="90" as="geometry" />
+          <mxGeometry x="240" y="440" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-21" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;将 10 放入槽位 R0&lt;br&gt;将 20 放入槽位 R1&lt;br&gt;取出两个值，相加后把 30 放入 R2&lt;br&gt;把 30 返回给调用者&lt;/code&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="560" y="640" width="200" height="90" as="geometry" />
+          <mxGeometry x="760" y="440" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YK9fg9cT_8YSmuaUv1Kp-20" target="YK9fg9cT_8YSmuaUv1Kp-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="690" as="sourcePoint" />
-            <mxPoint x="670" y="690" as="targetPoint" />
+            <mxPoint x="380" y="490" as="sourcePoint" />
+            <mxPoint x="870" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-23" value="&lt;div&gt;LOADK&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;R0, 10&lt;/div&gt;&lt;div&gt;LOADK&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;R1, 20&lt;/div&gt;&lt;div&gt;ADD&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; R2, R0, R1&lt;/div&gt;&lt;div&gt;RETURN&amp;nbsp; &amp;nbsp; &amp;nbsp;R2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="320" y="640" width="140" height="90" as="geometry" />
+          <mxGeometry x="520" y="440" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-25" value="内存管理（GC）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="920" width="120" height="60" as="geometry" />
