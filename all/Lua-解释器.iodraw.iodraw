@@ -22,8 +22,8 @@
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-7" value="虚拟机执行引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="910" width="60" height="30" as="geometry" />
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-8" value="词法分析：识别代码里的单词和符号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="910" width="60" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
