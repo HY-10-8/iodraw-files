@@ -4,17 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YK9fg9cT_8YSmuaUv1Kp-1" target="YK9fg9cT_8YSmuaUv1Kp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-1" value="Lua源文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-2" value="Lua - 解释器" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="850" height="230" as="geometry" />
         </mxCell>
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YK9fg9cT_8YSmuaUv1Kp-2" source="YK9fg9cT_8YSmuaUv1Kp-9" target="YK9fg9cT_8YSmuaUv1Kp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-9" value="词法分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-2">
           <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YK9fg9cT_8YSmuaUv1Kp-2" source="YK9fg9cT_8YSmuaUv1Kp-10" target="YK9fg9cT_8YSmuaUv1Kp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-10" value="语法分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-2">
           <mxGeometry x="220" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YK9fg9cT_8YSmuaUv1Kp-2" source="YK9fg9cT_8YSmuaUv1Kp-11" target="YK9fg9cT_8YSmuaUv1Kp-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-11" value="代码生成器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-2">
           <mxGeometry x="380" y="80" width="120" height="60" as="geometry" />
