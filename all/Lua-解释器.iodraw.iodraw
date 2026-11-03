@@ -62,7 +62,7 @@
           <mxGeometry x="40" y="520" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-21" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;将 10 放入槽位 R0&lt;br&gt;将 20 放入槽位 R1&lt;br&gt;取出两个值，相加后把 30 放入 R2&lt;br&gt;把 30 返回给调用者&lt;/code&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="360" y="515" width="200" height="110" as="geometry" />
+          <mxGeometry x="670" y="515" width="200" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
