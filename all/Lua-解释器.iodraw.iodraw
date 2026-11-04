@@ -121,6 +121,9 @@
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-53" value="虚拟机执行引擎" style="swimlane;whiteSpace=wrap;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="250" y="1740" width="200" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-54" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
