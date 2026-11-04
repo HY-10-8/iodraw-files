@@ -133,20 +133,6 @@
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-91" value="C API" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-55">
           <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-93" value="执行器" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-55">
-          <mxGeometry x="140" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-94" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="YK9fg9cT_8YSmuaUv1Kp-55" source="YK9fg9cT_8YSmuaUv1Kp-93" target="YK9fg9cT_8YSmuaUv1Kp-57">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="210" as="sourcePoint" />
-            <mxPoint x="160" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-95" value="取指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="YK9fg9cT_8YSmuaUv1Kp-94">
-          <mxGeometry x="0.3283" y="-7" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-58" value="虚拟机执行引擎 - 寄存器" style="swimlane;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="240" y="2040" width="640" height="346" as="geometry" />
         </mxCell>
@@ -158,6 +144,31 @@
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-92" value="C API" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-58">
           <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-94" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="YK9fg9cT_8YSmuaUv1Kp-58" source="YK9fg9cT_8YSmuaUv1Kp-93" target="YK9fg9cT_8YSmuaUv1Kp-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="103.33" y="190" as="sourcePoint" />
+            <mxPoint x="109.99666666666674" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-95" value="取指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="YK9fg9cT_8YSmuaUv1Kp-94">
+          <mxGeometry x="0.3283" y="-7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-96" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="YK9fg9cT_8YSmuaUv1Kp-58" source="YK9fg9cT_8YSmuaUv1Kp-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="203.33" y="185" as="sourcePoint" />
+            <mxPoint x="243.33" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-97" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="YK9fg9cT_8YSmuaUv1Kp-96">
+          <mxGeometry x="-0.045" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-93" value="执行器" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-58">
+          <mxGeometry x="133.33" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-60" value="调用帧" style="swimlane;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1000" y="2040" width="640" height="360" as="geometry" />
