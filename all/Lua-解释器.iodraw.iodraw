@@ -172,8 +172,8 @@
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-88" value="值1" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-78">
           <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-89" value="" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="1760" width="120" height="60" as="geometry" />
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-89" value="......（栈顶）" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-78">
+          <mxGeometry x="280" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
