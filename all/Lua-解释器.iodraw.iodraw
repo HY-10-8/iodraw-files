@@ -139,7 +139,7 @@
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-60" value="调用栈" style="swimlane;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="990" y="2040" width="640" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-62" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-60">
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-62" value="调用帧" style="swimlane;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-60">
           <mxGeometry x="50" y="73" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
