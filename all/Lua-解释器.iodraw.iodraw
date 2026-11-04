@@ -142,6 +142,11 @@
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-68" value="槽位1" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-60">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="YK9fg9cT_8YSmuaUv1Kp-60" source="YK9fg9cT_8YSmuaUv1Kp-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-70" value="槽位2" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-60">
           <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -152,7 +157,7 @@
           <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-74" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-60">
-          <mxGeometry x="190" y="250" width="20" height="120" as="geometry" />
+          <mxGeometry x="190" y="250" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
