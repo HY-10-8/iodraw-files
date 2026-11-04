@@ -130,6 +130,9 @@
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-77" value="当前帧" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-55">
           <mxGeometry x="200" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-91" value="C API" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-55">
+          <mxGeometry x="240" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-58" value="虚拟机执行引擎 - 寄存器" style="swimlane;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="240" y="2040" width="640" height="346" as="geometry" />
         </mxCell>
