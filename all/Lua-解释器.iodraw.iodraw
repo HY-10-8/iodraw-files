@@ -154,7 +154,7 @@
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-74" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;rotation=-90;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-60">
           <mxGeometry x="150" y="70" width="20" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-76" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-60">
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-76" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;调用帧1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-60">
           <mxGeometry x="130" y="110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
