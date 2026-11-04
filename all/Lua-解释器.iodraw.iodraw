@@ -86,10 +86,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-41" value="Lua源文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-42" value="Lua - 解释器" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="100" width="720" height="320" as="geometry" />
+          <mxGeometry x="240" y="1240" width="720" height="320" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YK9fg9cT_8YSmuaUv1Kp-42" source="YK9fg9cT_8YSmuaUv1Kp-44" target="YK9fg9cT_8YSmuaUv1Kp-46">
           <mxGeometry relative="1" as="geometry" />
