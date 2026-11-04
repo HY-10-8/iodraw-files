@@ -145,11 +145,14 @@
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-63" value="运行时槽位&lt;br&gt;存放运行时值" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-62">
           <mxGeometry x="40" y="47" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-64" value="调用帧" style="swimlane;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="2123" width="200" height="200" as="geometry" />
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-64" value="调用帧" style="swimlane;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-60">
+          <mxGeometry x="330" y="80" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-65" value="运行时槽位&lt;br&gt;存放运行时值" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-64">
           <mxGeometry x="40" y="47" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-66" value="运行时槽位&lt;br&gt;存放运行时值" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="2170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
