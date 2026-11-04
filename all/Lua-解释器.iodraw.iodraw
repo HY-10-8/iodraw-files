@@ -133,6 +133,9 @@
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-59" value="代码区" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-58">
           <mxGeometry x="40" y="66" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-60" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-58">
+          <mxGeometry x="250" y="50" width="370" height="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
