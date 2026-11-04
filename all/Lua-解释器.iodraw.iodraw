@@ -118,6 +118,9 @@
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-51" value="调用函数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-42">
           <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-53" value="虚拟机执行引擎" style="swimlane;whiteSpace=wrap;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1740" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
