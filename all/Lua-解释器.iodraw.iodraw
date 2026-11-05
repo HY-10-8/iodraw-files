@@ -311,16 +311,28 @@
           <mxGeometry x="40" y="40" width="350" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-34" value="A：8位，指向寄存器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-32">
-          <mxGeometry x="200" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-35" value="B：9位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-32">
-          <mxGeometry x="320" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-36" value="C：9位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-32">
-          <mxGeometry x="440" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-38" value="操作码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-32">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-39" value="A：8位，指向寄存器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="2970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-40" value="B：9位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-41" value="C：9位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="2970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-42" value="操作码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
