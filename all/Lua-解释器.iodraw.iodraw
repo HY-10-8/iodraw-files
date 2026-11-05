@@ -344,10 +344,10 @@
           <mxGeometry x="120" y="3360" width="720" height="400" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-48" value="CU-控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-47">
-          <mxGeometry x="240" y="52" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-49" value="ALU-运算器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-47">
-          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-50" value="寄存器" style="whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-47">
           <mxGeometry x="240" y="290" width="120" height="60" as="geometry" />
