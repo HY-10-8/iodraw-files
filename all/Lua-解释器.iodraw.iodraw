@@ -182,10 +182,10 @@
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-68" value="槽位1" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-60" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-70" value="槽位2&lt;br&gt;&lt;br&gt;c = 20" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-60" vertex="1">
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-70" value="槽位2&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b = 10&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-60" vertex="1">
           <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-73" value="槽位3" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-60" vertex="1">
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-73" value="槽位3&lt;br&gt;&lt;br&gt;&lt;div&gt;c = 20&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-60" vertex="1">
           <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-72" value="槽位4" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-60" vertex="1">
