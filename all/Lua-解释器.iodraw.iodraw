@@ -134,7 +134,7 @@
           <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-58" value="虚拟机执行引擎 - 寄存器" style="swimlane;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="280" y="2040" width="640" height="360" as="geometry" />
+          <mxGeometry x="240" y="2040" width="640" height="360" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-92" value="C API" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-58" vertex="1">
           <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
@@ -210,7 +210,7 @@
           <mxGeometry x="400" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-2" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;C函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="2440" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="2510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YK9fg9cT_8YSmuaUv1Kp-93" target="qb5oWa759Odq4NPCzoLW-6">
           <mxGeometry relative="1" as="geometry">
@@ -237,7 +237,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-6" value="全局表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="2560" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="2630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-9" value="调用栈" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="2240" width="680" height="160" as="geometry" />
@@ -264,7 +264,7 @@
           <mxGeometry x="305" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-15" value="在lua启动时创建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="2620" width="120" height="30" as="geometry" />
+          <mxGeometry x="640" y="2690" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
