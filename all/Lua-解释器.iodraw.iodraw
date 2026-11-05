@@ -356,7 +356,7 @@
           <mxGeometry x="50" y="3480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-54" value="内存" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="3360" width="510" height="490" as="geometry" />
+          <mxGeometry x="760" y="3360" width="760" height="490" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-55" value="Lua-虚拟机" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-54">
           <mxGeometry x="40" y="80" width="370" height="270" as="geometry" />
