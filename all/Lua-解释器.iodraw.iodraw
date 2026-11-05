@@ -162,7 +162,7 @@
             <mxPoint x="243.33000000000004" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-97" value="内部函数调用时，&lt;div&gt;分配调用栈&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-96" vertex="1" connectable="0">
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-97" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-96" vertex="1" connectable="0">
           <mxGeometry x="-0.045" y="2" relative="1" as="geometry">
             <mxPoint x="15" y="13" as="offset" />
           </mxGeometry>
@@ -175,7 +175,7 @@
             <mxPoint x="210" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-26" value="普通函数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qb5oWa759Odq4NPCzoLW-24">
+        <mxCell id="qb5oWa759Odq4NPCzoLW-26" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;内部函数调用时，&lt;/span&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;分配调用栈&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qb5oWa759Odq4NPCzoLW-24">
           <mxGeometry x="0.2079" y="2" relative="1" as="geometry">
             <mxPoint x="-16" y="-8" as="offset" />
           </mxGeometry>
