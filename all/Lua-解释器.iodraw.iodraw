@@ -254,7 +254,7 @@
         <mxCell id="qb5oWa759Odq4NPCzoLW-13" value="savedpc：记录这个函数当前执行到第几条字节码指令" style="whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-9">
           <mxGeometry x="400" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-14" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-9">
+        <mxCell id="qb5oWa759Odq4NPCzoLW-14" value="链接上下调用帧" style="whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-9">
           <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
