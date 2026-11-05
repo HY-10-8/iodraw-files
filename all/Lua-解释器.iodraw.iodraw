@@ -176,9 +176,14 @@
             <mxPoint x="390" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YK9fg9cT_8YSmuaUv1Kp-58" source="qb5oWa759Odq4NPCzoLW-22">
+        <mxCell id="qb5oWa759Odq4NPCzoLW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YK9fg9cT_8YSmuaUv1Kp-58" source="qb5oWa759Odq4NPCzoLW-22" target="qb5oWa759Odq4NPCzoLW-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-26" value="普通函数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qb5oWa759Odq4NPCzoLW-24">
+          <mxGeometry x="0.2079" y="2" relative="1" as="geometry">
+            <mxPoint x="-16" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-22" value="函数类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-58">
@@ -189,6 +194,9 @@
             <mxPoint x="400" y="620" as="targetPoint" />
             <mxPoint x="100" y="160" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-58">
+          <mxGeometry x="220" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-60" value="值栈" style="swimlane;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="960" y="2040" width="640" height="160" as="geometry" />
