@@ -143,7 +143,7 @@
           <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-61" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;调用栈&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-58" vertex="1">
-          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-94" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-58" source="YK9fg9cT_8YSmuaUv1Kp-93" target="YK9fg9cT_8YSmuaUv1Kp-59" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -156,21 +156,32 @@
             <mxPoint x="-30" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-96" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-58" source="YK9fg9cT_8YSmuaUv1Kp-93" target="YK9fg9cT_8YSmuaUv1Kp-61" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="203.33000000000004" y="185" as="sourcePoint" />
+            <mxPoint x="243.33000000000004" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YK9fg9cT_8YSmuaUv1Kp-97" value="内部函数调用时，&lt;div&gt;分配调用栈&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-96" vertex="1" connectable="0">
+          <mxGeometry x="-0.045" y="2" relative="1" as="geometry">
+            <mxPoint x="15" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-93" value="执行器" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-58" vertex="1">
-          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YK9fg9cT_8YSmuaUv1Kp-58" source="qb5oWa759Odq4NPCzoLW-22" target="YK9fg9cT_8YSmuaUv1Kp-61">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-26" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;内部函数调用时，&lt;/span&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;分配调用栈&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qb5oWa759Odq4NPCzoLW-24">
+        <mxCell id="qb5oWa759Odq4NPCzoLW-26" value="普通函数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qb5oWa759Odq4NPCzoLW-24">
           <mxGeometry x="0.2079" y="2" relative="1" as="geometry">
             <mxPoint x="-16" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-22" value="函数类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-58">
-          <mxGeometry x="60" y="190" width="80" height="80" as="geometry" />
+          <mxGeometry x="60" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YK9fg9cT_8YSmuaUv1Kp-58" source="YK9fg9cT_8YSmuaUv1Kp-93" target="qb5oWa759Odq4NPCzoLW-22">
           <mxGeometry relative="1" as="geometry">
