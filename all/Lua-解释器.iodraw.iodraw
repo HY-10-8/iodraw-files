@@ -176,6 +176,15 @@
             <mxPoint x="390" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-22" value="函数类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-58">
+          <mxGeometry x="60" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YK9fg9cT_8YSmuaUv1Kp-58" source="YK9fg9cT_8YSmuaUv1Kp-93" target="qb5oWa759Odq4NPCzoLW-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="620" as="targetPoint" />
+            <mxPoint x="100" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-60" value="值栈" style="swimlane;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="960" y="2040" width="640" height="160" as="geometry" />
         </mxCell>
@@ -265,15 +274,6 @@
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-15" value="在lua启动时创建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="2690" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YK9fg9cT_8YSmuaUv1Kp-93" target="qb5oWa759Odq4NPCzoLW-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="2660" as="targetPoint" />
-            <mxPoint x="340" y="2200" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-22" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="2260" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
