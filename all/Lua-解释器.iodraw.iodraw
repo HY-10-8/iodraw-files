@@ -310,7 +310,7 @@
         <mxCell id="qb5oWa759Odq4NPCzoLW-33" value="Lua 的每条指令通常是一个固定宽度的 &lt;b data-path-to-node=&quot;8&quot; data-index-in-node=&quot;20&quot; class=&quot;&quot;&gt;32 位无符号整数：&lt;br&gt;iABC格式、iABx格式、iAsBx格式&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-32">
           <mxGeometry x="40" y="40" width="350" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-34" value="A：操作码，8位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-32">
+        <mxCell id="qb5oWa759Odq4NPCzoLW-34" value="A：8位，指向寄存器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-32">
           <mxGeometry x="200" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-35" value="B：9位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-32">
@@ -319,7 +319,7 @@
         <mxCell id="qb5oWa759Odq4NPCzoLW-36" value="C：9位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-32">
           <mxGeometry x="440" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-32">
+        <mxCell id="qb5oWa759Odq4NPCzoLW-38" value="操作码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-32">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
