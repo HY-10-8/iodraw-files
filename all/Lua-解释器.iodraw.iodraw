@@ -292,6 +292,12 @@
         <mxCell id="qb5oWa759Odq4NPCzoLW-15" value="在lua启动时创建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="2690" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YK9fg9cT_8YSmuaUv1Kp-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="2270" as="sourcePoint" />
+            <mxPoint x="950" y="2220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
