@@ -334,7 +334,7 @@
         <mxCell id="qb5oWa759Odq4NPCzoLW-43" value="A：8位，指向寄存器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-32">
           <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-44" value="B：18位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-32">
+        <mxCell id="qb5oWa759Odq4NPCzoLW-44" value="B：18位，有符号操作数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-32">
           <mxGeometry x="280" y="280" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-46" value="操作码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-32">
