@@ -341,7 +341,7 @@
           <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-47" value="CPU" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="3308" width="200" height="212" as="geometry" />
+          <mxGeometry x="150" y="3360" width="200" height="212" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-48" value="CU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-47">
           <mxGeometry x="20" y="52" width="120" height="60" as="geometry" />
