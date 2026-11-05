@@ -134,7 +134,7 @@
           <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-58" value="虚拟机执行引擎 - 寄存器" style="swimlane;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="240" y="2040" width="640" height="360" as="geometry" />
+          <mxGeometry x="280" y="2040" width="640" height="360" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-92" value="C API" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-58" vertex="1">
           <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
@@ -170,7 +170,7 @@
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-93" value="执行器" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-58" vertex="1">
           <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YK9fg9cT_8YSmuaUv1Kp-58" source="YK9fg9cT_8YSmuaUv1Kp-61" target="YK9fg9cT_8YSmuaUv1Kp-92">
+        <mxCell id="qb5oWa759Odq4NPCzoLW-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="YK9fg9cT_8YSmuaUv1Kp-58" source="YK9fg9cT_8YSmuaUv1Kp-61" target="YK9fg9cT_8YSmuaUv1Kp-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="160" as="sourcePoint" />
             <mxPoint x="390" y="110" as="targetPoint" />
