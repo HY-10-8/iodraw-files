@@ -137,13 +137,13 @@
           <mxGeometry x="240" y="2040" width="640" height="360" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-92" value="C API" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-58" vertex="1">
-          <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-59" value="函数原型 Proto：字节码、常量" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-58" vertex="1">
           <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-61" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;值栈&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-58" vertex="1">
-          <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-94" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-58" source="YK9fg9cT_8YSmuaUv1Kp-93" target="YK9fg9cT_8YSmuaUv1Kp-59" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
