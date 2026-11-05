@@ -364,8 +364,11 @@
         <mxCell id="qb5oWa759Odq4NPCzoLW-56" value="执行器" style="whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-55">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-57" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="3490" width="120" height="60" as="geometry" />
+        <mxCell id="qb5oWa759Odq4NPCzoLW-57" value="函数原型 Proto：字节码、常量" style="whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-55">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-58" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="3610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
