@@ -257,11 +257,11 @@
         <mxCell id="qb5oWa759Odq4NPCzoLW-14" value="链接上下调用帧" style="whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-9">
           <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-9">
+          <mxGeometry x="90" width="20" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="2620" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="2420" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
