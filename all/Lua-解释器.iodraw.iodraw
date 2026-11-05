@@ -177,7 +177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-60" value="值栈" style="swimlane;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="2040" width="640" height="160" as="geometry" />
+          <mxGeometry x="960" y="2040" width="640" height="160" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-68" value="槽位1&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;b = 10&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-60" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
@@ -192,7 +192,7 @@
           <mxGeometry x="400" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-78" value="调用帧" style="swimlane;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="1640" width="640" height="360" as="geometry" />
+          <mxGeometry x="960" y="1640" width="640" height="360" as="geometry" />
         </mxCell>
         <mxCell id="YK9fg9cT_8YSmuaUv1Kp-86" value="局部变量表" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="YK9fg9cT_8YSmuaUv1Kp-78" vertex="1">
           <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
@@ -240,7 +240,7 @@
           <mxGeometry x="640" y="2560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-9" value="调用栈" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="2240" width="680" height="160" as="geometry" />
+          <mxGeometry x="960" y="2240" width="680" height="160" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-10" value="func：指向该函数自身在值栈中的位置" style="whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-9">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
