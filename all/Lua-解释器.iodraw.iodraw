@@ -299,7 +299,7 @@
             <mxPoint x="950" y="2220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-31" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qb5oWa759Odq4NPCzoLW-30">
+        <mxCell id="qb5oWa759Odq4NPCzoLW-31" value="传递参数、返回结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qb5oWa759Odq4NPCzoLW-30">
           <mxGeometry x="0.0519" y="2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
