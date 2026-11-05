@@ -355,7 +355,7 @@
         <mxCell id="qb5oWa759Odq4NPCzoLW-53" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="3480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-54" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qb5oWa759Odq4NPCzoLW-54" value="内存" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="3360" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
