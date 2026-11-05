@@ -181,7 +181,7 @@
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-26" value="普通函数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qb5oWa759Odq4NPCzoLW-24">
           <mxGeometry x="0.2079" y="2" relative="1" as="geometry">
-            <mxPoint x="-16" y="-8" as="offset" />
+            <mxPoint x="2" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-22" value="函数类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="YK9fg9cT_8YSmuaUv1Kp-58">
@@ -232,7 +232,7 @@
           <mxGeometry x="400" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-2" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;C函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="2510" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="2480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qb5oWa759Odq4NPCzoLW-22" target="qb5oWa759Odq4NPCzoLW-6">
           <mxGeometry relative="1" as="geometry">
@@ -264,7 +264,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-6" value="全局表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="2630" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="2600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-9" value="调用栈" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="2240" width="680" height="160" as="geometry" />
@@ -291,12 +291,17 @@
           <mxGeometry x="305" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-15" value="在lua启动时创建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="2690" width="120" height="30" as="geometry" />
+          <mxGeometry x="640" y="2660" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YK9fg9cT_8YSmuaUv1Kp-92" target="YK9fg9cT_8YSmuaUv1Kp-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="900" y="2270" as="sourcePoint" />
             <mxPoint x="950" y="2220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-31" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qb5oWa759Odq4NPCzoLW-30">
+          <mxGeometry x="0.0519" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
