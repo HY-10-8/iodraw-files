@@ -390,10 +390,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-174" value="AST化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="4040" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="4040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-176" value="翻译成字节码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="4040" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="4040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
