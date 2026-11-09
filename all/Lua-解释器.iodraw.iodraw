@@ -392,11 +392,16 @@
         <mxCell id="qb5oWa759Odq4NPCzoLW-174" value="AST化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="4040" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qb5oWa759Odq4NPCzoLW-176" target="qb5oWa759Odq4NPCzoLW-177">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="4070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-176" value="翻译成字节码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="4040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-177" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="4040" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="4040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
