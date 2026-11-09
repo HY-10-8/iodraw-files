@@ -406,7 +406,7 @@
         <mxCell id="qb5oWa759Odq4NPCzoLW-179" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="4160" width="440" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-180" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-179">
+        <mxCell id="qb5oWa759Odq4NPCzoLW-180" value="取指" style="whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-179">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
