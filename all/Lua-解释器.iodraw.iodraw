@@ -427,6 +427,9 @@
         <mxCell id="qb5oWa759Odq4NPCzoLW-186" value="创建运行环境" style="whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-179">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-199" value="内存分配、回收" style="whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-179">
+          <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-188" value="运行环境" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="4160" width="200" height="300" as="geometry" />
         </mxCell>
@@ -462,6 +465,9 @@
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-198" value="&lt;div&gt;local function add(a, b)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; local sum = a + b&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; return sum&lt;/div&gt;&lt;div&gt;end&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;local result = add(2, 3)&lt;/div&gt;&lt;div&gt;print(result)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="80" y="4519" width="160" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-200" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="4608" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
