@@ -463,12 +463,12 @@
         <mxCell id="qb5oWa759Odq4NPCzoLW-197" value="字节码数组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="3880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qb5oWa759Odq4NPCzoLW-198" target="qb5oWa759Odq4NPCzoLW-201">
+        <mxCell id="qb5oWa759Odq4NPCzoLW-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.101;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qb5oWa759Odq4NPCzoLW-198" target="qb5oWa759Odq4NPCzoLW-201">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-203" value="转成字节码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qb5oWa759Odq4NPCzoLW-202">
           <mxGeometry x="-0.7057" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="-17" as="offset" />
+            <mxPoint x="43" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-198" value="&lt;div&gt;local function add(a, b)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; local sum = a + b&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; return sum&lt;/div&gt;&lt;div&gt;end&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;local result = add(2, 3)&lt;/div&gt;&lt;div&gt;print(result)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
