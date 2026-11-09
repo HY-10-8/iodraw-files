@@ -436,7 +436,7 @@
         <mxCell id="qb5oWa759Odq4NPCzoLW-191" value="全局表" style="whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-188">
           <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-192" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="qb5oWa759Odq4NPCzoLW-188">
+        <mxCell id="qb5oWa759Odq4NPCzoLW-192" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="qb5oWa759Odq4NPCzoLW-188" target="qb5oWa759Odq4NPCzoLW-186">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="4480" as="sourcePoint" />
             <mxPoint x="510" y="4440" as="targetPoint" />
