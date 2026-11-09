@@ -384,6 +384,11 @@
         <mxCell id="qb5oWa759Odq4NPCzoLW-172" value="lua脚本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="4040" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qb5oWa759Odq4NPCzoLW-174">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="4070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-174" value="AST化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="4040" width="120" height="60" as="geometry" />
         </mxCell>
