@@ -461,7 +461,7 @@
           <mxGeometry x="480" y="3880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-198" value="&lt;div&gt;local function add(a, b)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; local sum = a + b&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; return sum&lt;/div&gt;&lt;div&gt;end&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;local result = add(2, 3)&lt;/div&gt;&lt;div&gt;print(result)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="80" y="4519" width="160" height="141" as="geometry" />
+          <mxGeometry x="80" y="4519" width="160" height="121" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
