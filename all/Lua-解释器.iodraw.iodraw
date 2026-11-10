@@ -480,7 +480,7 @@
         <mxCell id="qb5oWa759Odq4NPCzoLW-204" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="3920" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qb5oWa759Odq4NPCzoLW-205" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qb5oWa759Odq4NPCzoLW-205" value="Proto" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="5520" width="200" height="320" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-206" value="字节码数组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-205">
