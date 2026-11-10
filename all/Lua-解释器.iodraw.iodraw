@@ -481,7 +481,10 @@
           <mxGeometry x="920" y="3920" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-205" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="5510" width="200" height="200" as="geometry" />
+          <mxGeometry x="280" y="5520" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-206" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-205">
+          <mxGeometry x="50" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
