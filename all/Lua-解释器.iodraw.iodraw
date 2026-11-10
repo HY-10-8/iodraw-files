@@ -481,10 +481,13 @@
           <mxGeometry x="920" y="3920" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-205" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="5520" width="220" height="280" as="geometry" />
+          <mxGeometry x="280" y="5520" width="200" height="320" as="geometry" />
         </mxCell>
         <mxCell id="qb5oWa759Odq4NPCzoLW-206" value="字节码数组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-205">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qb5oWa759Odq4NPCzoLW-207" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="qb5oWa759Odq4NPCzoLW-205">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
