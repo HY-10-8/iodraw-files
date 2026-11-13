@@ -545,8 +545,14 @@
         <mxCell id="2_fHLFy5Y5qS7gs1H-N6-15" value="解释语言" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="6160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2_fHLFy5Y5qS7gs1H-N6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_fHLFy5Y5qS7gs1H-N6-16" target="2_fHLFy5Y5qS7gs1H-N6-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2_fHLFy5Y5qS7gs1H-N6-16" value="AST化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="6160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_fHLFy5Y5qS7gs1H-N6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_fHLFy5Y5qS7gs1H-N6-17" target="2_fHLFy5Y5qS7gs1H-N6-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2_fHLFy5Y5qS7gs1H-N6-17" value="字节码化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="6160" width="120" height="60" as="geometry" />
@@ -565,6 +571,9 @@
         </mxCell>
         <mxCell id="2_fHLFy5Y5qS7gs1H-N6-23" value="虚拟机，且本身虚拟就就是C写的，已经提前经历了C-&amp;gt;汇编指令-&amp;gt;机器码的阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="305" y="6278" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_fHLFy5Y5qS7gs1H-N6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_fHLFy5Y5qS7gs1H-N6-15" target="2_fHLFy5Y5qS7gs1H-N6-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
