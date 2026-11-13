@@ -539,8 +539,11 @@
         <mxCell id="2_fHLFy5Y5qS7gs1H-N6-13" value="汇编" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="5930" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2_fHLFy5Y5qS7gs1H-N6-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2_fHLFy5Y5qS7gs1H-N6-14" value="其中" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="6080" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2_fHLFy5Y5qS7gs1H-N6-15" value="解释语言" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="5970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
