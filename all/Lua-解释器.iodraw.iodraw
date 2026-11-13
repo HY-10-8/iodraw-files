@@ -510,7 +510,7 @@
         <mxCell id="2_fHLFy5Y5qS7gs1H-N6-4" value="Lua" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="5930" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2_fHLFy5Y5qS7gs1H-N6-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2_fHLFy5Y5qS7gs1H-N6-7" value="C语言" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="5930" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
