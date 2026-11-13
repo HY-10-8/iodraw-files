@@ -519,6 +519,11 @@
             <mxPoint x="670" y="5990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2_fHLFy5Y5qS7gs1H-N6-12" value="机器码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2_fHLFy5Y5qS7gs1H-N6-8">
+          <mxGeometry x="-0.05" y="3" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2_fHLFy5Y5qS7gs1H-N6-3" value="汇编编译器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="5960" width="120" height="60" as="geometry" />
         </mxCell>
@@ -530,6 +535,9 @@
         </mxCell>
         <mxCell id="2_fHLFy5Y5qS7gs1H-N6-9" value="CPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="5960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_fHLFy5Y5qS7gs1H-N6-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="5930" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
