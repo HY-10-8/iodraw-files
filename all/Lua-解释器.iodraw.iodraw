@@ -506,6 +506,11 @@
         <mxCell id="2_fHLFy5Y5qS7gs1H-N6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_fHLFy5Y5qS7gs1H-N6-2" target="2_fHLFy5Y5qS7gs1H-N6-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2_fHLFy5Y5qS7gs1H-N6-11" value="汇编指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2_fHLFy5Y5qS7gs1H-N6-6">
+          <mxGeometry x="-0.075" y="3" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2_fHLFy5Y5qS7gs1H-N6-2" value="解释器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="5960" width="120" height="60" as="geometry" />
         </mxCell>
