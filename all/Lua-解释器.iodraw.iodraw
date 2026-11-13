@@ -495,6 +495,11 @@
         <mxCell id="2_fHLFy5Y5qS7gs1H-N6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2_fHLFy5Y5qS7gs1H-N6-1" target="2_fHLFy5Y5qS7gs1H-N6-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2_fHLFy5Y5qS7gs1H-N6-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2_fHLFy5Y5qS7gs1H-N6-5">
+          <mxGeometry x="0.05" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2_fHLFy5Y5qS7gs1H-N6-1" value="解释语言" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="5960" width="120" height="60" as="geometry" />
         </mxCell>
@@ -518,7 +523,7 @@
         <mxCell id="2_fHLFy5Y5qS7gs1H-N6-7" value="C语言" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="5930" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2_fHLFy5Y5qS7gs1H-N6-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2_fHLFy5Y5qS7gs1H-N6-9" value="CPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="5960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
