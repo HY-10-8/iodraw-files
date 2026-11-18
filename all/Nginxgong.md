@@ -1,0 +1,14 @@
+```mermaid
+sequenceDiagram
+    participant 客户端
+    participant Nginx
+    participant 后端
+    Nginx->>+Nginx: 1、初始化
+    客户端->>+Nginx: 2、发送请求
+    Nginx->>+Nginx: 分析请求并处理
+    Nginx-->>-后端: 转发请求
+    后端->>+后端: 处理请求后返回信息
+    后端->>+Nginx: 返回信息
+    Nginx->>+Nginx: 分析请求并处理
+    Nginx->>客户端: 返回信息
+```
