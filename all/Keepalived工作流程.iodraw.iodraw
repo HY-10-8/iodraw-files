@@ -24,8 +24,8 @@
         <mxCell id="FOFG5fY4hC_wzvkhwX1C-10" value="服务器B" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FOFG5fY4hC_wzvkhwX1C-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-13" value="通过VRRP选主" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="840" y="228" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
