@@ -9,29 +9,29 @@
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" target="X-h-Y5wg-1FgEsjnu-qM-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1400" y="595.1666666666667" as="targetPoint" />
-            <mxPoint x="1292" y="632.5" as="sourcePoint" />
+            <mxPoint x="1399" y="593.1666666666667" as="targetPoint" />
+            <mxPoint x="1291" y="630.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-3" value="初始化事件队列" style="swimlane;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="1076" y="498" width="200" height="291" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-4" value="接收事件队列" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="X-h-Y5wg-1FgEsjnu-qM-3">
-          <mxGeometry x="48" y="27" width="120" height="60" as="geometry" />
+          <mxGeometry x="47" y="25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-5" value="普通事件队列" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="X-h-Y5wg-1FgEsjnu-qM-3">
-          <mxGeometry x="48" y="114" width="120" height="60" as="geometry" />
+          <mxGeometry x="47" y="112" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-6" value="下一轮事件队列" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="X-h-Y5wg-1FgEsjnu-qM-3">
-          <mxGeometry x="48" y="201" width="120" height="60" as="geometry" />
+          <mxGeometry x="47" y="199" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="X-h-Y5wg-1FgEsjnu-qM-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1076" y="632.5" as="targetPoint" />
+            <mxPoint x="1075" y="630.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-8" value="创建并完成注册监听的子进程" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="888" y="602.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="887" y="600.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-9" value="1. 事件对象：子进程内存中 保存 一个事件怎么处理，先注释什么状态的记录，其中包含：关联数据引用，处理函数，读写类型，状态标记，超时信息等数据；&lt;br&gt;&lt;br&gt;2. 三个队列：&lt;br&gt;&amp;nbsp;接收事件队列：执行接收新连接事件；&lt;br&gt;&amp;nbsp;普通事件队列：已有连接的读取，发送等事件；&lt;br&gt;&amp;nbsp;下一轮队列：需要下一轮推进的事件；" style="whiteSpace=wrap;html=1;hachureGap=4;align=left;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1058.5" y="200" width="235" height="159.5" as="geometry" />
@@ -43,7 +43,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-12" value="初始化超时管理结构" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="1368" y="602.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1355" y="600.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-13" value="1. 建立计时结构：一颗红黑树，记录按到期时间排列的事件清单，主要管理事件相关的等待是否超时；&lt;br&gt;&lt;br&gt;2. 到期时间 = 当前时间（单调时钟：linux中，系统启动时就开始运行的一只公共秒表） + 允许等待时长；&lt;br&gt;&lt;br&gt;3. 不同的事件，到期之后处理逻辑不一样，例如事件：客户端上传数据，处理为“结束超时的请求”" style="whiteSpace=wrap;html=1;hachureGap=4;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1317" y="204" width="278" height="155.5" as="geometry" />
@@ -55,35 +55,35 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-16" value="创建通知实例" style="whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="1568" y="602.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1559.5" y="600.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-17" value="子进程先在内核中创建通知实例，再向其中登记监听套接字，登记时内核会将对应等待项加入该监听套接字的等待队列。" style="whiteSpace=wrap;html=1;hachureGap=4;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="460" width="221" height="53" as="geometry" />
+          <mxGeometry x="1509" y="458" width="221" height="53" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="X-h-Y5wg-1FgEsjnu-qM-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1821.9999999999995" y="521" as="targetPoint" />
+            <mxPoint x="1820.9999999999995" y="519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-19" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="X-h-Y5wg-1FgEsjnu-qM-20" target="X-h-Y5wg-1FgEsjnu-qM-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-20" value="初始化事件对象与连接管理对象" style="whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="1762" y="602.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1761" y="600.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-21" value="初始化事件对象和连接管理对象槽位，方便后续写入，具体槽位数量由参数：worker_connections控制，默认1024个" style="whiteSpace=wrap;html=1;hachureGap=4;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1726" y="440" width="176" height="84" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="X-h-Y5wg-1FgEsjnu-qM-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2067.999999999999" y="508.0000000000002" as="targetPoint" />
+            <mxPoint x="2066.999999999999" y="506.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="X-h-Y5wg-1FgEsjnu-qM-24" target="X-h-Y5wg-1FgEsjnu-qM-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-24" value="存储共享监听入口" style="whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="2008" y="602.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="2007" y="600.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-25" value="Nginx把每个子进程的监听入口作为一个对象存储于第一个连接对象中，包含相关的：监听套接字编号、读写事件引用等管理信息" style="whiteSpace=wrap;html=1;hachureGap=4;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1964.5" y="440" width="191" height="71" as="geometry" />
@@ -92,18 +92,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-27" value="设置接收处理函数" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="2208" y="602.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="2207" y="600.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-28" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="X-h-Y5wg-1FgEsjnu-qM-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2468" y="534.5" as="targetPoint" />
+            <mxPoint x="2467" y="532.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-29" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="X-h-Y5wg-1FgEsjnu-qM-30" target="X-h-Y5wg-1FgEsjnu-qM-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-30" value="&lt;span&gt;在通知实例中登记&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="2408" y="602.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="2407" y="600.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-31" value="1. 在指定的通知实例中建立监听观察记录，并把对应等待项挂到共享监听套接字的等待队列上；&lt;br&gt;&lt;br&gt;2. 登记之后，操作系统会返回一个标记给子进程" style="whiteSpace=wrap;html=1;hachureGap=4;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2356.5" y="426.5" width="207" height="111" as="geometry" />
@@ -114,7 +114,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-33" value="初始化完成等待事件" style="whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="2648" y="602.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="2647" y="600.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-34" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="X-h-Y5wg-1FgEsjnu-qM-36" target="X-h-Y5wg-1FgEsjnu-qM-37">
           <mxGeometry relative="1" as="geometry" />
