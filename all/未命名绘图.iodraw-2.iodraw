@@ -105,7 +105,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-33" value="初始化完成等待事件" style="whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="2608" y="611" width="120" height="60" as="geometry" />
+          <mxGeometry x="2640" y="613.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-34" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="X-h-Y5wg-1FgEsjnu-qM-36" target="X-h-Y5wg-1FgEsjnu-qM-37">
           <mxGeometry relative="1" as="geometry" />
