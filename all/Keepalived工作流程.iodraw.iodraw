@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-34" value="正常情况" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="760" height="320" as="geometry" />
+        </mxCell>
         <mxCell id="FOFG5fY4hC_wzvkhwX1C-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FOFG5fY4hC_wzvkhwX1C-1" target="FOFG5fY4hC_wzvkhwX1C-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="230" as="targetPoint" />
@@ -76,9 +79,6 @@
         </mxCell>
         <mxCell id="FOFG5fY4hC_wzvkhwX1C-31" value="宕机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="720" y="490" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FOFG5fY4hC_wzvkhwX1C-34" value="正常情况" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="760" height="320" as="geometry" />
         </mxCell>
         <mxCell id="FOFG5fY4hC_wzvkhwX1C-35" value="A服务器宕机后，备用服务器接管VIP，成为主服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="80" y="440" width="760" height="320" as="geometry" />
