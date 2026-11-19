@@ -24,6 +24,9 @@
         <mxCell id="FOFG5fY4hC_wzvkhwX1C-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="FOFG5fY4hC_wzvkhwX1C-8" target="FOFG5fY4hC_wzvkhwX1C-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FOFG5fY4hC_wzvkhwX1C-8" target="FOFG5fY4hC_wzvkhwX1C-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FOFG5fY4hC_wzvkhwX1C-8" value="服务器A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -32,12 +35,6 @@
         </mxCell>
         <mxCell id="FOFG5fY4hC_wzvkhwX1C-13" value="通过VRRP选主" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="660" y="210" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FOFG5fY4hC_wzvkhwX1C-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FOFG5fY4hC_wzvkhwX1C-8" target="FOFG5fY4hC_wzvkhwX1C-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="120" as="sourcePoint" />
-            <mxPoint x="540" y="70" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="FOFG5fY4hC_wzvkhwX1C-17" value="通过ARP协议实现虚拟IP映射" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="118" width="180" height="30" as="geometry" />
