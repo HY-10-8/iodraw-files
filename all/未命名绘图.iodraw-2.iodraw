@@ -76,10 +76,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-24" value="存储共享监听入口" style="whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="1986" y="613.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="2000" y="613.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-25" value="Nginx把每个子进程的监听入口作为一个对象存储于第一个连接对象中，包含相关的：监听套接字编号、读写事件引用等管理信息" style="whiteSpace=wrap;html=1;hachureGap=4;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1950.5" y="442" width="191" height="71" as="geometry" />
+          <mxGeometry x="1964.5" y="440" width="191" height="71" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-26" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="X-h-Y5wg-1FgEsjnu-qM-27" target="X-h-Y5wg-1FgEsjnu-qM-30">
           <mxGeometry relative="1" as="geometry" />
