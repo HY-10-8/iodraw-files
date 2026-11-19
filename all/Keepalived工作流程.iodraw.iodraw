@@ -39,6 +39,41 @@
         <mxCell id="FOFG5fY4hC_wzvkhwX1C-19" value="主服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="715" y="128" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FOFG5fY4hC_wzvkhwX1C-21" target="FOFG5fY4hC_wzvkhwX1C-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-21" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FOFG5fY4hC_wzvkhwX1C-23" target="FOFG5fY4hC_wzvkhwX1C-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-23" value="网络" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="FOFG5fY4hC_wzvkhwX1C-26" target="FOFG5fY4hC_wzvkhwX1C-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FOFG5fY4hC_wzvkhwX1C-26" target="FOFG5fY4hC_wzvkhwX1C-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-26" value="服务器A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-27" value="服务器B" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-28" value="通过&amp;nbsp;&lt;b&gt;VRRP&amp;nbsp;&lt;/b&gt;选主、主备切换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="570" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-29" value="通过&amp;nbsp;&lt;b&gt;ARP&amp;nbsp;&lt;/b&gt;协议实现虚拟IP映射" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="430" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-30" value="主服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="720" y="650" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
