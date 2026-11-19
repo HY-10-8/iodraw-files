@@ -40,7 +40,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-12" value="初始化超时管理结构" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="1353" y="613.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1360" y="613.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-13" value="1. 建立计时结构：一颗红黑树，记录按到期时间排列的事件清单，主要管理事件相关的等待是否超时；&lt;br&gt;&lt;br&gt;2. 到期时间 = 当前时间（单调时钟：linux中，系统启动时就开始运行的一只公共秒表） + 允许等待时长；&lt;br&gt;&lt;br&gt;3. 不同的事件，到期之后处理逻辑不一样，例如事件：客户端上传数据，处理为“结束超时的请求”" style="whiteSpace=wrap;html=1;hachureGap=4;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1317" y="204" width="278" height="155.5" as="geometry" />
@@ -64,10 +64,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-20" value="初始化事件对象与连接管理对象" style="whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="1768" y="613.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1754" y="613.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-21" value="初始化事件对象和连接管理对象槽位，方便后续写入，具体槽位数量由参数：worker_connections控制，默认1024个" style="whiteSpace=wrap;html=1;hachureGap=4;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="440" width="176" height="84" as="geometry" />
+          <mxGeometry x="1726" y="440" width="176" height="84" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="X-h-Y5wg-1FgEsjnu-qM-24" target="X-h-Y5wg-1FgEsjnu-qM-25">
           <mxGeometry relative="1" as="geometry" />
