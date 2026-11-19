@@ -74,8 +74,11 @@
         <mxCell id="FOFG5fY4hC_wzvkhwX1C-30" value="主服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="650" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FOFG5fY4hC_wzvkhwX1C-31" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-31" value="宕机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="720" y="490" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-32" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
