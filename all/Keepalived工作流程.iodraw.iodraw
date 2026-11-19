@@ -18,7 +18,7 @@
         <mxCell id="FOFG5fY4hC_wzvkhwX1C-6" value="网络" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FOFG5fY4hC_wzvkhwX1C-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="FOFG5fY4hC_wzvkhwX1C-8" target="FOFG5fY4hC_wzvkhwX1C-10">
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="FOFG5fY4hC_wzvkhwX1C-8" target="FOFG5fY4hC_wzvkhwX1C-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FOFG5fY4hC_wzvkhwX1C-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FOFG5fY4hC_wzvkhwX1C-8" target="FOFG5fY4hC_wzvkhwX1C-6">
@@ -34,7 +34,7 @@
           <mxGeometry x="660" y="210" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FOFG5fY4hC_wzvkhwX1C-17" value="通过&amp;nbsp;&lt;b&gt;ARP&amp;nbsp;&lt;/b&gt;协议实现虚拟IP映射" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="70" width="190" height="30" as="geometry" />
+          <mxGeometry x="450" y="70" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FOFG5fY4hC_wzvkhwX1C-19" value="主服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="130" width="70" height="30" as="geometry" />
