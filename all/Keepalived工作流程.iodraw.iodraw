@@ -39,8 +39,8 @@
             <mxPoint x="540" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOFG5fY4hC_wzvkhwX1C-17" value="通过ARP协议" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="118" width="100" height="30" as="geometry" />
+        <mxCell id="FOFG5fY4hC_wzvkhwX1C-17" value="通过ARP协议实现虚拟IP映射" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="118" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
