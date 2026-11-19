@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-3" value="初始化事件队列" style="swimlane;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="1076" y="498" width="200" height="291" as="geometry" />
+          <mxGeometry x="1084" y="498" width="200" height="291" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-4" value="接收事件队列" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="X-h-Y5wg-1FgEsjnu-qM-3">
           <mxGeometry x="47" y="25" width="120" height="60" as="geometry" />
@@ -34,7 +34,7 @@
           <mxGeometry x="887" y="600.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-9" value="1. 事件对象：子进程内存中 保存 一个事件怎么处理，先注释什么状态的记录，其中包含：关联数据引用，处理函数，读写类型，状态标记，超时信息等数据；&lt;br&gt;&lt;br&gt;2. 三个队列：&lt;br&gt;&amp;nbsp;接收事件队列：执行接收新连接事件；&lt;br&gt;&amp;nbsp;普通事件队列：已有连接的读取，发送等事件；&lt;br&gt;&amp;nbsp;下一轮队列：需要下一轮推进的事件；" style="whiteSpace=wrap;html=1;hachureGap=4;align=left;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1058.5" y="200" width="235" height="159.5" as="geometry" />
+          <mxGeometry x="1058.5" y="206" width="235" height="159.5" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="X-h-Y5wg-1FgEsjnu-qM-12" target="X-h-Y5wg-1FgEsjnu-qM-13">
           <mxGeometry relative="1" as="geometry" />
