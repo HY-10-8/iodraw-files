@@ -78,7 +78,9 @@
           <mxGeometry x="720" y="490" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FOFG5fY4hC_wzvkhwX1C-32" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="200" height="200" as="geometry" />
+          <mxGeometry x="40" y="40" width="800" height="360" as="geometry">
+            <mxRectangle x="40" y="40" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
