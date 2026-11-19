@@ -52,7 +52,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-16" value="创建通知实例" style="whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="1554" y="613.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1560" y="613.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-h-Y5wg-1FgEsjnu-qM-17" value="子进程先在内核中创建通知实例，再向其中登记监听套接字，登记时内核会将对应等待项加入该监听套接字的等待队列。" style="whiteSpace=wrap;html=1;hachureGap=4;fontStyle=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1502" y="471" width="221" height="53" as="geometry" />
